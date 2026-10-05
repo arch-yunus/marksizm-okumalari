@@ -40,12 +40,13 @@ Bu repo; 19. yüzyılda **Karl Marx** ve **Friedrich Engels** tarafından kurams
 6. [⚠️ Marksizmin Eksikleri, Kuramsal Kör Noktaları ve Eleştirel Alıntılar](#️-marksizmin-eksikleri-kuramsal-kör-noktaları-ve-eleştirel-alıntılar)
 7. [🌍 Marksizm Uygulandı mı, Uygulanıyor mu? (Reel Sosyalizm Bilançosu)](#-marksizm-uygulandı-mı-uygulanıyor-mu-reel-sosyalizm-bilançosu)
 8. [🌌 Metafizik Felsefesi, Ontoloji ve Bilincin Hakikati](#-metafizik-felsefesi-ontoloji-ve-bilincin-hakikati)
-9. [📐 Ekonomi Politiğin Matematiksel ve Kavramsal Formülasyonları](#-ekonomi-politiğin-matematiksel-ve-kavramsal-formülasyonları)
-10. [📚 Yapılandırılmış Okuma Kılavuzu (Pedagojik Seviyeler ve Tematik Rotalar)](#-yapılandırılmış-okuma-kılavuzu-pedagojik-seviyeler-ve-tematik-rotalar)
-11. [⚖️ Eleştiriler, Açmazlar ve Karşı-Tezler Matrisi](#️-eleştiriler-açmazlar-ve-karşı-tezler-matrisi)
-12. [📁 Modüler Dokümantasyon ve Kapsamlı Alt Kılavuzlar](#-modüler-dokümantasyon-ve-kapsamlı-alt-kılavuzlar)
-13. [🌐 Dijital Kütüphaneler, Akademik Dergiler ve Açık Arşivler](#-dijital-kütüphaneler-akademik-dergiler-ve-açık-arşivler)
-14. [🤝 Katkıda Bulunma Standartları ve Lisans](#-katkıda-bulunma-standartları-ve-lisans)
+9. [⚖️ Tevhid, Adalet ve Küresel Sermaye Eleştirisi (Maneviyat ve İktisat)](#-tevhid-adalet-ve-küresel-sermaye-eleştirisi-maneviyat-ve-iktisat)
+10. [📐 Ekonomi Politiğin Matematiksel ve Kavramsal Formülasyonları](#-ekonomi-politiğin-matematiksel-ve-kavramsal-formülasyonları)
+11. [📚 Yapılandırılmış Okuma Kılavuzu (Pedagojik Seviyeler ve Tematik Rotalar)](#-yapılandırılmış-okuma-kılavuzu-pedagojik-seviyeler-ve-tematik-rotalar)
+12. [⚖️ Eleştiriler, Açmazlar ve Karşı-Tezler Matrisi](#️-eleştiriler-açmazlar-ve-karşı-tezler-matrisi)
+13. [📁 Modüler Dokümantasyon ve Kapsamlı Alt Kılavuzlar](#-modüler-dokümantasyon-ve-kapsamlı-alt-kılavuzlar)
+14. [🌐 Dijital Kütüphaneler, Akademik Dergiler ve Açık Arşivler](#-dijital-kütüphaneler-akademik-dergiler-ve-açık-arşivler)
+15. [🤝 Katkıda Bulunma Standartları ve Lisans](#-katkıda-bulunma-standartları-ve-lisans)
 
 ---
 
@@ -590,6 +591,39 @@ Metafizik (*Fiziğin Ötesi / İlk Felsefe*); varlığın kökenini, bilincin do
 
 ---
 
+## ⚖️ Tevhid, Adalet ve Küresel Sermaye Eleştirisi (Maneviyat ve İktisat)
+
+İslam düşüncesi; hem kapitalizmin vahşi piyasa fetişizmini ve faiz sömürüsünü, hem de 20. yüzyıl sosyalizminin ruhsuz kaba materyalizmini aşan, **madde ile manayı, adalet ile Tevhid'i** birleştiren bütüncül bir nizam sunar.
+
+### 🏛️ Dört Temel İktisadi ve Manevi İlke:
+1. **Tevhid ve Tağutun Reddi:** *"Lâ ilâhe illallâh"* şiarı; yalnızca teolojik bir iman değil, paraya, sermayeye ve diktatörlere tapınmayı kökten reddeden devrimci bir haysiyet manifestosudur.
+2. **Servet Tekelinin Yasaklanması (Haşr Suresi, 7):** *"Servet, içinizden yalnızca zenginler arasında elden ele dolaşan bir tahakküm gücü olmasın!"* Mülkiyetin kamuya ve yoksullara infak ve zekâtla zorunlu akışı.
+3. **Ribaya (Faize) Karşı Kesin Savaş:** Paranın emeksiz ve risksiz olarak parayı doğurması (faiz) en büyük toplumsal ifsat ve köleleştirme aracıdır.
+4. **Sosyalist Devrimin Manevi Tıkanışı:** SSCB'nin çöküşü, insanın kalp, ruh, adalet ve kutsallık arayışını yok sayan materyalist kışla modelinin iflasıdır.
+
+---
+
+### 🖋️ Büyük Mütefekkirlerden Alıntılar:
+
+> *"Para, Allah'ın kulları arasında adaleti kursun diye yarattığı bir ölçü aracıdır; onun bizzat kendisinde bir lezzet ve amaç yoktur. Parayı faizle veya stokçulukla çoğaltanlar, yaratılış fıtratını tersyüz eden zalimlerdir."*  
+> — **İmam Gazali**, *İhyâu Ulûmi'd-Dîn*
+
+> *"Tarih boyunca iki din savaşmıştır: Biri sarayların, Karunların ve Firavunların 'Şirk Dini'; diğeri ise ezilenlerin ve peygamberlerin 'Tevhid Dini'dir. Ebu Zer el-Gıfari, Muaviye'nin yeşil sarayına karşı 'Altın ve gümüşü yığıp infak etmeyenleri yakıcı bir azapla müjdele!' ayetini haykırırken hakiki İslam'ın ta kendisiydi."*  
+> — **Dr. Ali Şeriati**, *Dine Karşı Din*
+
+> *"Marksizm insanın karnını doyurmak istedi ama ruhunu unuttu. Doğu'nun aradığı nizam; ne Batı'nın vahşi para tanrısı ne de Doğu'nun ruhsuz kışlasıdır; adaleti aşk ve Tevhid ile harmanlayan diriliş nizamıdır."*  
+> — **Muhammed İkbal**, *Cavidnâme*
+
+> *"Fransız Komünist Partisi'nin baş ideoloğuyken gördüm ki; Marksizm maddi yabancılaşmayı çözmeye çalışırken insanı varoluşsal bir boşluğa fırlatıyor. İslam ise adaleti göklerden koparmayan yegâne hakikattir."*  
+> — **Roger Garaudy**, *Geleceğimizde İslam Var* (1981)
+
+> *"Batı maddeyi putlaştırdı, Doğu maddeyi küçümsedi. İslam ise maddeyi ruhun emrine vererek hakiki adaleti kurdu."*  
+> — **Sezai Karakoç**, *Diriliş Neslinin Âmentüsü*
+
+> Derinlemesine tahliller ve karşılaştırmalı metinler için: [`docs/tevhid-adalet-ve-kuresel-somuru-elestirisi.md`](docs/tevhid-adalet-ve-kuresel-somuru-elestirisi.md)
+
+---
+
 ## 📐 Ekonomi Politiğin Matematiksel ve Kavramsal Formülasyonları
 
 Marx'ın *Kapital*'de formüle ettiği temel ekonomik bağıntılar:
@@ -670,6 +704,7 @@ marksizm-okumalari/
     ├── marksizm-din-metafizik-ve-ezoterizm.md        # Din, Metafizik, Ezoterizm ve Sermaye Büyüsü
     ├── istihbarat-metafizik-ve-psikolojik-harp.md    # İstihbarat, Psişik Savaş ve Bilişsel Harp
     ├── metafizik-felsefesi-ve-varlik-kurami.md       # Metafizik, Ontoloji, Vahdet-i Vücud ve Kuantum Bilinci
+    ├── tevhid-adalet-ve-kuresel-somuru-elestirisi.md # Tevhid, Sosyal Adalet, Riba Karşıtlığı ve İslam
     ├── elestiriler-ve-tartismalar.md                  # Karşı Görüşler, Eleştiriler ve Savunular
     └── calisma-sorulari-ve-tartisma-konulari.md       # Atölyeler ve Gruplar İçin Tartışma Soruları
 ```
@@ -686,6 +721,7 @@ marksizm-okumalari/
 - 🕊️ [**Din, Metafizik ve Ezoterizm**](docs/marksizm-din-metafizik-ve-ezoterizm.md) — Din felsefesi, Yahudi Sorunu, paranın teolojisi ve ezoterizm.
 - 👁️ [**İstihbarat, Metafizik ve Bilişsel Harp**](docs/istihbarat-metafizik-ve-psikolojik-harp.md) — CIA Stargate, KGB psikotronik, MOSSAD mitolojisi ve inancın silahlaştırılması.
 - 🌌 [**Metafizik ve Varlık Kuramı**](docs/metafizik-felsefesi-ve-varlik-kurami.md) — Ontoloji, İbn Arabi (Vahdet-i Vücud), Molla Sadra, Kuantum ve Bilinç.
+- ⚖️ [**Tevhid, Adalet ve Sermaye Eleştirisi**](docs/tevhid-adalet-ve-kuresel-somuru-elestirisi.md) — Kur'an (Haşr:7), Gazali, Şeriati, İkbal, Garaudy ve faiz sömürüsü.
 - ⚠️ [**Marksizmin Eksikleri ve Eleştirel Alıntılar**](docs/marksizmin-eksikleri-ve-elestirel-alintilar.md) — Popper, Hayek, Weber, Bakunin, Foucault eleştirileri.
 - ⚖️ [**Eleştiriler ve Tartışmalar**](docs/elestiriler-ve-tartismalar.md) — Karşı-tezler ve Marksist yanıtlar matrisi.
 - 📚 [**Yapılandırılmış Okuma Rehberi**](docs/okuma-rehberi.md) — Seviye bazlı (Başlangıç, Orta, İleri) kitap listeleri.

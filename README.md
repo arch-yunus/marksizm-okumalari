@@ -593,32 +593,89 @@ Metafizik (*Fiziğin Ötesi / İlk Felsefe*); varlığın kökenini, bilincin do
 
 ## ⚖️ Tevhid, Adalet ve Küresel Sermaye Eleştirisi (Maneviyat ve İktisat)
 
-İslam düşüncesi; hem kapitalizmin vahşi piyasa fetişizmini ve faiz sömürüsünü, hem de 20. yüzyıl sosyalizminin ruhsuz kaba materyalizmini aşan, **madde ile manayı, adalet ile Tevhid'i** birleştiren bütüncül bir nizam sunar.
+İslam düşüncesi; hem kapitalizmin vahşi piyasa putçuluğunu, meta fetişizmini ve faiz (riba) sömürüsünü, hem de 20. yüzyıl sosyalizminin insanın ruhunu ve vicdanını yok sayan ruhsuz kaba materyalizmini aşan, **madde ile manayı, adalet ile Tevhid'i, ekmek ile haysiyeti** birleştiren ilahi ve fıtri bir nizam sunar.
 
-### 🏛️ Dört Temel İktisadi ve Manevi İlke:
-1. **Tevhid ve Tağutun Reddi:** *"Lâ ilâhe illallâh"* şiarı; yalnızca teolojik bir iman değil, paraya, sermayeye ve diktatörlere tapınmayı kökten reddeden devrimci bir haysiyet manifestosudur.
-2. **Servet Tekelinin Yasaklanması (Haşr Suresi, 7):** *"Servet, içinizden yalnızca zenginler arasında elden ele dolaşan bir tahakküm gücü olmasın!"* Mülkiyetin kamuya ve yoksullara infak ve zekâtla zorunlu akışı.
-3. **Ribaya (Faize) Karşı Kesin Savaş:** Paranın emeksiz ve risksiz olarak parayı doğurması (faiz) en büyük toplumsal ifsat ve köleleştirme aracıdır.
-4. **Sosyalist Devrimin Manevi Tıkanışı:** SSCB'nin çöküşü, insanın kalp, ruh, adalet ve kutsallık arayışını yok sayan materyalist kışla modelinin iflasıdır.
+### 🏛️ Dört Temel İktisadi, Siyasal ve Manevi Sütun:
+
+```mermaid
+flowchart TD
+    TEVHID["☝️ TEVHİD İLKESİ\n(Yalnızca Allah'a Kulluk & İnsanın Mutlak Özgürlüğü)"]
+    
+    TEVHID --> P1["❌ Karunlaşmaya Ret (Servet Tekeli Yasağı / Haşr:7)\n'Mülk Allah'ındır, İnsan Yalnızca Emanetçidir'"]
+    TEVHID --> P2["❌ Ribaya Ret (Faizin ve Emeksiz Sermayenin Lanetlenmesi)\n'Paranın Parayı Doğurması Sömürünün Köküdür'"]
+    TEVHID --> P3["✅ İnfak & Zekât (Servetin Zorunlu Olarak Tabana Yayılması)\n'Yoksulun Zengin Malındaki Hakkı'"]
+    TEVHID --> P4["🛡️ Tağutların ve Firavunların Reddi\n'Baskıcı, Sömürücü ve Büyücü Düzenlerin Tasfiyesi'"]
+```
+
+1. **Tevhid ve İnsanın Mutlak Özgürlüğü:** *"Lâ ilâhe illallâh"* (Hiçbir ilah/otorite yoktur, yalnızca Allah vardır) şiarı; yalnızca soyut bir inanç değil, paraya, sermayeye, krallara, parti diktatörlerine ve küresel tağutlara tapınmayı kökten reddeden devrimci bir varoluş manifestosudur.
+2. **Servet Tekelinin Kesin Yasağı (Haşr Suresi, 7):** İslam mülkiyeti mutlaklaştırmaz; mülk Allah'ındır, insan emanetçidir. Servetin yalnızca zenginler arasında dönen bir tahakküm gücü olması yasaklanmış, infak ve zekât ile servetin tabana yayılması emredilmiştir.
+3. **Ribaya (Faize) Karşı Kesin Savaş:** Paranın hiçbir emek ve risk olmadan yoktan değer üretmesi (faiz), toplumları borç kölesi haline getiren küresel sömürünün ana motorudur.
+4. **Sosyalist Devrimin Manevi Çöküşü:** 20. yüzyıl SSCB deneyiminin çöküşü; insanın kalp, ruh, adalet, ölüm bilinci ve kutsallık arayışını yok sayan mekanik materyalizmin kaçınılmaz iflasıdır.
 
 ---
 
-### 🖋️ Büyük Mütefekkirlerden Alıntılar:
+### 🖋️ Büyük Mütefekkirler ve Âlimlerden Genişletilmiş Alıntılar Kataloğu
 
-> *"Para, Allah'ın kulları arasında adaleti kursun diye yarattığı bir ölçü aracıdır; onun bizzat kendisinde bir lezzet ve amaç yoktur. Parayı faizle veya stokçulukla çoğaltanlar, yaratılış fıtratını tersyüz eden zalimlerdir."*  
+#### A. Kur'an-ı Kerim ve Nebevi Adalet Çağrısı
+> *"Allah'ın helal kıldığı mallar, içinizden yalnızca zenginler arasında elden ele dolaşan bir servet olmasın!"*  
+> — **Kur'an-ı Kerim**, Haşr Suresi, 7. Ayet
+
+> *"Altını ve gümüşü yığıp da onları Allah yolunda infak etmeyenleri, yakıcı ve acıklı bir azapla müjdele!"*  
+> — **Kur'an-ı Kerim**, Tevbe Suresi, 34. Ayet
+
+> *"Komşusu açken tok yatan bizden değildir."*  
+> — **Hz. Muhammed (s.a.v.)**
+
+---
+
+#### B. Klasik İslam Düşüncesi ve Ahlakı (İmam Gazali & İbn Haldun)
+> *"Para, Allah'ın kulları arasında adaleti kursun ve mübadeleyi sağlasın diye yarattığı bir ölçü aracıdır; onun bizzat kendisinde bir lezzet, değer ve amaç yoktur. Parayı faizle, stokçulukla veya tefecilikle çoğaltıp kendi başına bir amaç kılanlar, yaratılış fıtratını tersyüz eden en büyük zalimlerdir."*  
 > — **İmam Gazali**, *İhyâu Ulûmi'd-Dîn*
 
-> *"Tarih boyunca iki din savaşmıştır: Biri sarayların, Karunların ve Firavunların 'Şirk Dini'; diğeri ise ezilenlerin ve peygamberlerin 'Tevhid Dini'dir. Ebu Zer el-Gıfari, Muaviye'nin yeşil sarayına karşı 'Altın ve gümüşü yığıp infak etmeyenleri yakıcı bir azapla müjdele!' ayetini haykırırken hakiki İslam'ın ta kendisiydi."*  
-> — **Dr. Ali Şeriati**, *Dine Karşı Din*
+> *"Zulüm ve haksız kazanç, medeniyetin ve üretimin kökünü kurutur. İnsanlar emeklerinin karşılığını alamayacaklarını, mallarının gasp edileceğini anladıkları anda üretimi bırakırlar; böylece iktisat çöker, devletler yıkılır ve şehirler harabeye döner."*  
+> — **İbn Haldun**, *Mukaddime* (1377)
 
-> *"Marksizm insanın karnını doyurmak istedi ama ruhunu unuttu. Doğu'nun aradığı nizam; ne Batı'nın vahşi para tanrısı ne de Doğu'nun ruhsuz kışlasıdır; adaleti aşk ve Tevhid ile harmanlayan diriliş nizamıdır."*  
+---
+
+#### C. Çağdaş İslam Düşüncesi ve Sömürü Eleştirisi (Ali Şeriati, Seyyid Kutub, Malcolm X)
+> *"Tarih boyunca iki din savaşmıştır: Biri sarayların, Karunların (küresel sermayedarların) ve Firavunların dini olan 'Şirk ve İktidar Dini'; diğeri ise ezilenlerin, peygamberlerin ve yoksulların dini olan 'Tevhid Dini'dir. Ebu Zer el-Gıfari, Muaviye'nin yeşil sarayına karşı 'Altın ve gümüşü yığıp infak etmeyenleri yakıcı bir azapla müjdele!' ayetini haykırırken hakiki İslam'ın ta kendisiydi."*  
+> — **Dr. Ali Şeriati**, *Dine Karşı Din* ve *İslam-Sosyolojisi*
+
+> *"İslam; insanın insana kulluğunu kökünden kazıyıp, insanı yalnızca Allah'a kul kılan evrensel bir özgürlük fermanıdır. İster kapitalist banka tekelcileri olsun ister sosyalist parti diktatörleri; insanların rızkını ve vicdanını elinde tutan her beşeri sistem bir tağuttur."*  
+> — **Seyyid Kutub**, *İslam'da Sosyal Adalet* (1949)
+
+> *"Kapitalizm akbaba gibidir; beslenmek için başka bir kurbana ihtiyaç duyar. Irkçılık ve sömürü kapitalizmin doğasında vardır; kapitalizmi ortadan kaldırmadan ırkçılığı ve zulmü bitiremezsiniz. İslam ise bütün ırkları ve sınıfları tek bir ilahi potada kardeş kılan yegâne hakikattir."*  
+> — **Malcolm X (El-Hac Şahbaz)**, 1964
+
+---
+
+#### D. Doğu'nun Dirilişi ve Batı Eleştirisi (Muhammed İkbal & Malik bin Nebi)
+> *"Karl Marx'ın ekonomi politiği doğru teşhisler koydu; ama kalbi göğe kapalıydı. O, insanın karnını doyurmak istedi ama ruhunu doyurmayı unuttu. Oysa Doğu'nun aradığı nizam; ne Batı'nın vahşi para tanrısı ne de Doğu Bloku'nun ruhsuz kışlasıdır; adaleti aşkla harmanlayan Tevhid nizamıdır."*  
 > — **Muhammed İkbal**, *Cavidnâme*
 
-> *"Fransız Komünist Partisi'nin baş ideoloğuyken gördüm ki; Marksizm maddi yabancılaşmayı çözmeye çalışırken insanı varoluşsal bir boşluğa fırlatıyor. İslam ise adaleti göklerden koparmayan yegâne hakikattir."*  
-> — **Roger Garaudy**, *Geleceğimizde İslam Var* (1981)
+> *"Müslüman toplumların asıl trajedisi askeri veya ekonomik yenilgiler değildir; zihinsel ve ahlaki olarak 'sömürgeleştirilmeye elverişli' (*kâbiliyyetü'l-isti'mâr*) hale gelmeleridir. Putlar yıkılmadan ve nefisler Tevhid ahlakıyla dirilmeden hiçbir siyasi devrim kalıcı olamaz."*  
+> — **Malik bin Nebi**, *İslam Dünyasında Fikirler ve Putlar*
 
-> *"Batı maddeyi putlaştırdı, Doğu maddeyi küçümsedi. İslam ise maddeyi ruhun emrine vererek hakiki adaleti kurdu."*  
+---
+
+#### E. Marksizmden İslama Geçiş: Roger Garaudy
+> *"Fransız Komünist Partisi'nin baş ideoloğu olarak on yıllarca diyalektik materyalizmi savundum. Fakat gördüm ki; Marksizm insanın maddi yabancılaşmasını çözmeye çalışırken, onu varoluşsal bir anlamsızlığın içine fırlatıyor. İslam ise adaleti göklerden koparmayan, bireyin vicdanı ile toplumun ekmeğini aynı ilahi terazide tartan yegâne yaşayan vahiy hakikatidir."*  
+> — **Roger Garaudy**, *Geleceğimizde İslam Var* ve *İslam'ın Vadettikleri* (1981)
+
+---
+
+#### F. Türkiye Düşüncesinde İslam ve Sosyal Adalet (Nurettin Topçu, Sezai Karakoç, Necip Fazıl, İsmet Özel)
+> *"Bizim sosyalizmimiz, Batı'nın sınıf kini üzerine kurulu materyalist kavgası değil; İslam'ın merhamet, infak ve alın teri ahlakına dayanan 'Anadolu İslami Sosyalizmi'dir. Ruh cephesi çökmüş bir toplumda sadece fabrikaları kamulaştırmak felaket getirir."*  
+> — **Nurettin Topçu**, *İslam ve Sosyalizm* & *Ahlak Nizamı*
+
+> *"Batı medeniyeti maddeyi putlaştırdı; Doğu medeniyeti maddeyi küçümsedi. İslam ise maddeyi ruhun emrine vererek medeniyetin hakiki dengesini kurdu. Diriliş; paranın ve küresel tağutların boyunduruğundan kurtulup, kalbi ve cemiyeti yeniden Allah'ın adaletiyle inşa etmektir."*  
 > — **Sezai Karakoç**, *Diriliş Neslinin Âmentüsü*
+
+> *"Para, insanoğlunun icat ettiği en büyük puttur. Bu put kırılmadıkça, insanın gerçek hürriyetine kavuşması ham bir hayaldir."*  
+> — **Necip Fazıl Kısakürek**
+
+> *"Sosyalizm kapitalizmin gayrimeşru çocuğudur; çünkü aynı materyalist gövdeden doğmuştur. İnsanı yalnızca sınıflar üzerinden tanımlayan bir sistem, insanın fıtratındaki günah ve fazilet savaşını anlayamaz. Gerçek direniş; küresel küfrün ve faiz sömürüsünün çarklarına çomak sokan Müslümanca bir şahsiyetle başlar."*  
+> — **İsmet Özel**, *Üç Mesele: Gayret, Tebliğ, Problem*
 
 > Derinlemesine tahliller ve karşılaştırmalı metinler için: [`docs/tevhid-adalet-ve-kuresel-somuru-elestirisi.md`](docs/tevhid-adalet-ve-kuresel-somuru-elestirisi.md)
 

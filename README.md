@@ -39,12 +39,13 @@ Bu repo; 19. yüzyılda **Karl Marx** ve **Friedrich Engels** tarafından kurams
    - [14. Dışarıdan Yöneltilen Eleştiriler ve Karşı-Tezler (Bakunin, Weber, Mises, Hayek, Popper, Arendt)](#14-dışarıdan-yöneltilen-eleştiriler-ve-karşı-tezler-bakunin-weber-mises-hayek-popper-arendt)
 6. [⚠️ Marksizmin Eksikleri, Kuramsal Kör Noktaları ve Eleştirel Alıntılar](#️-marksizmin-eksikleri-kuramsal-kör-noktaları-ve-eleştirel-alıntılar)
 7. [🌍 Marksizm Uygulandı mı, Uygulanıyor mu? (Reel Sosyalizm Bilançosu)](#-marksizm-uygulandı-mı-uygulanıyor-mu-reel-sosyalizm-bilançosu)
-8. [📐 Ekonomi Politiğin Matematiksel ve Kavramsal Formülasyonları](#-ekonomi-politiğin-matematiksel-ve-kavramsal-formülasyonları)
-9. [📚 Yapılandırılmış Okuma Kılavuzu (Pedagojik Seviyeler ve Tematik Rotalar)](#-yapılandırılmış-okuma-kılavuzu-pedagojik-seviyeler-ve-tematik-rotalar)
-10. [⚖️ Eleştiriler, Açmazlar ve Karşı-Tezler Matrisi](#️-eleştiriler-açmazlar-ve-karşı-tezler-matrisi)
-11. [📁 Modüler Dokümantasyon ve Kapsamlı Alt Kılavuzlar](#-modüler-dokümantasyon-ve-kapsamlı-alt-kılavuzlar)
-12. [🌐 Dijital Kütüphaneler, Akademik Dergiler ve Açık Arşivler](#-dijital-kütüphaneler-akademik-dergiler-ve-açık-arşivler)
-13. [🤝 Katkıda Bulunma Standartları ve Lisans](#-katkıda-bulunma-standartları-ve-lisans)
+8. [🌌 Metafizik Felsefesi, Ontoloji ve Bilincin Hakikati](#-metafizik-felsefesi-ontoloji-ve-bilincin-hakikati)
+9. [📐 Ekonomi Politiğin Matematiksel ve Kavramsal Formülasyonları](#-ekonomi-politiğin-matematiksel-ve-kavramsal-formülasyonları)
+10. [📚 Yapılandırılmış Okuma Kılavuzu (Pedagojik Seviyeler ve Tematik Rotalar)](#-yapılandırılmış-okuma-kılavuzu-pedagojik-seviyeler-ve-tematik-rotalar)
+11. [⚖️ Eleştiriler, Açmazlar ve Karşı-Tezler Matrisi](#️-eleştiriler-açmazlar-ve-karşı-tezler-matrisi)
+12. [📁 Modüler Dokümantasyon ve Kapsamlı Alt Kılavuzlar](#-modüler-dokümantasyon-ve-kapsamlı-alt-kılavuzlar)
+13. [🌐 Dijital Kütüphaneler, Akademik Dergiler ve Açık Arşivler](#-dijital-kütüphaneler-akademik-dergiler-ve-açık-arşivler)
+14. [🤝 Katkıda Bulunma Standartları ve Lisans](#-katkıda-bulunma-standartları-ve-lisans)
 
 ---
 
@@ -575,6 +576,20 @@ Marksizm bir fikir ve felsefi kuram olmanın ötesinde, 20. yüzyılda dünya n�
 
 ---
 
+## 🌌 Metafizik Felsefesi, Ontoloji ve Bilincin Hakikati
+
+Metafizik (*Fiziğin Ötesi / İlk Felsefe*); varlığın kökenini, bilincin doğasını, evrenin aşkın boyutunu ve eşyanın ardındaki ezeli hakikati araştıran en temel felsefi disiplindir.
+
+### 🏛️ Dört Büyük Metafizik Sütunu:
+1. **Ontoloji (Varlık Felsefesi):** *"Neden hiçbir şey yerine bir şey var?"* Varlık maddeden mi ibarettir, yoksa madde bilincin bir yansıması mıdır?
+2. **İslam Metafiziği & Vahdet-i Vücud (İbn Arabi & Molla Sadra):** Varlık tek bir Hakikat'tir; evrendeki tüm nesneler o Mutlak Hakikat'in tecellileridir. Maddenin cevheri durmaksızın bilinç düzeyinde tekamül eder (*Cevheri Hareket*).
+3. **Kuantum Fiziği ve Bilinç Eşiği:** Çift Yarık Deneyi ve Kuantum Dolanıklık (*Entanglement*), maddenin gözlemciden (bilinçten) bağımsız olmadığını ve evrenin bölünemez tek bir bütünsel bilinç alanı (*David Bohm - Saklı Düzen*) olduğunu kanıtlamıştır.
+4. **Ernst Bloch & Walter Benjamin'in Metafizik Materyalizmi:** İnsanın maddi kurtuluşu ile manevi/aşkın umudu (*Transzendieren*) ve adaletin kutsallığı birbirinden ayrılamaz.
+
+> Metafiziğin felsefi kökleri, Doğu/Batı gelenekleri ve kuantum açılımları için: [`docs/metafizik-felsefesi-ve-varlik-kurami.md`](docs/metafizik-felsefesi-ve-varlik-kurami.md)
+
+---
+
 ## 📐 Ekonomi Politiğin Matematiksel ve Kavramsal Formülasyonları
 
 Marx'ın *Kapital*'de formüle ettiği temel ekonomik bağıntılar:
@@ -654,6 +669,7 @@ marksizm-okumalari/
     ├── tarihsel-uygulamalar-ve-reel-sosyalizm-bilancosu.md # Uygulandı mı? Reel Sosyalizm Bilançosu
     ├── marksizm-din-metafizik-ve-ezoterizm.md        # Din, Metafizik, Ezoterizm ve Sermaye Büyüsü
     ├── istihbarat-metafizik-ve-psikolojik-harp.md    # İstihbarat, Psişik Savaş ve Bilişsel Harp
+    ├── metafizik-felsefesi-ve-varlik-kurami.md       # Metafizik, Ontoloji, Vahdet-i Vücud ve Kuantum Bilinci
     ├── elestiriler-ve-tartismalar.md                  # Karşı Görüşler, Eleştiriler ve Savunular
     └── calisma-sorulari-ve-tartisma-konulari.md       # Atölyeler ve Gruplar İçin Tartışma Soruları
 ```
@@ -669,6 +685,7 @@ marksizm-okumalari/
 - 🌍 [**Reel Sosyalizm Bilançosu ve Uygulamalar**](docs/tarihsel-uygulamalar-ve-reel-sosyalizm-bilancosu.md) — SSCB, Çin, Küba, kazanımlar ve çöküş nedenleri.
 - 🕊️ [**Din, Metafizik ve Ezoterizm**](docs/marksizm-din-metafizik-ve-ezoterizm.md) — Din felsefesi, Yahudi Sorunu, paranın teolojisi ve ezoterizm.
 - 👁️ [**İstihbarat, Metafizik ve Bilişsel Harp**](docs/istihbarat-metafizik-ve-psikolojik-harp.md) — CIA Stargate, KGB psikotronik, MOSSAD mitolojisi ve inancın silahlaştırılması.
+- 🌌 [**Metafizik ve Varlık Kuramı**](docs/metafizik-felsefesi-ve-varlik-kurami.md) — Ontoloji, İbn Arabi (Vahdet-i Vücud), Molla Sadra, Kuantum ve Bilinç.
 - ⚠️ [**Marksizmin Eksikleri ve Eleştirel Alıntılar**](docs/marksizmin-eksikleri-ve-elestirel-alintilar.md) — Popper, Hayek, Weber, Bakunin, Foucault eleştirileri.
 - ⚖️ [**Eleştiriler ve Tartışmalar**](docs/elestiriler-ve-tartismalar.md) — Karşı-tezler ve Marksist yanıtlar matrisi.
 - 📚 [**Yapılandırılmış Okuma Rehberi**](docs/okuma-rehberi.md) — Seviye bazlı (Başlangıç, Orta, İleri) kitap listeleri.

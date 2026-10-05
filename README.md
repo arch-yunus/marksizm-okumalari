@@ -652,6 +652,7 @@ marksizm-okumalari/
     ├── cagdas-marksizm-ve-tartismalar.md              # Dijital Emek, Platformlar, Ekoloji ve 21. Yüzyıl
     ├── marksizmin-eksikleri-ve-elestirel-alintilar.md # Eksikler, Kör Noktalar ve Eleştirel Alıntılar
     ├── tarihsel-uygulamalar-ve-reel-sosyalizm-bilancosu.md # Uygulandı mı? Reel Sosyalizm Bilançosu
+    ├── marksizm-din-metafizik-ve-ezoterizm.md        # Din, Metafizik, Ezoterizm ve Sermaye Büyüsü
     ├── elestiriler-ve-tartismalar.md                  # Karşı Görüşler, Eleştiriler ve Savunular
     └── calisma-sorulari-ve-tartisma-konulari.md       # Atölyeler ve Gruplar İçin Tartışma Soruları
 ```
@@ -665,6 +666,7 @@ marksizm-okumalari/
 - 🇹🇷 [**Türkiye'de Marksizm Tarihi**](docs/turkiye-marksizm-tarihi.md) — Osmanlı'dan TİP, 68 Kuşağı, Kıvılcımlı ve günümüze.
 - 🌐 [**Çağdaş Marksizm ve Tartışmalar**](docs/cagdas-marksizm-ve-tartismalar.md) — Platform kapitalizmi, Fisher, Saito, Žižek, Yapay Zekâ.
 - 🌍 [**Reel Sosyalizm Bilançosu ve Uygulamalar**](docs/tarihsel-uygulamalar-ve-reel-sosyalizm-bilancosu.md) — SSCB, Çin, Küba, kazanımlar ve çöküş nedenleri.
+- 🕊️ [**Din, Metafizik ve Ezoterizm**](docs/marksizm-din-metafizik-ve-ezoterizm.md) — Din felsefesi, Yahudi Sorunu, paranın teolojisi ve ezoterizm.
 - ⚠️ [**Marksizmin Eksikleri ve Eleştirel Alıntılar**](docs/marksizmin-eksikleri-ve-elestirel-alintilar.md) — Popper, Hayek, Weber, Bakunin, Foucault eleştirileri.
 - ⚖️ [**Eleştiriler ve Tartışmalar**](docs/elestiriler-ve-tartismalar.md) — Karşı-tezler ve Marksist yanıtlar matrisi.
 - 📚 [**Yapılandırılmış Okuma Rehberi**](docs/okuma-rehberi.md) — Seviye bazlı (Başlangıç, Orta, İleri) kitap listeleri.

@@ -74,6 +74,11 @@ Kapitalizm insanı sadece fiziki olarak sömürmez; onu manevi olarak parçalar.
 > *"Makinelerin gelişmesiyle birlikte işçi, makinenin basit bir uzantısı haline gelir. Ondan beklenen yalnızca en mekanik, en tekdüze ve en kolay öğrenilen hareketleri yapmasıdır."*  
 > — **Karl Marx & Friedrich Engels, *Komünist Manifesto* (1848)**
 
+<div align="center">
+  <img src="../assets/images/labor-and-alienation.jpg" alt="Emeğin Yabancılaşması ve Sanayi Çarkları" width="85%" style="border-radius: 8px; margin: 15px 0;" />
+  <p><em>Sanayi çarklarında şeyleşen insan emeği ve alınterinin bereketi.</em></p>
+</div>
+
 ---
 
 ## 3. Meta Fetişizmi (*Warenfetischismus*): Modern Putperestlik
@@ -87,6 +92,11 @@ Marx'ın *Das Kapital*'in ilk cildinde ortaya koyduğu **Meta Fetişizmi**, insa
 
 > *"İlk bakışta bir meta çok sıradan ve anlaşılması kolay bir şey gibi görünür. Oysa analizi, onun metafizik incelikler ve teolojik kaprislerle dolu, son derece karmaşık ve tuhaf bir şey olduğunu göstermektedir."*  
 > — **Karl Marx, *Das Kapital*, Cilt 1, Bölüm 1, Kısım 4 (Metanın Fetiş Karakteri)**
+
+<div align="center">
+  <img src="../assets/images/commodity-fetishism.jpg" alt="Meta Fetişizmi ve Para Putçuluğu" width="85%" style="border-radius: 8px; margin: 15px 0;" />
+  <p><em>Meta Fetişizmi: Paranın ve metaların ilahlaştırıldığı modern tüketim tapınağı.</em></p>
+</div>
 
 > *"Tıpkı dinin sisli dünyasında insan beyninin ürünlerinin kendi başlarına yaşayan, birbirleriyle ve insanlarla ilişki içinde olan bağımsız varlıklar gibi görünmesi gibi; metalar dünyasında da insan elinin ürünleri aynı duruma düşer. Ben buna 'Meta Fetişizmi' diyorum."*  
 > — **Karl Marx, *Das Kapital*, Cilt 1**

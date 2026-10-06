@@ -6,6 +6,10 @@
 [![Dokümantasyon: Eksiksiz](https://img.shields.io/badge/Dokümantasyon-15%20Özel%20Monografi-blue.svg)](docs/)
 [![Durum](https://img.shields.io/badge/Durum-Aktif%20Geliştirme-success.svg)](#)
 
+<div align="center">
+  <img src="assets/images/hero-banner.jpg" alt="Marksizm Okumaları ve İslami Sosyal Adalet" width="100%" style="border-radius: 8px; margin: 15px 0;" />
+</div>
+
 > *"Hikmet müminin yitiğidir; nerede bulursa onu almaya en layık olan odur."*  
 > **— Hz. Muhammed (s.a.v.)**
 
@@ -70,6 +74,11 @@ Bu açık kaynak kütüphanesi; **Müslüman bir araştırmacı, ilim talebesi v
 * **Emeğin Kutsallığı:** Hz. Peygamber (s.a.v.), *"İşçinin ücretini teri kurumadan veriniz"* buyurarak artı-değer gaspına 1400 yıl önceden set çekmiştir.
 * **Modern Putçuluk:** Marx'ın *Meta Fetişizmi* dediği olgu, insanın kendi eliyle ürettiği paraya ve eşyaya tapınmasıdır (Şirk ve heva putçuluğu).
 * **Felsefi Ayrışma:** Marksizm insanı sadece midesi olan bir üretim aracına indirgerken; İslam insanı ruh, kalp, akıl ve ebediyet arayışıyla donatılmış şerefli bir emanetçi (*ahsen-i takvim*) kabul eder.
+
+<div align="center">
+  <img src="assets/images/labor-and-alienation.jpg" alt="Emeğin Kutsallığı, Yabancılaşma ve Alın Teri" width="90%" style="border-radius: 8px; margin: 12px 0;" />
+  <p><em>Görsel 1: Sanayi çarkları arasında yabancılaşan insan emeği ve alın terinin bereketi.</em></p>
+</div>
 
 > Kapsamlı analitik rehber için: [`docs/musluman-bakis-acisiyla-marksizm.md`](docs/musluman-bakis-acisiyla-marksizm.md)
 
@@ -183,6 +192,11 @@ flowchart TD
 > *"Metanın fetiş karakteri: İnsan elinin ürünleri, kendi başlarına yaşayan, insanlarla ilişki kuran bağımsız ilahlara dönüşür. İnsanlar elleriyle yaptıkları nesnelerin (markaların, paranın, borsanın) kölesi olurlar."*  
 > — **Karl Marx**, *Das Kapital*, Cilt 1, Bölüm 1 (Meta Fetişizmi)
 
+<div align="center">
+  <img src="assets/images/commodity-fetishism.jpg" alt="Meta Fetişizmi ve Modern Tüketim Putperestliği" width="90%" style="border-radius: 8px; margin: 12px 0;" />
+  <p><em>Görsel 2: Meta Fetişizmi — Paranın ve sermayenin tapınağında insanın kendi ürettiği nesnelere kul olması.</em></p>
+</div>
+
 > *"Sermaye yüzde 100 kârda bütün insani kanunları ayaklar altına alır; yüzde 300 kâr karşısında ise işleyemeyeceği hiçbir cinayet, göze alamayacağı hiçbir cürüm yoktur; darağacı tehdidi altında olsa bile."*  
 > — **T.J. Dunning'den aktaran Karl Marx**, *Das Kapital*, Cilt 1
 
@@ -281,6 +295,11 @@ Metafizik (*İlk Felsefe*); varlığın kökenini, bilincin gizemini ve aşkın 
 * **Kuantum Fiziği:** Gözlemci etkisi ve Kuantum Dolanıklık ile maddenin bilince bağlı bir olasılık alanı olduğunun ortaya çıkışı.
 * **Ruhsal Çöküş:** Metafiziği dışlayan materyalizmin modern dünyada yarattığı derin anlamsızlık ve nihilizm krizi.
 
+<div align="center">
+  <img src="assets/images/metaphysics-and-mind.jpg" alt="İslam Metafiziği, Kozmoloji ve Aşkın Bilinç" width="90%" style="border-radius: 8px; margin: 12px 0;" />
+  <p><em>Görsel 3: İslam Metafiziği — Kozmik ahenk, ilahi nizam ve maddenin ötesindeki aşkın şuur.</em></p>
+</div>
+
 > Metafizik ve ontoloji monografisi için: [`docs/metafizik-felsefesi-ve-varlik-kurami.md`](docs/metafizik-felsefesi-ve-varlik-kurami.md)
 
 ---
@@ -301,6 +320,11 @@ Egemen emperyalist devletler ve istihbarat teşkilatları (CIA, KGB, MOSSAD); ki
 * **Riba (Faiz) Yasağı:** Paranın parayı doğurması küresel sömürünün kalbidir.
 * **İnfak ve Zekât:** Servetin tabana zorunlu yayılması (Haşr:7).
 * **Emanet Mülkiyet:** Mülkün gerçek sahibinin Allah olduğu bilinciyle kapitalist azgınlığın dizginlenmesi.
+
+<div align="center">
+  <img src="assets/images/justice-and-solidarity.jpg" alt="Küresel Adalet, Mazlumların Dayanışması ve Borç Zincirlerinin Kırılması" width="90%" style="border-radius: 8px; margin: 12px 0;" />
+  <p><em>Görsel 4: Küresel Adalet ve Tevhid — Mazlum halkların faiz ve emperyalizm zincirlerini kırması.</em></p>
+</div>
 
 > Derinlemesine araştırma dosyası için: [`docs/tevhid-adalet-ve-kuresel-somuru-elestirisi.md`](docs/tevhid-adalet-ve-kuresel-somuru-elestirisi.md)
 

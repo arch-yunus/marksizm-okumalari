@@ -62,8 +62,10 @@ Bu açık kaynak kütüphanesi; **Müslüman bir araştırmacı, ilim talebesi v
 12. [📐 Das Kapital ve Ekonomi Politiğin Matematiksel Formülasyonları](#12-das-kapital-ve-ekonomi-politiğin-matematiksel-formülasyonları)
 13. [📚 Yapılandırılmış Okuma Kılavuzu (Pedagojik Seviyeler ve Rotalar)](#13-yapılandırılmış-okuma-kılavuzu-pedagojik-seviyeler-ve-rotalar)
 14. [📁 Modüler Dokümantasyon Dizini (15 Özel Monografi Dosyası)](#14-modüler-dokümantasyon-dizini)
-15. [🌐 Dijital Kütüphaneler, Akademik Dergiler ve Açık Arşivler](#15-dijital-kütüphaneler-akademik-dergiler-ve-açık-arşivler)
-16. [🤝 Katkıda Bulunma Standartları ve Lisans](#16-katkıda-bulunma-standartları-ve-lisans)
+15. [❓ Sıkça Sorulan Sorular ve Felsefi Tahliller (FAQ)](#15-sıkça-sorulan-sorular-ve-felsefi-tahliller-faq)
+16. [📖 Temel Kavramlar ve Hızlı Başvuru Sözlüğü](#16-temel-kavramlar-ve-hızlı-başvuru-sözlüğü)
+17. [🌐 Dijital Kütüphaneler, Akademik Dergiler ve Açık Arşivler](#17-dijital-kütüphaneler-akademik-dergiler-ve-açık-arşivler)
+18. [🤝 Katkıda Bulunma Standartları ve Lisans](#18-katkıda-bulunma-standartları-ve-lisans)
 
 ---
 
@@ -146,11 +148,31 @@ flowchart TD
 | **Klasik Marksizm** | Karl Marx, Friedrich Engels | Artı-değer, emek sömürüsü ve sınıf savaşı. (Teşhis güçlü, itikad çıkmazda). |
 | **Marksizm-Leninizm** | V. I. Lenin | Emperyalizm analizi ve öncü parti. (Mazlum halkların uyanışına etki etti). |
 | **Batı Marksizmi & Hegemonya** | Antonio Gramsci, Georg Lukács | Kültürel rıza üretimi, şeyleşme ve mevzi savaşı. |
+| **Frankfurt Okulu & Eleştirel Teori** | Theodor Adorno, Max Horkheimer | Kültür endüstrisi, tek boyutlu insan ve tüketim uyuşturucusu. |
+| **Bağımlılık Okulu & Üçüncü Dünyacılık** | Samir Amin, Andre Gunder Frank | Merkez-Çevre sömürüsü, eşitsiz mübadele ve küresel emperyalizm. |
 | **İslam Sosyalizmi / Tevhid Ekolü** | Dr. Ali Şeriati | *Dine Karşı Din*: Karunların Şirk Dinine karşı ezilenlerin Tevhid Dini. |
 | **Anadolu Sosyalizmi & Ahlak** | Nurettin Topçu | *İslam ve Sosyalizm*: Maddeci sınıf kinciliğine karşı ruhçu ve ahlaki nizam. |
+| **İslam İktisadı & Medeniyet** | Aliya İzzetbegoviç | *Doğu ve Batı Arasında İslam*: Madde-ruh dengesi ve üçüncü yol. |
 | **Marksizmden İslama Geçiş** | Roger Garaudy | Fransız Komünist Partisi ideologluğundan İslami hakikate ve adalete geçiş. |
 | **Diriliş ve Medeniyet** | Sezai Karakoç | Batı maddeyi putlaştırdı, Doğu maddeyi küçümsedi; İslam maddeyi ruhun emrine verdi. |
 | **İslami Şahsiyet ve Duruş** | İsmet Özel | Sosyalizm kapitalizmin gayrimeşru çocuğudur; gerçek direniş Müslümanca şahsiyettedir. |
+
+---
+
+### 📊 10 Temel Eksende Büyük Karşılaştırma Matrisi
+
+| Kriter | 🟢 İslam İktisat Nizamı | 🔴 Marksist-Sosyalist Sistem | 🔵 Kapitalist-Serbest Piyasa |
+| :--- | :--- | :--- | :--- |
+| **1. Mülkiyet Anlayışı** | **Emanet Mülkiyet:** Asıl mülk Allah'ındır; fert meşru kazanır, sınırsız yığamaz (Kenz haram). | **Kolektif/Devlet Mülkiyeti:** Üretim araçlarında özel mülkiyet lağvedilir. | **Mutlak Özel Mülkiyet:** Sermayedar istediği gibi mülk biriktirir ve tekel kurar. |
+| **2. Kazancın Meşruiyet Kaynağı** | **Alın Teri, Emek ve Helal Ticaret:** Riba, kumar, ihtikar ve spekülasyon yasaktır. | **Yalnızca Canlı Emek:** Sermaye kârı sömürüdür; artı-değer gasp kabul edilir. | **Sermaye ve Piyasa:** Paradan para kazanmak (faiz, borsa) meşru kâr sayılır. |
+| **3. Servet Dağıtım Mekanizması** | **Zorunlu İnfak & Zekât:** Servetin tabana akması esastır (Haşr:7). | **Merkezi Planlama ve Dağıtım:** Devlet fiyatları ve tayınları belirler. | **Görünmez El & Fiyat Mekanizması:** Piyasa dengeler, zengin-fakir uçurumu derinleşir. |
+| **4. Faiz (Riba) & Finans** | **Mutlak Yasak:** Faiz Allah ve Resulüne harp açmaktır; reel üretim esastır. | **Reddedilir:** Faiz getiren sermaye en parazit sömürü biçimidir. | **Sistemin Motoru:** Faizli kredi, borçlandırma ve türev piyasalar temeldir. |
+| **5. İnsan Tanımı & Gaye** | **Ahsen-i Takvim & Kul:** Ruh, akıl, kalp ve ahlak sahibi sorumlu varlık. | **Homo Faber (Üreten İnsan):** Üretim ilişkilerinin şekillendirdiği maddi varlık. | **Homo Economicus:** Kendi kârını ve tüketim hazlarını maksimize eden birey. |
+| **6. Sosyal Adalet Yolu** | **Uhuvvet, Hakkaniyet ve Karşılıklı Yardımlaşma:** Sınıf kini değil, adalet. | **Sınıf Savaşı ve Proletarya Diktatörlüğü:** Burjuvazinin zorla tasfiyesi. | **Bırakınız Yapsınlar (*Laissez-Faire*):** Güçlü olanın kazandığı rekabet. |
+| **7. Ekoloji ve Tabiat** | **İlahi Emanet:** Tabiat Allah'ın ayetidir; israf ve fesat haramdır (Rûm:41). | **Metabolik Onarım:** Doğanın sermaye tarafından yağmalanmasına karşı çıkar. | **Sınırsız Kaynak:** Maksimum kâr için doğanın metalaştırılması ve tüketimi. |
+| **8. Devletin Rolü** | **Adalet, Hisbe ve Denetim:** Tekelleşmeyi, faizi önler; helal piyasayı korur. | **Tekelci Yönetici:** Üretimi, dağıtımı ve toplumu tepeden tırnağa yönetir. | **Jandarma Devlet:** Özel mülkiyeti ve sermaye düzenini koruyan asgari bekçi. |
+| **9. Nihai Hedef** | **Rıza-i İlahi ve Darusselam:** Dünyada adalet, ahirette ebedi saadet. | **Sınıfsız, Devletsiz Komünist Toplum:** Yeryüzü cenneti vaadi. | **Sonsuz Sermaye Büyümesi:** Tüketim, büyüme ve hissedar kârı. |
+| **10. Maneviyat & Din** | **Tevhid ve Varlık Sebebi:** İmanın, vicdanın ve ahlakın kurucu temeli. | **Tarihsel İllüzyon:** Sınıflı toplumun çaresizlik ürünü (Afyon). | **Pazarlanabilir Meta:** İnançların bile tüketim sektörüne dönüştürülmesi. |
 
 > Detaylı karşılaştırma için: [`docs/islam-iktisadi-ve-kapitalizm-marksizm-karsilastirmasi.md`](docs/islam-iktisadi-ve-kapitalizm-marksizm-karsilastirmasi.md)
 
@@ -223,10 +245,35 @@ flowchart TD
 
 ---
 
-### C. İslam Mütefekkirleri ve Sosyal Adalet
+### C. İslam Mütefekkirleri, Âlimleri ve Sosyal Adalet Mirası
 
-> *"Allah'ın helal kıldığı mallar, içinizden yalnızca zenginler arasında elden ele dolaşan bir servet olmasın!"*  
-> — **Kur'an-ı Kerim**, Haşr Suresi, 7. Ayet
+#### 📖 İlahi Vahiy ve Nebevi Sünnetten İktisadi İlkeler
+> *"Ey iman edenler! Hahamlardan ve rahiplerden birçoğu insanların mallarını haksız yollarla yerler ve Allah'ın yolundan alıkoyarlar. Altın ve gümüşü yığıp da (kenz edip) onları Allah yolunda infak etmeyenleri yakıcı bir azapla müjdele!"*  
+> — **Kur'an-ı Kerim**, Tevbe Suresi, 34. Ayet
+
+> *"Allah faizi (ve faizli kazançları) mahveder; sadakaları ise bereketlendirip artırır."*  
+> — **Kur'an-ı Kerim**, Bakara Suresi, 276. Ayet
+
+> *"Ölçüde ve tartıda hile yapanların vay haline! Onlar insanlardan alırken tastamam ölçerler; kendileri onlara sattıklarında ise eksik verirler."*  
+> — **Kur'an-ı Kerim**, Mutaffifîn Suresi, 1-3. Ayetler
+
+> *"İşçinin hakkını teri kurumadan veriniz."*  
+> — **Hz. Muhammed (s.a.v.)**, (İbn Mâce, Rühûn, 4)
+
+> *"Hiç kimse elinin emeğinden daha hayırlı bir yiyecek asla yememiştir. Allah'ın Peygamberi Dâvûd (a.s.) da kendi elinin emeğini yerdi."*  
+> — **Hz. Muhammed (s.a.v.)**, (Buhârî, Büyû', 15)
+
+> *"Piyasaya mal getiren rızıklandırılır; fiyatları yükseltmek için mal saklayan (ihtikar/karaborsa yapan) ise lanetlenmiştir."*  
+> — **Hz. Muhammed (s.a.v.)**, (İbn Mâce, Ticârât, 6)
+
+---
+
+#### 🧠 Müslüman Düşünürlerin Tahlilleri
+> *"Sosyalizm ve Marksizm insanın karnını doyurmak için ruhunu ve hürriyetini feda etti; Kapitalizm ise hürriyet adı altında insanı doymak bilmez sermayenin kölesi kıldı. İslam; madde ile ruhu, ferdî teşebbüs ile toplumsal adaleti tek bir Tevhidî potada birleştiren yegâne üçüncü yoldur."*  
+> — **Aliya İzzetbegoviç**, *Doğu ve Batı Arasında İslam*
+
+> *"Her kazanç ve zenginliğin kaynağı insan emeğidir. Emek olmaksızın hiçbir madde kendiliğinden zenginliğe dönüşmez. Devlet ve yöneticiler haksız vergilerle ve tekelleşmeyle halkın emeğine el koyduğunda medeniyet çöker ve umran yok olur."*  
+> — **İbn Haldun**, *Mukaddime* (1377)
 
 > *"Para, Allah'ın kulları arasında adaleti kursun diye yarattığı bir ölçü aracıdır; onun kendisinde bir amaç yoktur. Parayı faizle çoğaltıp kendi başına gaye kılanlar, yaratılış fıtratını tersyüz eden zalimlerdir."*  
 > — **İmam Gazali**, *İhyâu Ulûmi'd-Dîn*
@@ -234,11 +281,14 @@ flowchart TD
 > *"Tarih boyunca iki din savaşmıştır: Biri sarayların, Karunların ve Firavunların 'Şirk Dini'; diğeri ise ezilenlerin ve peygamberlerin 'Tevhid Dini'dir. Ebu Zer el-Gıfari, Muaviye'nin yeşil sarayına karşı 'Altın ve gümüşü yığıp infak etmeyenleri yakıcı bir azapla müjdele!' ayetini haykırırken hakiki İslam'ın ta kendisiydi."*  
 > — **Dr. Ali Şeriati**, *Dine Karşı Din*
 
-> *"Marksizm insanın karnını doyurmak istedi ama ruhunu unuttu. Doğu'nun aradığı nizam; ne Batı'nın vahşi para tanrısı ne de Doğu'nun ruhsuz kışlasıdır; adaleti aşk ve Tevhid ile harmanlayan diriliş nizamıdır."*  
-> — **Muhammed İkbal**, *Cavidnâme*
+> *"Lenin Allah'ın Huzurunda der ki: 'Ey Kâinatın Rabbi! Yeryüzünde kiliseler tefecilerin kasası olmuştu; bankalar ise yeni tapınaklar... Ben o putları kırdım ama ruhun boşluğunu dolduramadım.' Doğu'nun aradığı diriliş, Batı'nın çürümüş parası değil, İslam'ın adalet ve aşk nizamıdır."*  
+> — **Muhammed İkbal**, *Cavidnâme / Peyam-ı Maşrık*
 
-> *"Fransız Komünist Partisi'nin baş ideoloğuyken gördüm ki; Marksizm maddi yabancılaşmayı çözerken insanı varoluşsal bir boşluğa fırlatıyor. İslam ise adaleti göklerden koparmayan yegâne hakikattir."*  
-> — **Roger Garaudy**, *Geleceğimizde İslam Var* (1981)
+> *"İslam'da mülkiyet mutlak değil, emanettir. Asıl mülk Allah'ındır. Toplumdaki yoksulun zenginin malı üzerindeki hakkı (zekat ve infak), bir lütuf değil, ödenmesi mecburi ilahi bir vergidir."*  
+> — **Seyyid Kutub**, *İslam'da Sosyal Adalet* (1949)
+
+> *"Fransız Komünist Partisi'nin baş ideoloğuyken gördüm ki; Marksizm maddi yabancılaşmayı teşhis ederken insanı metafizik bir çölün ortasında yapayalnız bıraktı. İslam ise adaleti semadan koparmayan, insanı kâinatın halifesi kılan tek hakikattir."*  
+> — **Roger Garaudy**, *Geleceğimizde İslam Var* & *İslam'ın Vadettikleri*
 
 > *"Bizim sosyalizmimiz, Batı'nın sınıf kini üzerine kurulu materyalist kavgası değil; İslam'ın merhamet, infak ve alın teri ahlakına dayanan Anadolu ruhçuluğudur."*  
 > — **Nurettin Topçu**, *İslam ve Sosyalizm*
@@ -250,11 +300,30 @@ flowchart TD
 > — **İsmet Özel**, *Üç Mesele*
 
 > *"Kapitalizm akbaba gibidir; sömürü kapitalizmin doğasında vardır. İslam ise bütün ırkları ve sınıfları tek bir ilahi potada kardeş kılan hakikattir."*  
-> — **Malcolm X (El-Hac Şahbaz)**, 1964
+> — **Malcolm X (El-Hac Mâlik el-Şahbaz)**, 1964
 
 ---
 
-### D. Dışarıdan Yöneltilen Eleştiriler
+### D. Eleştirel Teori, Çağdaş Marksizm ve Felsefi Alıntılar
+
+> *"Tarihsel materyalizm, satranç oynayan bir otomat gibidir. Her hamleyi kazanabilir; ancak arkasında gizlenen ve ipleri elinde tutan çirkin teolojik cüceden (metafizik/ahlak arayışından) yardım aldığı sürece."*  
+> — **Walter Benjamin**, *Tarih Felsefesi Üzerine Tezler* (1940)
+
+> *"Kültür endüstrisi, kitleleri sürekli olarak vaat edilen şeylerle eğlendirirken, onları düşünmekten ve isyan etmekten alıkoyar. Reklamlar ve popüler kültür, modern insanın bilincini felç eden yeni afyondur."*  
+> — **Theodor W. Adorno & Max Horkheimer**, *Aydınlanmanın Diyalektiği* (1947)
+
+> *"Egemen sınıf sadece polisi ve ordusuyla hükmetmez; okullar, medya ve kültür aracılığıyla ezilenlerin rızasını (hegemonya) üreterek onların kendi köleliklerini meşru görmelerini sağlar."*  
+> — **Antonio Gramsci**, *Hapishane Defterleri*
+
+> *"Bugün dünyanın sonunu hayal etmek, kapitalizmin sonunu hayal etmekten daha kolay hale gelmiştir. Kapitalist gerçekçilik, başka hiçbir alternatifin mümkün olmadığını fısıldayan sinsi bir zihinsel hapishanedir."*  
+> — **Mark Fisher**, *Kapitalist Gerçekçilik* (2009)
+
+> *"Kapitalizm sadece fabrikada artı-değer üreterek değil; kamu mallarını özelleştirerek, doğal kaynakları yağmalayarak ve halkları borçlandırarak 'Mülksüzleştirme Yoluyla Birikim' yapar."*  
+> — **David Harvey**, *Yeni Emperyalizm* (2003)
+
+---
+
+### E. Dışarıdan Yöneltilen Eleştiriler (Liberalizm, Anarşizm ve Bilim Felsefesi)
 > *"Devlet varsa tahakküm vardır. Marksistlerin 'Halk Devleti' adını verdikleri şey, küçük bir bürokrat azınlığın despotizmidir. Sopanın adına 'Halkın Sopası' denmesi acıyı dindirmez."*  
 > — **Mihail Bakunin**, *Devlet ve Anarşi*
 
@@ -389,7 +458,39 @@ marksizm-okumalari/
 
 ---
 
-## 15. Dijital Kütüphaneler, Akademik Dergiler ve Açık Arşivler
+## 15. Sıkça Sorulan Sorular ve Felsefi Tahliller (FAQ)
+
+### ❓ 1. Bir Müslüman Marksizm ve Kapital okumalı mıdır?
+**Cevap:** Evet. Hz. Ali'nin *"Kişi bilmediği şeyin düşmanıdır"* ve Hz. Peygamber'in *"Hikmet müminin yitiğidir"* buyrukları uyarınca, modern dünyayı şekillendiren küresel kapitalist sömürü çarklarını anlamak için Marksizmin ekonomi politik eleştirilerini okumak entelektüel ve ahlaki bir vazifedir. Teşhis yöntemlerinden istifade edilir, ateist ontolojisi tashih edilir.
+
+### ❓ 2. İslam ve Sosyalizm aynı şey midir?
+**Cevap:** Hayır. Nurettin Topçu ve Aliya İzzetbegoviç'in belirttiği gibi, İslam ve Sosyalizm farklı ontolojik temellere dayanır. Sosyalizm materyalisttir ve insanı iktisadi üretime indirger. İslam ise Tevhidîdir; mülkü Allah'ın emaneti sayar, helal mülkiyeti ve ticareti teşvik ederken faiz, kenz ve tekelleşmeyi haram kılar. Hedef sınıf savaşı değil, adalet ve kardeşliktir.
+
+### ❓ 3. Marx'ın "Din halkın afyonudur" sözünün asıl bağlamı nedir?
+**Cevap:** Marx'ın 1844 *Hegel'in Hukuk Felsefesinin Eleştirisi* metnindeki tam ifadesi şöyledir: *"Dinsel ıstırap, hem gerçek ıstırabın bir ifadesi hem de gerçek ıstıraba karşı bir protestodur. Din, ezilen yaratığın iç çekişi, kalpsiz bir dünyanın kalbi, ruhsuz koşulların ruhudur. O, halkın afyonudur."*  
+Marx burada dini halkı uyuşturan bir yalan olarak görürken, aynı zamanda zalim çarlık ve kilise ittifakının baskısı altındaki yoksulların tek teselli sığınağı olduğunu teslim etmiştir. Ali Şeriati'nin tespitiyle Marx, sarayların **"Şirk Dini"**ni görmüş, peygamberlerin **"Tevhid Dini"**ni tanıyamamıştır.
+
+### ❓ 4. Faizsiz İktisat ile Sosyalizm arasındaki fark nedir?
+**Cevap:** Sosyalizm piyasayı ve kârı tamamen yok ederek mülkiyeti devlete devreder (bu da yeni bir bürokratik sınıf yaratır). İslam iktisadı ise piyasayı yok etmez; piyasayı faizden, spekülasyondan, tekellerden ve ihtikardan arındırır. Zekat, infak ve hisbe teşkilatıyla servetin tabana yayılmasını garanti eder.
+
+---
+
+## 16. Temel Kavramlar ve Hızlı Başvuru Sözlüğü
+
+| Terim / Kavram | Orijinal / Literatür | İzahı ve İslami Mukayesesi |
+| :--- | :--- | :--- |
+| **Artı-Değer ($s$)** | *Mehrwert* (Marx) | İşçinin yarattığı toplam değer ile ona ödenen asgari ücret arasındaki çalınmış pay. İslam'da açık bir kul hakkı gaspıdır. |
+| **Yabancılaşma** | *Entfremdung* (Marx) | İnsanın kendi emeğine, ürettiği nesneye ve fıtratına yabancılaşarak eşyalaşması. |
+| **Meta Fetişizmi** | *Commodity Fetishism* | İnsan yapımı nesnelerin ve paranın ilahlaştırılması; modern putperestlik ve heva şirkidir. |
+| **Kenz (Yığmacılık)** | *Kenz* (Kur'an / Tevbe:34) | Serveti atıl bırakıp toplumun istifadesine ve dolaşımına sunmama suçu; sermaye tekelleşmesi. |
+| **Riba (Faiz)** | *Riba* (Kur'an / Bakara:275) | Paradan risksiz ve emeksiz para kazanma zulmü; küresel finansal asalaklık. |
+| **Hegemonya** | *Egemonia* (Gramsci) | Egemen sınıfın ideolojisini kitlelere medya ve kültürle "doğal ve alternatifsiz" kabul ettirme sanatı. |
+| **Metabolik Yarılma** | *Metabolic Rift* (Marx) | Kapitalizmin toprağı, suyu ve doğayı doymak bilmez kâr hırsıyla tüketip ekolojik dengeyi bozması (Rûm:41). |
+| **Emanet Mülkiyet** | *İstihlaf* (İslam Hukuku) | Mülkün yegâne sahibinin Allah olduğu, insanın yalnızca sorumlu bir vekil olduğu ilkesi. |
+
+---
+
+## 17. Dijital Kütüphaneler, Akademik Dergiler ve Açık Arşivler
 
 * 📚 [Marxists Internet Archive (MIA)](https://www.marxists.org/) & [MIA Türkçe](https://www.marxists.org/turkce/index.htm)
 * 🎓 [Historical Materialism Journal](https://www.historicalmaterialism.org/)
@@ -399,7 +500,7 @@ marksizm-okumalari/
 
 ---
 
-## 16. Katkıda Bulunma Standartları ve Lisans
+## 18. Katkıda Bulunma Standartları ve Lisans
 
 Bu külliyat; hakikatin izini süren araştırmacıların kolektif katkılarıyla büyümektedir.
 * Yeni maddeler, tashihler veya kaynaklar eklemek için [CONTRIBUTING.md](CONTRIBUTING.md) dosyasını inceleyin.

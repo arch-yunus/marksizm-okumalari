@@ -38,12 +38,13 @@ Bu repo; 19. yüzyılda **Karl Marx** ve **Friedrich Engels** tarafından kurams
    - [13. Türkiye'de Marksist Düşünce ve Sosyalist Miras](#13-türkiyede-marksist-düşünce-ve-sosyalist-miras)
    - [14. Dışarıdan Yöneltilen Eleştiriler ve Karşı-Tezler (Bakunin, Weber, Mises, Hayek, Popper, Arendt)](#14-dışarıdan-yöneltilen-eleştiriler-ve-karşı-tezler-bakunin-weber-mises-hayek-popper-arendt)
 6. [⚠️ Marksizmin Eksikleri, Kuramsal Kör Noktaları ve Eleştirel Alıntılar](#️-marksizmin-eksikleri-kuramsal-kör-noktaları-ve-eleştirel-alıntılar)
-7. [📐 Ekonomi Politiğin Matematiksel ve Kavramsal Formülasyonları](#-ekonomi-politiğin-matematiksel-ve-kavramsal-formülasyonları)
-8. [📚 Yapılandırılmış Okuma Kılavuzu (Pedagojik Seviyeler ve Tematik Rotalar)](#-yapılandırılmış-okuma-kılavuzu-pedagojik-seviyeler-ve-tematik-rotalar)
-9. [⚖️ Eleştiriler, Açmazlar ve Karşı-Tezler Matrisi](#️-eleştiriler-açmazlar-ve-karşı-tezler-matrisi)
-10. [📁 Modüler Dokümantasyon ve Kapsamlı Alt Kılavuzlar](#-modüler-dokümantasyon-ve-kapsamlı-alt-kılavuzlar)
-11. [🌐 Dijital Kütüphaneler, Akademik Dergiler ve Açık Arşivler](#-dijital-kütüphaneler-akademik-dergiler-ve-açık-arşivler)
-12. [🤝 Katkıda Bulunma Standartları ve Lisans](#-katkıda-bulunma-standartları-ve-lisans)
+7. [🌍 Marksizm Uygulandı mı, Uygulanıyor mu? (Reel Sosyalizm Bilançosu)](#-marksizm-uygulandı-mı-uygulanıyor-mu-reel-sosyalizm-bilançosu)
+8. [📐 Ekonomi Politiğin Matematiksel ve Kavramsal Formülasyonları](#-ekonomi-politiğin-matematiksel-ve-kavramsal-formülasyonları)
+9. [📚 Yapılandırılmış Okuma Kılavuzu (Pedagojik Seviyeler ve Tematik Rotalar)](#-yapılandırılmış-okuma-kılavuzu-pedagojik-seviyeler-ve-tematik-rotalar)
+10. [⚖️ Eleştiriler, Açmazlar ve Karşı-Tezler Matrisi](#️-eleştiriler-açmazlar-ve-karşı-tezler-matrisi)
+11. [📁 Modüler Dokümantasyon ve Kapsamlı Alt Kılavuzlar](#-modüler-dokümantasyon-ve-kapsamlı-alt-kılavuzlar)
+12. [🌐 Dijital Kütüphaneler, Akademik Dergiler ve Açık Arşivler](#-dijital-kütüphaneler-akademik-dergiler-ve-açık-arşivler)
+13. [🤝 Katkıda Bulunma Standartları ve Lisans](#-katkıda-bulunma-standartları-ve-lisans)
 
 ---
 
@@ -532,6 +533,48 @@ Marksist kuram; kapitalizmin sömürü dinamiklerini çözümlerken sunduğu ola
 
 ---
 
+## 🌍 Marksizm Uygulandı mı, Uygulanıyor mu? (Reel Sosyalizm Bilançosu)
+
+Marksizm bir fikir ve felsefi kuram olmanın ötesinde, 20. yüzyılda dünya nüfusunun üçte birini yöneten devletlerin resmi ideolojisi olmuştur. Peki bu sistem nerelerde uygulandı, günümüzde sürüyor mu ve çalışan, başarılı bir sistem miydi?
+
+### 1. Nerelerde ve Nasıl Uygulandı?
+* **Sovyetler Birliği (1917–1991):** Feodal köylü Çarlığını 30 yılda uzay çağına taşıyan, merkezi planlamalı ilk işçi devleti deneyi.
+* **Doğu Bloku (1945–1989):** Doğu Almanya, Polonya, Macaristan, Çekoslovakya'da uygulanan tek partili planlı ekonomiler.
+* **Yugoslavya (1948–1992):** Sovyet katılığına karşı işçi konseylerine dayanan "Özyönetimci Sosyalizm" modeli.
+* **Maoist Çin (1949–1976):** Kır gerillası ve halk komünlerine dayanan köylü sosyalizmi.
+* **Küba ve Vietnam:** Anti-emperyalist bağımsızlık mücadeleleriyle kurulan sosyalist rejimler.
+
+### 2. Günümüzde Hâlâ Uygulanıyor mu?
+* **🇨🇳 Çin Halk Cumhuriyeti:** Komünist Parti siyasi tekelini korurken stratejik sektörleri, devasa kamu bankalarını ve planlamayı elinde tutmakta; serbest piyasa ve özel teşebbüsü devlet kontrolünde kaldıraç olarak kullanan **"Sosyalist Piyasa Ekonomisi"** ile dünyanın 2. büyük ekonomisi konumundadır.
+* **🇨🇺 Küba:** 60 yıllık ABD ablukasına rağmen ücretsiz sağlık, eğitim ve kamu mülkiyetini sürdürmektedir.
+* **🇻🇳 Vietnam:** *Doi Moi* reformlarıyla piyasa ve sosyalist devlet planlamasını birleştiren dinamik sanayi modeli.
+* **🇮🇳 Kerala (Hindistan) & 🇲🇽 Zapatistalar (Meksika):** Demokratik yerel yönetimler ve taban komünleri.
+
+---
+
+### ⚖️ Tarihsel Bilanço: Başarılar vs. Başarısızlıklar
+
+```
+              BAŞARILAR                                   BAŞARISIZLIKLAR
+  ┌────────────────────────────────────────┐  ┌────────────────────────────────────────┐
+  │ 📚 Okuma-yazma seferberliği ve eğitim  │  │ 🔒 Tek parti diktatörlüğü ve baskı     │
+  │ 🏥 Herkese ücretsiz kamusal sağlık     │  │ 🩸 Gulag kampları ve siyasi tasfiyeler │
+  │ 🏡 Sıfır evsizlik ve barınma garantisi │  │ 🛒 Tüketim mallarında kıtlık & kuyruklar│
+  │ 👩 Kadın hakları (Eşit ücret, kürtaj)  │  │ 👔 'Nomenklatura' (Bürokratik elitler) │
+  │ 🚀 Uzay & ağır sanayi atılımları       │  │ 📉 Sivil teknolojide inovasyon açığı   │
+  │ 🛡️ Batı'da sosyal refah devletini doğ. │  │ 🌾 Zorla kolektifleştirme krizleri     │
+  └────────────────────────────────────────┘  └────────────────────────────────────────┘
+```
+
+### 🎯 "Marksizm Çalışan Bir Sistem mi?" Sorusunun Yanıtı:
+1. **Eleştiri ve Teori Olarak:** **%100 ÇALIŞIYOR.** Kapitalizmin krizlerini, finansal balonlarını, eşitsizliği ve ekolojik yıkımını çözmede insanlığın geliştirdiği en güçlü kuramsal silahtır.
+2. **20. Yüzyıl Katı Komuta Ekonomisi Olarak:** **ÇÖKTÜ.** Tüketici tercihlerini yok sayan, sivil toplumu ve ifade özgürlüğünü ezen bürokratik model sürdürülemez olduğunu kanıtladı.
+3. **Kazanımlar Açısından:** **DÜNYAYI DEĞİŞTİRDİ.** 8 saatlik iş günü, kıdem tazminatı, sosyal güvenlik ve kadın hakları küresel olarak sosyalizmin yarattığı basınç sayesinde kazanıldı.
+
+> Ayrıntılı ülke modelleri, karşılaştırmalı istatistikler ve teorik tartışmalar için: [`docs/tarihsel-uygulamalar-ve-reel-sosyalizm-bilancosu.md`](docs/tarihsel-uygulamalar-ve-reel-sosyalizm-bilancosu.md)
+
+---
+
 ## 📐 Ekonomi Politiğin Matematiksel ve Kavramsal Formülasyonları
 
 Marx'ın *Kapital*'de formüle ettiği temel ekonomik bağıntılar:
@@ -608,6 +651,7 @@ marksizm-okumalari/
     ├── turkiye-marksizm-tarihi.md                     # Osmanlı'dan Günümüze Türkiye Solu ve Düşünce Tarihi
     ├── cagdas-marksizm-ve-tartismalar.md              # Dijital Emek, Platformlar, Ekoloji ve 21. Yüzyıl
     ├── marksizmin-eksikleri-ve-elestirel-alintilar.md # Eksikler, Kör Noktalar ve Eleştirel Alıntılar
+    ├── tarihsel-uygulamalar-ve-reel-sosyalizm-bilancosu.md # Uygulandı mı? Reel Sosyalizm Bilançosu
     ├── elestiriler-ve-tartismalar.md                  # Karşı Görüşler, Eleştiriler ve Savunular
     └── calisma-sorulari-ve-tartisma-konulari.md       # Atölyeler ve Gruplar İçin Tartışma Soruları
 ```
@@ -620,6 +664,7 @@ marksizm-okumalari/
 - ⚙️ [**Diyalektik & Tarihsel Materyalizm**](docs/diyalektik-ve-tarihsel-materyalizm-rehberi.md) — Hegel'den Marx'a diyalektiğin 3 yasası ve üretim tarzları.
 - 🇹🇷 [**Türkiye'de Marksizm Tarihi**](docs/turkiye-marksizm-tarihi.md) — Osmanlı'dan TİP, 68 Kuşağı, Kıvılcımlı ve günümüze.
 - 🌐 [**Çağdaş Marksizm ve Tartışmalar**](docs/cagdas-marksizm-ve-tartismalar.md) — Platform kapitalizmi, Fisher, Saito, Žižek, Yapay Zekâ.
+- 🌍 [**Reel Sosyalizm Bilançosu ve Uygulamalar**](docs/tarihsel-uygulamalar-ve-reel-sosyalizm-bilancosu.md) — SSCB, Çin, Küba, kazanımlar ve çöküş nedenleri.
 - ⚠️ [**Marksizmin Eksikleri ve Eleştirel Alıntılar**](docs/marksizmin-eksikleri-ve-elestirel-alintilar.md) — Popper, Hayek, Weber, Bakunin, Foucault eleştirileri.
 - ⚖️ [**Eleştiriler ve Tartışmalar**](docs/elestiriler-ve-tartismalar.md) — Karşı-tezler ve Marksist yanıtlar matrisi.
 - 📚 [**Yapılandırılmış Okuma Rehberi**](docs/okuma-rehberi.md) — Seviye bazlı (Başlangıç, Orta, İleri) kitap listeleri.

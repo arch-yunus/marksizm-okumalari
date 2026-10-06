@@ -3,7 +3,7 @@
 [![Lisans: MIT](https://img.shields.io/badge/Lisans-MIT-red.svg)](LICENSE)
 [![Perspektif: İslami & Tevhidî](https://img.shields.io/badge/Perspektif-İslami%20%7C%20Tevhid%20%7C%20Sosyal%20Adalet-darkgreen.svg)](#)
 [![Katkılara Açık](https://img.shields.io/badge/Katkılara-Açık-brightgreen.svg)](CONTRIBUTING.md)
-[![Dokümantasyon: Eksiksiz](https://img.shields.io/badge/Dokümantasyon-14%20Özel%20Monografi-blue.svg)](docs/)
+[![Dokümantasyon: Eksiksiz](https://img.shields.io/badge/Dokümantasyon-15%20Özel%20Monografi-blue.svg)](docs/)
 [![Durum](https://img.shields.io/badge/Durum-Aktif%20Geliştirme-success.svg)](#)
 
 > *"Hikmet müminin yitiğidir; nerede bulursa onu almaya en layık olan odur."*  
@@ -45,8 +45,8 @@ Bu açık kaynak kütüphanesi; **Müslüman bir araştırmacı, ilim talebesi v
    - [Tevhid, İnfak ve Sosyal Adalet Modeli](#tevhid-i̇nfak-ve-sosyal-adalet-modeli)
 4. [🗺️ Düşünce Ekolleri, Akımlar ve Müslüman Mütefekkirler Matrisi](#4-düşünce-ekolleri-akımlar-ve-müslüman-mütefekkirler-matrisi)
 5. [⏱️ Tarihsel Dönüm Noktaları ve Kronoloji (1818 - Günümüz)](#5-tarihsel-dönüm-noktaları-ve-kronoloji-1818---günümüz)
-6. [🖋️ Kapsamlı Alıntılar Kataloğu (Kurucu Metinler & İslam Âlimleri)](#6-kapsamlı-alıntılar-kataloğu)
-   - [A. Karl Marx & Friedrich Engels (Temel Metinler)](#a-karl-marx--friedrich-engels-temel-metinler)
+6. [💎 Kapsamlı Alıntılar Kataloğu ve İsabetli Teşhisler Antolojisi](#6-kapsamlı-alıntılar-kataloğu-ve-i̇sabetli-teşhisler-antolojisi)
+   - [A. Karl Marx & Friedrich Engels (Temel Metinler ve İsabetli Teşhisler)](#a-karl-marx--friedrich-engels-temel-metinler-ve-i̇sabetli-teşhisler)
    - [B. Devrim ve Emperyalizm (Lenin, Luxemburg, Troçki, Fanon)](#b-devrim-ve-emperyalizm-lenin-luxemburg-troçki-fanon)
    - [C. İslam Mütefekkirleri ve Sosyal Adalet (Gazali, Şeriati, İkbal, Garaudy, Topçu, Karakoç, Özel, Malcolm X)](#c-i̇slam-mütefekkirleri-ve-sosyal-adalet)
    - [D. Dışarıdan Yöneltilen Eleştiriler (Bakunin, Weber, Mises, Hayek, Popper, Arendt)](#d-dışarıdan-yöneltilen-eleştiriler)
@@ -57,7 +57,7 @@ Bu açık kaynak kütüphanesi; **Müslüman bir araştırmacı, ilim talebesi v
 11. [⚖️ Tevhid, Adalet ve Küresel Sermaye Eleştirisi (Maneviyat ve İktisat)](#11-tevhid-adalet-ve-küresel-sermaye-eleştirisi-maneviyat-ve-i̇ktisat)
 12. [📐 Das Kapital ve Ekonomi Politiğin Matematiksel Formülasyonları](#12-das-kapital-ve-ekonomi-politiğin-matematiksel-formülasyonları)
 13. [📚 Yapılandırılmış Okuma Kılavuzu (Pedagojik Seviyeler ve Rotalar)](#13-yapılandırılmış-okuma-kılavuzu-pedagojik-seviyeler-ve-rotalar)
-14. [📁 Modüler Dokümantasyon Dizini (14 Özel Monografi Dosyası)](#14-modüler-dokümantasyon-dizini)
+14. [📁 Modüler Dokümantasyon Dizini (15 Özel Monografi Dosyası)](#14-modüler-dokümantasyon-dizini)
 15. [🌐 Dijital Kütüphaneler, Akademik Dergiler ve Açık Arşivler](#15-dijital-kütüphaneler-akademik-dergiler-ve-açık-arşivler)
 16. [🤝 Katkıda Bulunma Standartları ve Lisans](#16-katkıda-bulunma-standartları-ve-lisans)
 
@@ -166,23 +166,40 @@ flowchart TD
 
 ---
 
-## 6. Kapsamlı Alıntılar Kataloğu
+## 6. Kapsamlı Alıntılar Kataloğu ve İsabetli Teşhisler Antolojisi
 
-### A. Karl Marx & Friedrich Engels (Temel Metinler)
+> 💎 **Özel İhtisas Dosyası:** Marksizmin kapitalizm teşhisindeki en çarpıcı hakikatleri, mantıksal doğrulukları ve kapsamlı alıntı antolojisi için: [`docs/marksizmdeki-hakikatler-ve-isabetli-teshisler.md`](docs/marksizmdeki-hakikatler-ve-isabetli-teshisler.md)
+
+### A. Karl Marx & Friedrich Engels (Temel Metinler ve İsabetli Teşhisler)
 > *"Filozoflar dünyayı yalnızca çeşitli biçimlerde yorumlamakla yetindiler; oysa asıl sorun onu değiştirmektir."*  
 > — **Karl Marx**, *Feuerbach Üzerine Tezler* (1845)
 
 > *"Sermaye ölü emektir; vampir gibi ancak canlı emeği emerek yaşar ve ne kadar çok canlı emek emerse o kadar çok yaşar."*  
-> — **Karl Marx**, *Das Kapital*, Cilt 1
+> — **Karl Marx**, *Das Kapital*, Cilt 1, Bölüm 10
 
 > *"İşçi ne kadar çok zenginlik üretirse, kendisi o kadar yoksul bir meta haline gelir. Nesnelerin dünyasının değer kazanması, insanların dünyasının değersizleşmesiyle doğru orantılıdır."*  
-> — **Karl Marx**, *1844 Elyazmaları*
+> — **Karl Marx**, *1844 İktisadi ve Felsefi Elyazmaları*
+
+> *"Metanın fetiş karakteri: İnsan elinin ürünleri, kendi başlarına yaşayan, insanlarla ilişki kuran bağımsız ilahlara dönüşür. İnsanlar elleriyle yaptıkları nesnelerin (markaların, paranın, borsanın) kölesi olurlar."*  
+> — **Karl Marx**, *Das Kapital*, Cilt 1, Bölüm 1 (Meta Fetişizmi)
+
+> *"Sermaye yüzde 100 kârda bütün insani kanunları ayaklar altına alır; yüzde 300 kâr karşısında ise işleyemeyeceği hiçbir cinayet, göze alamayacağı hiçbir cürüm yoktur; darağacı tehdidi altında olsa bile."*  
+> — **T.J. Dunning'den aktaran Karl Marx**, *Das Kapital*, Cilt 1
+
+> *"Kapitalist üretim, insan ile toprak arasındaki metabolik etkileşimi bozar; bütün zenginliğin asıl kaynağını tüketir: Toprağı ve İşçiyi."*  
+> — **Karl Marx**, *Das Kapital*, Cilt 1 (Metabolik Yarılma / Ekolojik Kriz)
+
+> *"Faiz getiren sermaye ($M - M'$), sermayenin en fetişleşmiş ve en paraziter biçimidir. Para doğrudan doğruya para doğurur; bu ise en saf haliyle asalaklıktır."*  
+> — **Karl Marx**, *Das Kapital*, Cilt 3, Bölüm 24
 
 ---
 
 ### B. Devrim ve Emperyalizm (Lenin, Luxemburg, Troçki, Fanon)
 > *"Emperyalizm; mali sermayenin ve tekellerin dünyayı paylaştığı, asalak ve son aşamadır."*  
 > — **V. I. Lenin**, *Emperyalizm* (1916)
+
+> *"Kapitalizm varlığını sürdürebilmek için kapitalist olmayan coğrafyaları, geleneksel tarım toplumlarını ve Doğulu halkları zorla ve kanla kendi pazarına katmak zorundadır."*  
+> — **Rosa Luxemburg**, *Sermaye Birikimi* (1913)
 
 > *"Özgürlük, daima ve sadece farklı düşünenin özgürlüğüdür."*  
 > — **Rosa Luxemburg**, *Rus Devrimi Üzerine*
@@ -317,7 +334,7 @@ $$s' = \frac{s}{v}, \quad p' = \frac{s}{c+v} = \frac{s'}{\frac{c}{v} + 1}$$
 
 ## 14. Modüler Dokümantasyon Dizini
 
-Projedeki 14 adet kapsamlı araştırma ve ihtisas belgesi:
+Projedeki 15 adet kapsamlı araştırma ve ihtisas belgesi:
 
 ```
 marksizm-okumalari/
@@ -325,6 +342,7 @@ marksizm-okumalari/
 ├── CONTRIBUTING.md                                           # Katkı İlkeleri ve Akademik Standartlar
 ├── LICENSE                                                   # MIT Açık Kaynak Lisansı
 └── docs/
+    ├── marksizmdeki-hakikatler-ve-isabetli-teshisler.md     # 💎 Marksizmdeki Mantıklı Hakikatler ve Alıntılar Külliyatı
     ├── musluman-bakis-acisiyla-marksizm.md                  # 🌙 Müslüman Bakış Açısıyla Marksizm Ana Rehberi
     ├── islam-iktisadi-ve-kapitalizm-marksizm-karsilastirmasi.md # ⚖️ 10 Temel Eksende Mukayeseli İktisat Felsefesi
     ├── musluman-arastirmacilar-icin-marksizm-okuma-rehberi.md # 📚 Müslüman Talebeler İçin 4 Aşamalı Okuma Müfredatı

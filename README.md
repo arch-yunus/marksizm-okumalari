@@ -37,12 +37,13 @@ Bu repo; 19. yüzyılda **Karl Marx** ve **Friedrich Engels** tarafından kurams
    - [12. Mekân, Finansallaşma ve Kriz Kuramı (David Harvey & Post-Marksizm)](#12-mekân-finansallaşma-ve-kriz-kuramı-david-harvey--post-marksizm)
    - [13. Türkiye'de Marksist Düşünce ve Sosyalist Miras](#13-türkiyede-marksist-düşünce-ve-sosyalist-miras)
    - [14. Dışarıdan Yöneltilen Eleştiriler ve Karşı-Tezler (Bakunin, Weber, Mises, Hayek, Popper, Arendt)](#14-dışarıdan-yöneltilen-eleştiriler-ve-karşı-tezler-bakunin-weber-mises-hayek-popper-arendt)
-6. [📐 Ekonomi Politiğin Matematiksel ve Kavramsal Formülasyonları](#-ekonomi-politiğin-matematiksel-ve-kavramsal-formülasyonları)
-7. [📚 Yapılandırılmış Okuma Kılavuzu (Pedagojik Seviyeler ve Tematik Rotalar)](#-yapılandırılmış-okuma-kılavuzu-pedagojik-seviyeler-ve-tematik-rotalar)
-8. [⚖️ Eleştiriler, Açmazlar ve Karşı-Tezler Matrisi](#️-eleştiriler-açmazlar-ve-karşı-tezler-matrisi)
-9. [📁 Modüler Dokümantasyon ve Alt Kılavuzlar](#-modüler-dokümantasyon-ve-alt-kılavuzlar)
-10. [🌐 Dijital Kütüphaneler, Akademik Dergiler ve Açık Arşivler](#-dijital-kütüphaneler-akademik-dergiler-ve-açık-arşivler)
-11. [🤝 Katkıda Bulunma Standartları ve Lisans](#-katkıda-bulunma-standartları-ve-lisans)
+6. [⚠️ Marksizmin Eksikleri, Kuramsal Kör Noktaları ve Eleştirel Alıntılar](#️-marksizmin-eksikleri-kuramsal-kör-noktaları-ve-eleştirel-alıntılar)
+7. [📐 Ekonomi Politiğin Matematiksel ve Kavramsal Formülasyonları](#-ekonomi-politiğin-matematiksel-ve-kavramsal-formülasyonları)
+8. [📚 Yapılandırılmış Okuma Kılavuzu (Pedagojik Seviyeler ve Tematik Rotalar)](#-yapılandırılmış-okuma-kılavuzu-pedagojik-seviyeler-ve-tematik-rotalar)
+9. [⚖️ Eleştiriler, Açmazlar ve Karşı-Tezler Matrisi](#️-eleştiriler-açmazlar-ve-karşı-tezler-matrisi)
+10. [📁 Modüler Dokümantasyon ve Kapsamlı Alt Kılavuzlar](#-modüler-dokümantasyon-ve-kapsamlı-alt-kılavuzlar)
+11. [🌐 Dijital Kütüphaneler, Akademik Dergiler ve Açık Arşivler](#-dijital-kütüphaneler-akademik-dergiler-ve-açık-arşivler)
+12. [🤝 Katkıda Bulunma Standartları ve Lisans](#-katkıda-bulunma-standartları-ve-lisans)
 
 ---
 
@@ -468,9 +469,66 @@ timeline
 > *"Bilimsel bir kuram yanlışlanabilir riskler almalıdır. Marksizm, gerçekleşmeyen öngörülerini (örneğin Batı'da devrim beklentisi) kurtarmak için yardımcı hipotezlerle teoriyi her şeye uyduran dogmatik bir sözde-bilim (*pseudo-science*) haline gelmiştir."*  
 > — *Açık Toplum ve Düşmanları* (1945)
 
-> **Hannah Arendt (Totalitarizm ve Kamusal Alan):**  
-> *"Sınıfsız bir toplum ütopyası adına hareket eden totaliter hareketler; hukuku, çoğulculuğu ve bireysel vicdanı sınıf savaşı mantığına kurban ederek insanı değersizleştirir."*  
-> — *Totalitarizmin Kökenleri* (1951)
+---
+
+## ⚠️ Marksizmin Eksikleri, Kuramsal Kör Noktaları ve Eleştirel Alıntılar
+
+Marksist kuram; kapitalizmin sömürü dinamiklerini çözümlerken sunduğu olağanüstü güce rağmen, 19. yüzyıldan bugüne iktisatçılar, felsefeciler, anarşistler ve sosyologlar tarafından önemli "kör noktalar", "öngörü yanılgıları" ve "yapısal eksiklikler" barındırdığı gerekçesiyle eleştirilmiştir.
+
+### 📌 Başlıca Açmazlar ve Eksiklik Başlıkları:
+1. **İktisadi Hesaplama ve Fiyat Mekanizması Yokluğu:** Milyonlarca malın ve tüketici tercihinin piyasa sinyalleri olmaksızın merkezi bir bürokrasi tarafından rasyonel dağıtılamaması.
+2. **Epistemolojik Dogmatizm ve Yanlışlanamazlık:** Gerçekleşmeyen öngörülerin (örneğin gelişmiş Batı ülkelerinde proletaryanın mutlak yoksullaşması) sürekli yardımcı varsayımlarla örtülerek teorinin bilimsel nitelikten çıkarılması.
+3. **Devlet ve Bürokrasi Tuzağı (Yeni Sınıf / Nomenklatura):** Özel mülkiyet devlete devredildiğinde sömürünün bitmeyip parti bürokrasisinin yeni bir yönetici/sömürücü sınıfa dönüşmesi.
+4. **Ekonomik İndirgemecilik ve Çok Boyutlu İktidar Körlüğü:** İktidarın yalnızca devlette veya fabrikada değil; dilde, cinsellikte, bilgide ve kültürel yapılarda kılcal olarak işlediği gerçeği.
+5. **İnsan Doğası ve Teşvik Mekanizmaları:** Bencillik ve hırsın yalnızca özel mülkiyetten kaynaklanmadığı; mülkiyet bağı koptuğunda ortak mallarda yaşanan savurganlık ve sorumluluk kaybı.
+6. **Milliyetçilik ve Kimlik Dinamiklerini Hafife Alma:** 1914'ten bugüne ulusal, etnik ve dinsel aidiyetlerin sınıf bilincinden çok daha güçlü kitle seferberlikleri yaratabilmesi.
+7. **Orta Sınıfların Genişlemesi:** Toplumun sadece iki kutba (burjuvazi ve proleter) ayrılmayıp, yönetici, uzman ve teknokratik orta sınıfın devasa büyümesi.
+
+---
+
+### 🖋️ Öne Çıkan Eleştirel Alıntılar Antolojisi
+
+#### A. İktisat ve Piyasa Eleştirisi (Avusturya Okulu & Schumpeter)
+> *"Piyasa fiyatları olmadan rasyonel bir ekonomik hesaplama yapılamaz. Sosyalist bir toplumda planlamacılar, hangi fabrikanın ne kadar üreteceğini ve kaynakların nereye gideceğini hesaplayamaz; zira değer ancak piyasadaki milyonlarca insanın özgür mübadele kararlarının sinyaliyle ortaya çıkar."*  
+> — **Ludwig von Mises**, *Sosyalist Toplulukta Ekonomik Hesaplama* (1920)
+
+> *"Toplumdaki bilgi asla tek bir merkeze aktarılamayacak kadar dağınık, yerel ve anlıktır. Bu bilgiyi merkezi bir devlet aklının toplayıp yönetebileceğini sanmak 'Ölümcül Bir Kibir'dir (*The Fatal Conceit*)."*  
+> — **Friedrich A. Hayek**, *Toplumda Bilginin Kullanımı* (1945)
+
+> *"Kapitalizmin asıl gücü dengede değil; eski yapıları durmaksızın içeriden yıkarak yenilerini inşa eden 'Yaratıcı Yıkım' (*Creative Destruction*) sürecindedir. Bu dinamik inovasyon Marx'ın determinist şemalarında yer almaz."*  
+> — **Joseph Schumpeter**, *Kapitalizm, Sosyalizm ve Demokrasi* (1942)
+
+#### B. Bilim Felsefesi ve Yanlışlanabilirlik (Popper & Kołakowski)
+> *"Marksizm başlangıçta sahiden bilimseldi; çünkü yanlışlanabilir iddialarda bulunmuştu (İngiltere'de devrim beklentisi, işçilerin sürekli mutlak yoksullaşması vb.). Ancak bu iddialar tutmadığında teorisyenler teoriyi terk etmek yerine onu her türlü olguya uyduracak yardımcı varsayımlarla donattılar. Böylece Marksizm bilim olmaktan çıkıp dogmatik bir inanca dönüştü."*  
+> — **Karl Popper**, *Bilimsel Araştırmanın Mantığı* (1934) & *Açık Toplum ve Düşmanları* (1945)
+
+> *"Marksizm, modern çağın en büyük seküler diniydi. Proletarya 'Mesih', Burjuvazi 'Şeytan', Komünist Parti 'Kilise' ve sınıfsız komünist toplum ise yeryüzündeki 'Cennet'ti."*  
+> — **Leszek Kołakowski**, *Marksizmin Ana Akımları* (1976)
+
+#### C. Otorite, Bürokrasi ve Yeni Sınıf (Bakunin, Djilas, Camus)
+> *"Devlet varsa tahakküm vardır, kölelik vardır. Marksistlerin 'Halkın Devleti' adını verdikleri şey, proletaryanın başına geçecek küçük bir bürokrat ve ulema azınlığının despotizmidir. Halk bir sopayla dövüldüğünde, o sopanın adına 'Halkın Sopası' denmesi işçilerin acısını dindirmez."*  
+> — **Mihail Bakunin**, *Devlet ve Anarşi* (1873)
+
+> *"Komünist devrimler özel kapitalistleri tasfiye etti ama sömürüyü bitirmedi; sadece üretimi ve dağıtımı tekeline alan 'Yeni Bir Sınıf' —Parti Bürokrasisi (Nomenklatura)— yarattı. Bu yeni sınıf, eski burjuvaziden çok daha mutlak ve denetimsiz bir imtiyaz zırhına büründü."*  
+> — **Milovan Djilas**, *Yeni Sınıf: Komünist Sistemin Bir Tahlili* (1957)
+
+> *"Gelecekteki soyut bir insanlık cenneti uğruna bugünkü somut insanları feda eden her devrim, eninde sonunda cellatların rejimine dönüşür. İnsanı bir tarihsel araç konumuna indiren kuramlar özgürlük değil, terör üretir."*  
+> — **Albert Camus**, *Başkaldıran İnsan* (1951)
+
+#### D. Sosyoloji, İktidar ve İnsan Doğası (Weber, Foucault, Freud, Baudrillard)
+> *"Marx altyapının her şeyi belirlediğini öne sürdü; oysa din, zihniyet, prestij ve siyasi güç ekonomik ilişkilerden bağımsız olarak tarihi şekillendiren otonom değişkenlerdir. Modern kapitalizm bile kömür ve demirden önce Kalvinist Protestan ahlakın rasyonel zihniyetiyle doğmuştur."*  
+> — **Max Weber**, *Protestan Ahlakı ve Kapitalizmin Ruhu* (1905)
+
+> *"İktidar sadece devlet aygıtında veya fabrikada merkezileşmiş bir şey değildir; iktidar kılcal damarlara yayılmıştır, dilde, tıpta, delilik tanımlarında ve gündelik disiplin pratiklerinde üretilir. Sadece üretim araçlarını kamulaştırmak modern tahakküm şebekelerini yok etmeye yetmez."*  
+> — **Michel Foucault**, *Hapishanenin Doğuşu* (1975)
+
+> *"Komünistler mülkiyeti kaldırarak insanın içsel saldırganlığını yok edeceklerini sanırlar; oysa mülkiyet saldırganlığın nedeni değil, yalnızca onun araçlarından biridir. Eşitlik kurulsa bile insanlar güç, prestij, cinsel arzu ve statü alanlarında çatışmaya devam edecektir."*  
+> — **Sigmund Freud**, *Uygarlığın Huzursuzluğu* (1930)
+
+> *"Marksizm, kapitalizmin üretim ve meta fetişizmi mantığını eleştirirken ironik bir biçimde onun 'üretici insan' (homo economicus) paradigmasını benimsedi; insanın simgesel, büyüsel ve arzu dünyasını ekonomik üretime indirgeyerek bizzat eleştirdiği sistemin aynasına dönüştü."*  
+> — **Jean Baudrillard**, *Üretimin Aynası* (1973)
+
+> Detaylı eleştiri çözümlemeleri ve kaynak metinler için: [`docs/marksizmin-eksikleri-ve-elestirel-alintilar.md`](docs/marksizmin-eksikleri-ve-elestirel-alintilar.md)
 
 ---
 
@@ -549,6 +607,7 @@ marksizm-okumalari/
     ├── diyalektik-ve-tarihsel-materyalizm-rehberi.md # Felsefi Metodoloji, Doğa ve Toplum Diyalektiği
     ├── turkiye-marksizm-tarihi.md                     # Osmanlı'dan Günümüze Türkiye Solu ve Düşünce Tarihi
     ├── cagdas-marksizm-ve-tartismalar.md              # Dijital Emek, Platformlar, Ekoloji ve 21. Yüzyıl
+    ├── marksizmin-eksikleri-ve-elestirel-alintilar.md # Eksikler, Kör Noktalar ve Eleştirel Alıntılar
     ├── elestiriler-ve-tartismalar.md                  # Karşı Görüşler, Eleştiriler ve Savunular
     └── calisma-sorulari-ve-tartisma-konulari.md       # Atölyeler ve Gruplar İçin Tartışma Soruları
 ```
@@ -561,7 +620,8 @@ marksizm-okumalari/
 - ⚙️ [**Diyalektik & Tarihsel Materyalizm**](docs/diyalektik-ve-tarihsel-materyalizm-rehberi.md) — Hegel'den Marx'a diyalektiğin 3 yasası ve üretim tarzları.
 - 🇹🇷 [**Türkiye'de Marksizm Tarihi**](docs/turkiye-marksizm-tarihi.md) — Osmanlı'dan TİP, 68 Kuşağı, Kıvılcımlı ve günümüze.
 - 🌐 [**Çağdaş Marksizm ve Tartışmalar**](docs/cagdas-marksizm-ve-tartismalar.md) — Platform kapitalizmi, Fisher, Saito, Žižek, Yapay Zekâ.
-- ⚖️ [**Eleştiriler ve Tartışmalar**](docs/elestiriler-ve-tartismalar.md) — Popper, Hayek, Weber, Bakunin ve Marksist yanıtlar.
+- ⚠️ [**Marksizmin Eksikleri ve Eleştirel Alıntılar**](docs/marksizmin-eksikleri-ve-elestirel-alintilar.md) — Popper, Hayek, Weber, Bakunin, Foucault eleştirileri.
+- ⚖️ [**Eleştiriler ve Tartışmalar**](docs/elestiriler-ve-tartismalar.md) — Karşı-tezler ve Marksist yanıtlar matrisi.
 - 📚 [**Yapılandırılmış Okuma Rehberi**](docs/okuma-rehberi.md) — Seviye bazlı (Başlangıç, Orta, İleri) kitap listeleri.
 - 🧠 [**Çalışma ve Tartışma Soruları**](docs/calisma-sorulari-ve-tartisma-konulari.md) — Seminer ve okuma grupları için müfredat soruları.
 

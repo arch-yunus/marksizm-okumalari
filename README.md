@@ -531,22 +531,39 @@ flowchart LR
 
 ---
 
-## 📁 Modüler Dokümantasyon ve Alt Kılavuzlar
+## 📁 Modüler Dokümantasyon ve Kapsamlı Alt Kılavuzlar
 
-Projedeki ayrıntılı araştırma belgeleri:
+Projedeki ayrıntılı araştırma ve ihtisas belgeleri:
 
 ```
 marksizm-okumalari/
-├── README.md                          # Master Külliyat & Ana Kılavuz
-├── CONTRIBUTING.md                    # Katkı İlkeleri ve Akademik Standartlar
-├── LICENSE                            # MIT Açık Kaynak Lisansı
+├── README.md                                          # Master Külliyat & Ana Kılavuz
+├── CONTRIBUTING.md                                    # Katkı İlkeleri ve Akademik Standartlar
+├── LICENSE                                            # MIT Açık Kaynak Lisansı
 └── docs/
-    ├── kavramlar-sozlugu.md          # A'dan Z'ye Kapsamlı Marksist Terminoloji Sözlüğü
-    ├── tarihsel-kronoloji.md          # 1818'den Günümüze Tarihsel Dönüm Noktaları
-    ├── ekoller-ve-akimlar.md          # 14 Farklı Düşünce Ekolünün Karşılaştırması
-    ├── okuma-rehberi.md               # Pedagojik Seviyeler ve Tematik Okuma Programları
-    └── elestiriler-ve-tartismalar.md  # Karşı Görüşler, Tartışmalar ve Savunular
+    ├── kavramlar-sozlugu.md                          # A'dan Z'ye Kapsamlı Marksist Terminoloji Sözlüğü
+    ├── tarihsel-kronoloji.md                          # 1818'den Günümüze Detaylı Tarihsel Zaman Çizelgesi
+    ├── ekoller-ve-akimlar.md                          # 14 Farklı Düşünce Ekolünün Karşılaştırmalı Analizi
+    ├── okuma-rehberi.md                               # Pedagojik Seviyeler ve Tematik Okuma Programları
+    ├── das-kapital-ozeti-ve-rehberi.md               # Das Kapital (Cilt 1-2-3) Bölüm Bölüm Kapsamlı Rehberi
+    ├── diyalektik-ve-tarihsel-materyalizm-rehberi.md # Felsefi Metodoloji, Doğa ve Toplum Diyalektiği
+    ├── turkiye-marksizm-tarihi.md                     # Osmanlı'dan Günümüze Türkiye Solu ve Düşünce Tarihi
+    ├── cagdas-marksizm-ve-tartismalar.md              # Dijital Emek, Platformlar, Ekoloji ve 21. Yüzyıl
+    ├── elestiriler-ve-tartismalar.md                  # Karşı Görüşler, Eleştiriler ve Savunular
+    └── calisma-sorulari-ve-tartisma-konulari.md       # Atölyeler ve Gruplar İçin Tartışma Soruları
 ```
+
+### 📚 Modüler Doküman Bağlantıları:
+- 📖 [**Marksist Kavramlar Sözlüğü**](docs/kavramlar-sozlugu.md) — Temel kuramsal terimler ve orijinal kavram kökleri.
+- ⏱️ [**Tarihsel Kronoloji**](docs/tarihsel-kronoloji.md) — 1818'den bugüne tüm devrimler, kongreler ve kırılmalar.
+- 🗺️ [**Ekoller ve Akımlar**](docs/ekoller-ve-akimlar.md) — Leninizmden Eleştirel Teoriye, Otonomizmden Eko-Marksizme tüm okullar.
+- 📕 [**Das Kapital Okuma Rehberi**](docs/das-kapital-ozeti-ve-rehberi.md) — 3 Cildin bölüm bölüm şemaları ve matematiksel formülleri.
+- ⚙️ [**Diyalektik & Tarihsel Materyalizm**](docs/diyalektik-ve-tarihsel-materyalizm-rehberi.md) — Hegel'den Marx'a diyalektiğin 3 yasası ve üretim tarzları.
+- 🇹🇷 [**Türkiye'de Marksizm Tarihi**](docs/turkiye-marksizm-tarihi.md) — Osmanlı'dan TİP, 68 Kuşağı, Kıvılcımlı ve günümüze.
+- 🌐 [**Çağdaş Marksizm ve Tartışmalar**](docs/cagdas-marksizm-ve-tartismalar.md) — Platform kapitalizmi, Fisher, Saito, Žižek, Yapay Zekâ.
+- ⚖️ [**Eleştiriler ve Tartışmalar**](docs/elestiriler-ve-tartismalar.md) — Popper, Hayek, Weber, Bakunin ve Marksist yanıtlar.
+- 📚 [**Yapılandırılmış Okuma Rehberi**](docs/okuma-rehberi.md) — Seviye bazlı (Başlangıç, Orta, İleri) kitap listeleri.
+- 🧠 [**Çalışma ve Tartışma Soruları**](docs/calisma-sorulari-ve-tartisma-konulari.md) — Seminer ve okuma grupları için müfredat soruları.
 
 ---
 

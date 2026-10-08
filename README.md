@@ -2,9 +2,9 @@
 
 [![Lisans: MIT](https://img.shields.io/badge/Lisans-MIT-red.svg)](LICENSE)
 [![Perspektif: İslami & Tevhidî](https://img.shields.io/badge/Perspektif-İslami%20%7C%20Tevhid%20%7C%20Sosyal%20Adalet-darkgreen.svg)](#)
-[![Katkılara Açık](https://img.shields.io/badge/Katkılara-Açık-brightgreen.svg)](CONTRIBUTING.md)
-[![Dokümantasyon: Eksiksiz](https://img.shields.io/badge/Dokümantasyon-15%20Özel%20Monografi-blue.svg)](docs/)
-[![Durum](https://img.shields.io/badge/Durum-Aktif%20Geliştirme-success.svg)](#)
+[![İnteraktif Web Portalı](https://img.shields.io/badge/Web%20Uygulaması-Canlı%20ve%20İnteraktif-emerald.svg)](index.html)
+[![Dokümantasyon: Eksiksiz](https://img.shields.io/badge/Dokümantasyon-18%20Özel%20Monografi-blue.svg)](docs/)
+[![Müfredat](https://img.shields.io/badge/Müfredat-12%20Haftalık%20Program-purple.svg)](docs/interaktif-calisma-plani-ve-mufredat.md)
 
 <div align="center">
   <img src="assets/images/hero-banner.jpg" alt="Marksizm Okumaları ve İslami Sosyal Adalet" width="100%" style="border-radius: 8px; margin: 15px 0;" />
@@ -13,7 +13,24 @@
 > *"Hikmet müminin yitiğidir; nerede bulursa onu almaya en layık olan odur."*  
 > **— Hz. Muhammed (s.a.v.)**
 
-Bu açık kaynak kütüphanesi; **Müslüman bir araştırmacı, ilim talebesi ve düşünürün gözüyle** Marksist felsefeyi, ekonomi politik eleştirisini (*Das Kapital*), tarihsel materyalizmi, eleştirel teoriyi ve 20. yüzyıl reel sosyalizm tecrübelerini inceleyen kapsamlı, akademik, mukayeseli ve kaynaklı bir başvuru külliyatıdır.
+Bu açık kaynak kütüphanesi ve **interaktif web portalı**; **Müslüman bir araştırmacı, ilim talebesi ve düşünürün gözüyle** Marksist felsefeyi, ekonomi politik eleştirisini (*Das Kapital*), tarihsel materyalizmi, eleştirel teoriyi, yabancılaşmayı, yapay zeka & platform kapitalizmini ve 20. yüzyıl reel sosyalizm tecrübelerini inceleyen kapsamlı, akademik, mukayeseli ve kaynaklı bir başvuru külliyatıdır.
+
+---
+
+## 🌟 İnteraktif Web Portalı ve Özellikleri
+
+Külliyat, doğrudan tarayıcı üzerinden çalışan modern, sıfır bağımlılıklı tek sayfa web uygulaması (`index.html`) ile donatılmıştır:
+
+* 📖 **Monografi Okuyucu & TTS (Sesli Dinle):** Web Speech API destekli sesli okuma, okuma ilerleme çubuğu ve yazdırma/PDF desteği.
+* 🔍 **Canlı Arama Motoru:** `Ctrl+K` kısayoluyla 18 monografi, 60+ kavram ve düşünürler arasında anlık arama.
+* ⚖️ **10 Eksenli İnteraktif Mukayese Matrisi:** Marksizm, Kapitalizm ve İslam İktisadı arasında dinamik karşılaştırma.
+* 🧠 **Kavramlar Sözlüğü ve Zihin Haritası:** Terimlerin Batı ve İslami anlam haritaları.
+* 🎯 **İnteraktif Kavrayış Testi (Quiz):** 3 kademeli soru havuzu, anında dönüt ve puanlama.
+* ⏱️ **Zaman Tüneli:** 1818'den günümüze düşünce tarihi ve İslam dünyası kronolojisi.
+* 🎓 **12 Haftalık Müfredat Takipçisi:** Tarayıcıda yerel olarak (`localStorage`) saklanan interaktif ilerleme kutucukları.
+* 🌓 **Çoklu Tema Desteği:** Karanlık (Dark), Aydınlık (Light) ve Kitap/Sepya modu.
+
+> **Hızlı Başlangıç:** Web uygulamasını çalıştırmak için depodaki `index.html` dosyasını tarayıcınızda açmanız yeterlidir.
 
 ---
 
@@ -427,13 +444,24 @@ $$s' = \frac{s}{v}, \quad p' = \frac{s}{c+v} = \frac{s'}{\frac{c}{v} + 1}$$
 
 ## 14. Modüler Dokümantasyon Dizini
 
-Projedeki 15 adet kapsamlı araştırma ve ihtisas belgesi:
+Projedeki 18 adet kapsamlı araştırma ve ihtisas belgesi ile veri tabanı dosyaları:
 
 ```
 marksizm-okumalari/
+├── index.html                                                # 🌟 İnteraktif Web Portalı (SPA)
+├── app.js                                                    # ⚡ Portal Mantığı, Arama, TTS ve Quiz Motoru
+├── style.css                                                 # 🎨 Modern Tema & Tipografi Stilleri
 ├── README.md                                                 # Master Külliyat & Ana Kılavuz
 ├── CONTRIBUTING.md                                           # Katkı İlkeleri ve Akademik Standartlar
 ├── LICENSE                                                   # MIT Açık Kaynak Lisansı
+├── .github/workflows/deploy-pages.yml                        # 🚀 GitHub Pages Otomatik Dağıtım
+├── data/
+│   ├── dokumanlar.json                                       # Monografi Kataloğu ve İndeksi
+│   ├── kavramlar.json                                        # 60+ Kavram ve Tashih Veri Tabanı
+│   ├── mukayese-matrisi.json                                 # 10 Eksenli Mukayese Verisi
+│   ├── sozler-antolojisi.json                                # Hikmet ve Sözler Kataloğu
+│   ├── kronoloji.json                                        # Tarihsel Dönüm Noktaları
+│   └── quiz-sorulari.json                                    # İnteraktif Quiz Soru Havuzu
 └── docs/
     ├── marksizmdeki-hakikatler-ve-isabetli-teshisler.md     # 💎 Marksizmdeki Mantıklı Hakikatler ve Alıntılar Külliyatı
     ├── musluman-bakis-acisiyla-marksizm.md                  # 🌙 Müslüman Bakış Açısıyla Marksizm Ana Rehberi
@@ -445,6 +473,10 @@ marksizm-okumalari/
     ├── marksizm-din-metafizik-ve-ezoterizm.md               # 🕊️ Din Felsefesi, Yahudi Sorunu ve Meta Büyüsü
     ├── das-kapital-ozeti-ve-rehberi.md                      # 📕 Das Kapital Cilt 1-2-3 Bölüm Bölüm Rehberi
     ├── diyalektik-ve-tarihsel-materyalizm-rehberi.md        # ⚙️ Diyalektik Materyalizm, Doğa ve Tarih
+    ├── yabancilasma-kurami-ve-insan-dogasi.md               # 🧬 Yabancılaşma, Erich Fromm ve Fıtrat Ontolojisi
+    ├── kuresellesme-emperyalizm-ve-post-kolonyalizm.md      # 🌐 Lenin, Luxemburg, Malik bin Nebi ve Samir Amin
+    ├── yapay-zeka-otomasyon-ve-emegin-gelecegi.md           # 🤖 Yapay Zeka, Platform Kapitalizmi ve Keramet-i İnsan
+    ├── interaktif-calisma-plani-ve-mufredat.md              # 🎓 12 Haftalık Yapılandırılmış İlim Müfredatı
     ├── tarihsel-uygulamalar-ve-reel-sosyalizm-bilancosu.md  # 🌍 Uygulandı mı? SSCB/Çin/Küba Bilançosu
     ├── marksizmin-eksikleri-ve-elestirel-alintilar.md        # ⚠️ Marksizmin Eksikleri ve Eleştirel Alıntılar
     ├── turkiye-marksizm-tarihi.md                            # 🇹🇷 Osmanlı'dan Günümüze Türkiye Solu ve Düşüncesi

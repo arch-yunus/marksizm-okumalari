@@ -1,0 +1,164 @@
+[
+  {
+    "id": "musluman-bakis-acisiyla-marksizm",
+    "baslik": "Müslüman Bakış Açısıyla Marksizm: Giriş ve Temel İlkeler",
+    "dosya": "docs/musluman-bakis-acisiyla-marksizm.md",
+    "kategori": "Temel Çerçeve",
+    "okuma_suresi": "12 dk",
+    "ikon": "🧭",
+    "ozet": "İslam düşüncesi ile Marksizm arasındaki temel epistemolojik, ontolojik ve iktisadi ayrışmalar ve ortak teşhis noktaları."
+  },
+  {
+    "id": "das-kapital-ozeti-ve-rehberi",
+    "baslik": "Das Kapital Cilt 1-2-3 Kapsamlı Özeti ve Tahlili",
+    "dosya": "docs/das-kapital-ozeti-ve-rehberi.md",
+    "kategori": "Ekonomi Politik",
+    "okuma_suresi": "25 dk",
+    "ikon": "📐",
+    "ozet": "Kapitalist üretim tarzı, meta, artı-değer, sermaye birikimi ve kâr oranlarının düşme eğilimi yasasının matematiksel ve kuramsal analizi."
+  },
+  {
+    "id": "islam-iktisadi-ve-kapitalizm-marksizm-karsilastirmasi",
+    "baslik": "İslam İktisadı, Kapitalizm ve Marksizm Mukayesesi",
+    "dosya": "docs/islam-iktisadi-ve-kapitalizm-marksizm-karsilastirmasi.md",
+    "kategori": "İslam İktisadı",
+    "okuma_suresi": "18 dk",
+    "ikon": "⚖️",
+    "ozet": "Emanet mülkiyet (istihlaf), faizsiz finans, beytülmal, zekat ve infak nizamının kapitalist ve sosyalist modellerle karşılaştırılması."
+  },
+  {
+    "id": "diyalektik-ve-tarihsel-materyalizm-rehberi",
+    "baslik": "Diyalektik ve Tarihsel Materyalizm Rehberi",
+    "dosya": "docs/diyalektik-ve-tarihsel-materyalizm-rehberi.md",
+    "kategori": "Felsefe & Metot",
+    "okuma_suresi": "20 dk",
+    "ikon": "🔄",
+    "ozet": "Maddenin diyalektiği, nicelikten niteliğe sıçrama, zıtların birliği ve Kur'an'ın Sünnetullah ve Mizan kavramlarıyla mukayesesi."
+  },
+  {
+    "id": "yabancilasma-kurami-ve-insan-dogasi",
+    "baslik": "Yabancılaşma Kuramı, İnsan Doğası ve Fıtrat",
+    "dosya": "docs/yabancilasma-kurami-ve-insan-dogasi.md",
+    "kategori": "Felsefe & Antropoloji",
+    "okuma_suresi": "15 dk",
+    "ikon": "🧬",
+    "ozet": "Marx'ın 4 yabancılaşma boyutu, Erich Fromm'un 'Olmak vs Sahip Olmak' ayrımı ve İslam'ın Fıtrat & Gaflet teşhisleri."
+  },
+  {
+    "id": "marksizmdeki-hakikatler-ve-isabetli-teshisler",
+    "baslik": "Marksizmdeki Mantıklı Hakikatler ve İsabetli Teşhisler",
+    "dosya": "docs/marksizmdeki-hakikatler-ve-isabetli-teshisler.md",
+    "kategori": "Eleştirel Analiz",
+    "okuma_suresi": "16 dk",
+    "ikon": "💎",
+    "ozet": "Marksist tahlilin kapitalizmin çelişkileri, meta putlaştırması ve finansal sömürüye dair getirdiği isabetli gözlemler antolojisi."
+  },
+  {
+    "id": "kavramlar-sozlugu",
+    "baslik": "Marksizm ve İslam İktisadı Kavramlar Sözlüğü",
+    "dosya": "docs/kavramlar-sozlugu.md",
+    "kategori": "Referans & Sözlük",
+    "okuma_suresi": "22 dk",
+    "ikon": "📖",
+    "ozet": "Artı-değerden yabancılaşmaya, istihlaftan kenz yasağına 60'tan fazla temel kavramın akademik ve İslami açıklamaları."
+  },
+  {
+    "id": "tarihsel-kronoloji",
+    "baslik": "Tarihsel Kronoloji ve Dönüm Noktaları (1818 - Günümüz)",
+    "dosya": "docs/tarihsel-kronoloji.md",
+    "kategori": "Tarih & Kronoloji",
+    "okuma_suresi": "15 dk",
+    "ikon": "⏱️",
+    "ozet": "Komünist Manifesto'dan Bolşevik Devrimi'ne, Şeriati'den SSCB'nin dağılışına ve günümüz krizlerine tarihsel seyir."
+  },
+  {
+    "id": "ekoller-ve-akimlar",
+    "baslik": "Marksist Ekoller, Akımlar ve Müslüman Mütefekkirler",
+    "dosya": "docs/ekoller-ve-akimlar.md",
+    "kategori": "Ekoller & Düşünürler",
+    "okuma_suresi": "20 dk",
+    "ikon": "🗺️",
+    "ozet": "Klasik Marksizm, Frankfurt Okulu, Analitik Marksizm, Gramsci ve Şeriati, İkbal, Garaudy gibi öncü şahsiyetler."
+  },
+  {
+    "id": "tarihsel-uygulamalar-ve-reel-sosyalizm-bilancosu",
+    "baslik": "Reel Sosyalizm Uygulamaları ve Tarihsel Bilanço",
+    "dosya": "docs/tarihsel-uygulamalar-ve-reel-sosyalizm-bilancosu.md",
+    "kategori": "Tarih & Bilanço",
+    "okuma_suresi": "22 dk",
+    "ikon": "🌍",
+    "ozet": "SSCB, Çin, Doğu Bloku, Küba deneyimleri; bürokratik elit (Nomenklatura), gulaglar ve ekonomik iflasın anatomisi."
+  },
+  {
+    "id": "kuresellesme-emperyalizm-ve-post-kolonyalizm",
+    "baslik": "Küreselleşme, Emperyalizm ve Post-Kolonyalizm",
+    "dosya": "docs/kuresellesme-emperyalizm-ve-post-kolonyalizm.md",
+    "kategori": "Jeopolitik & Kolonyalizm",
+    "okuma_suresi": "16 dk",
+    "ikon": "🌐",
+    "ozet": "Lenin, Luxemburg, Samir Amin ve Malik bin Nebi'nin 'Kabiliyet-i İstimar' tezi ile Oryantalizm eleştirileri."
+  },
+  {
+    "id": "yapay-zeka-otomasyon-ve-emegin-gelecegi",
+    "baslik": "Yapay Zeka, Otomasyon ve Emeğin Geleceği",
+    "dosya": "docs/yapay-zeka-otomasyon-ve-emegin-gelecegi.md",
+    "kategori": "Çağdaş Tartışmalar",
+    "okuma_suresi": "15 dk",
+    "ikon": "🤖",
+    "ozet": "Platform kapitalizmi, gözetim kapitalizmi, yapay zekanın artı-değer üretimi ve İslam'ın insan onuru (keramet) perspektifi."
+  },
+  {
+    "id": "metafizik-felsefesi-ve-varlik-kurami",
+    "baslik": "Metafizik Felsefesi, Ontoloji ve Bilincin Hakikati",
+    "dosya": "docs/metafizik-felsefesi-ve-varlik-kurami.md",
+    "kategori": "Metafizik & Ontoloji",
+    "okuma_suresi": "18 dk",
+    "ikon": "🌌",
+    "ozet": "Kaba materyalizmin çıkmazları, kuantum ontolojisi, bilincin gayri-maddi mahiyeti ve Tevhidî varlık mertebeleri."
+  },
+  {
+    "id": "istihbarat-metafizik-ve-psikolojik-harp",
+    "baslik": "İstihbarat Teşkilatları, Bilişsel Harp ve Metafizik Manipülasyon",
+    "dosya": "docs/istihbarat-metafizik-ve-psikolojik-harp.md",
+    "kategori": "Strateji & Harp",
+    "okuma_suresi": "20 dk",
+    "ikon": "👁️",
+    "ozet": "MK-Ultra, Stargate Projesi, zihin yönlendirme operasyonları ve modern kitle manipülasyon teknikleri tahlili."
+  },
+  {
+    "id": "tevhid-adalet-ve-kuresel-somuru-elestirisi",
+    "baslik": "Tevhid, Adalet ve Küresel Sömürü Eleştirisi",
+    "dosya": "docs/tevhid-adalet-ve-kuresel-somuru-elestirisi.md",
+    "kategori": "Sosyal Adalet",
+    "okuma_suresi": "16 dk",
+    "ikon": "⚖️",
+    "ozet": "Küresel finans oligarşisi, faiz sarmalı, mazlum coğrafyalar ve İslam'ın evrensel adalet beyannamesi."
+  },
+  {
+    "id": "turkiye-marksizm-tarihi",
+    "baslik": "Türkiye'de Marksizm ve Sol Düşüncenin Tarihsel Serüveni",
+    "dosya": "docs/turkiye-marksizm-tarihi.md",
+    "kategori": "Türkiye Tarihi",
+    "okuma_suresi": "18 dk",
+    "ikon": "🇹🇷",
+    "ozet": "Osmanlı son döneminden İştirakçi Hilmi'ye, TKP'den 68 Kuşağı'na, İdris Küçükömer'den İslamcı-Sol diyaloglarına Türkiye serüveni."
+  },
+  {
+    "id": "calisma-sorulari-ve-tartisma-konulari",
+    "baslik": "30 Kritik Çalışma Sorusu ve Müzakere Konusu",
+    "dosya": "docs/calisma-sorulari-ve-tartisma-konulari.md",
+    "kategori": "Müzakere & Tezler",
+    "okuma_suresi": "20 dk",
+    "ikon": "❓",
+    "ozet": "Lisansüstü seminerler ve araştırma kulüpleri için felsefi, iktisadi ve sosyolojik tez tartışma soruları."
+  },
+  {
+    "id": "interaktif-calisma-plani-ve-mufredat",
+    "baslik": "12 Haftalık İlim ve Araştırma Müfredatı",
+    "dosya": "docs/interaktif-calisma-plani-ve-mufredat.md",
+    "kategori": "Müfredat & Rehber",
+    "okuma_suresi": "10 dk",
+    "ikon": "🎓",
+    "ozet": "Başlangıçtan ileri düzeye 4 kademeli haftalık çalışma takvimi, kazanımlar ve okuma listeleri."
+  }
+]

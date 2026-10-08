@@ -1,0 +1,80 @@
+[
+  {
+    "yil": 1818,
+    "olay": "Karl Marx'ın Doğumu",
+    "detay": "Almanya'nın Trier kentinde doğdu; gençlik yıllarında Hegel diyalektiği ve sol Hegelcilik ile tanıştı.",
+    "kategori": "Biyografi"
+  },
+  {
+    "yil": 1844,
+    "olay": "1844 Elyazmaları (Paris El Yazmaları)",
+    "detay": "Marx'ın felsefi yabancılaşma kuramını ve insan doğası üzerine erken dönem hümanist fikirlerini kaleme aldığı metin.",
+    "kategori": "Felsefe"
+  },
+  {
+    "yil": 1848,
+    "olay": "Komünist Manifesto ve 1848 Devrimleri",
+    "detay": "Marx ve Engels'in 'Bütün ülkelerin işçileri, birleşin!' şiarıyla sınıf savaşımını ilan ettikleri tarihi bildiri.",
+    "kategori": "Siyaset"
+  },
+  {
+    "yil": 1867,
+    "olay": "Das Kapital Cilt 1'in Yayımlanması",
+    "detay": "Kapitalist üretim tarzının, artı-değer teorisinin ve sermaye birikim kanunlarının anıtsal ekonomi politik analizi.",
+    "kategori": "İktisat"
+  },
+  {
+    "yil": 1871,
+    "olay": "Paris Komünü",
+    "detay": "Tarihteki ilk işçi hükümeti deneyimi; 72 gün süren özyönetim deneyi kanla bastırıldı.",
+    "kategori": "Tarih"
+  },
+  {
+    "yil": 1917,
+    "olay": "Ekim Devrimi (Bolşevik Devrimi)",
+    "detay": "Lenin liderliğindeki Bolşeviklerin Rusya'da iktidarı alması ve ilk sosyalist devletin kuruluşu.",
+    "kategori": "Devrim"
+  },
+  {
+    "yil": 1923,
+    "olay": "Frankfurt Okulu'nun Kuruluşu (Eleştirel Teori)",
+    "detay": "Horkheimer, Adorno, Benjamin ve Marcuse'nin pozitivizm, kültür endüstrisi ve yabancılaşma eleştirileri.",
+    "kategori": "Felsefe"
+  },
+  {
+    "yil": 1955,
+    "olay": "Bandung Konferansı ve Üçüncü Dünyacılık",
+    "detay": "Asya ve Afrika'nın sömürgesizleşen ülkelerinin emperyalizme karşı bir araya gelmesi; bağlantısızlar hareketi.",
+    "kategori": "Jeopolitik"
+  },
+  {
+    "yil": 1969,
+    "olay": "Ali Şeriati'nin Hüseyniye-i İrşad Dersleri",
+    "detay": "İran'da Şeriati'nin 'Marksizm ve Diğer Batı Yanılgıları', 'İslam Sosyolojisi' ve Tevhid merkezli adalet tezleri.",
+    "kategori": "İslam Düşüncesi"
+  },
+  {
+    "yil": 1982,
+    "olay": "Roger Garaudy'nin Müslüman Oluşu",
+    "detay": "Fransız Komünist Partisi'nin baş ideoloğu Garaudy'nin 'İslam'ın Vadettikleri' eseriyle Tevhid'e yönelişi.",
+    "kategori": "İslam Düşüncesi"
+  },
+  {
+    "yil": 1991,
+    "olay": "Sovyetler Birliği'nin (SSCB) Dağılması",
+    "detay": "Reel sosyalizmin bürokratik çöküşü, 'Tarihin Sonu' tezi ve neo-liberal küreselleşme dalgası.",
+    "kategori": "Tarih"
+  },
+  {
+    "yil": 2008,
+    "olay": "Küresel Finans Krizi ve Kapital'e Yeniden İlgi",
+    "detay": "Lehman Brothers çöküşüyle tetiklenen kriz sonrası dünya genelinde Marx'ın finans-kapital tahlillerine rekor ilgi.",
+    "kategori": "İktisat"
+  },
+  {
+    "yil": 2024,
+    "olay": "Yapay Zeka, Algoritmik Emek ve Yeni Sömürü Çağı",
+    "detay": "Büyük teknoloji tekellerinin veri sömürgeciliği, gözetim kapitalizmi ve emeğin otomasyonla dönüşümü tartışmaları.",
+    "kategori": "Çağdaş Tartışmalar"
+  }
+]

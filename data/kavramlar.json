@@ -1,0 +1,82 @@
+[
+  {
+    "id": "arti-deger",
+    "terim": "Artı-Değer (Mehrwert)",
+    "kategori": "Ekonomi Politik",
+    "marksist_tanim": "İşçinin kendi geçimi için gerekli olan emek zamanının ötesinde çalışarak ürettiği ve kapitalist tarafından karşılığı ödenmeden temellük edilen değer fazlası.",
+    "islami_tashih": "İslam iktisadında emeğin karşılığının eksik verilmesi ve çalışanın zafiyetinden yararlanılarak hak ettiği refahtan mahrum bırakılması gasptır ve kul hakkı ihlalidir (Gabin-i Fahiş). Hz. Peygamber (s.a.v.) 'İşçinin ücretini teri kurumadan veriniz' buyurmuştur.",
+    "anahtar_kavramlar": ["Emek-Değer Kuramı", "Sömürü Oranı", "Gabin", "Kul Hakkı"]
+  },
+  {
+    "id": "yabancilasma",
+    "terim": "Yabancılaşma (Entfremdung)",
+    "kategori": "Felsefe & Antropoloji",
+    "marksist_tanim": "Kapitalist üretim tarzında işçinin ürettiği ürüne, üretim sürecine, kendi insani türsel özüne (Gattungswesen) ve diğer insanlara yabancılaşması durumu.",
+    "islami_tashih": "İslam'da yabancılaşmanın kökeni insanın Yaratan'ını unutması (Nisyan ve Gaflet) ve fıtratından uzaklaşarak nefsin ve eşyanın kulu haline gelmesidir. 'Allah'ı unutan, bu yüzden Allah'ın da onlara kendilerini unutturduğu kimseler gibi olmayın' (Haşr, 19).",
+    "anahtar_kavramlar": ["Fıtrat", "Gaflet", "Türsel Öz", "Meta İllüzyonu"]
+  },
+  {
+    "id": "meta-fetisizmi",
+    "terim": "Meta Fetişizmi (Warenfetischismus)",
+    "kategori": "Felsefe & Sosyoloji",
+    "marksist_tanim": "İnsanlar arasındaki toplumsal emek ilişkilerinin, metalar (mallar ve para) arasındaki nesnel ilişkiler ve şeylerin gizemli bir büyüsü gibi görünmesi yanılsaması.",
+    "islami_tashih": "Kur'an terminolojisinde bu durum 'Heva ve hevesi ilah edinme' (Casiye, 23) ve dünyaya aşırı tutkunluk sebebiyle parayı ve eşyayı putlaştırma (Şirk-i Hafi) halidir.",
+    "anahtar_kavramlar": ["Şirk", "Dünyevileşme", "Tüketim Kültürü", "Reifikasyon"]
+  },
+  {
+    "id": "tarihsel-materyalizm",
+    "terim": "Tarihsel Materyalizm",
+    "kategori": "Tarih Felsefesi",
+    "marksist_tanim": "Toplumların gelişimini ve tarihin akışını maddi üretim ilişkileri, altyapı ve sınıf mücadelelerinin belirlediğini öne süren materyalist tarih kuramı.",
+    "islami_tashih": "Tarihin itici gücü salt iktisadi çatışma değildir; peygamberlerin tebliği, ahlak, adalet arayışı, ilahi sünnetullah ve insanın iradi tercihleridir. Maddi zemin etkilidir ancak tek belirleyici (monist) değildir.",
+    "anahtar_kavramlar": ["Sünnetullah", "Altyapı-Üstyapı", "İrade-i Cüziyye", "Diyalektik"]
+  },
+  {
+    "id": "diyalektik-materyalizm",
+    "terim": "Diyalektik Materyalizm",
+    "kategori": "Ontoloji",
+    "marksist_tanim": "Doğanın ve düşüncenin gelişimini maddenin içsel çelişkileri, nicelikten niteliğe sıçramalar ve zıtların birliği yasalarıyla açıklayan felsefi metodoloji.",
+    "islami_tashih": "Kainattaki zıtlıklar (hayır-şer, aydınlık-karanlık, gece-gündüz) kör bir maddenin rastlantısal çatışması değil; Cenab-ı Hakk'ın celal ve cemal tecellileriyle kurduğu hikmetli bir kozmik dengedir (Mizan).",
+    "anahtar_kavramlar": ["Mizan", "Hikmet", "Zıtların Birliği", "Kozmik Düzen"]
+  },
+  {
+    "id": "hegemonya",
+    "terim": "Kültürel Hegemonya",
+    "kategori": "Siyaset Bilimi",
+    "marksist_tanim": "Antonio Gramsci'nin geliştirdiği; egemen sınıfın toplum üzerindeki tahakkümünü sadece zor yoluyla değil, rıza imalatı, kültür, eğitim ve din kurumları üzerinden kurması kavramı.",
+    "islami_tashih": "Kur'an'da mele' (egemen seçkinler) ve mütrefin (şımarmış zengin zümre) sınıfının toplumu saptırmak için kurduğu algı yönetimi ve tağuti düzen ile örtüşür. Çözüm hakkı üstün tutan tevhidi bilinçtir.",
+    "anahtar_kavramlar": ["Mele'", "Mütrefin", "Rıza İmalatı", "Organik Aydın"]
+  },
+  {
+    "id": "emanet-mulkiyet",
+    "terim": "Emanet Mülkiyet (İstihlaf)",
+    "kategori": "İslam İktisadı",
+    "marksist_tanim": "Marksizm özel mülkiyeti sömürünün kaynağı görüp kolektifleştirmeyi savunurken, liberalizm mülkiyeti mutlak bireysel hak sayar.",
+    "islami_tashih": "Mülkün mutlak sahibi Allah'tır ('Lillahi mâ fi's-semâvâti ve mâ fi'l-ard'). İnsan mülkün sahibi değil, yeryüzündeki emanetçisidir (Halife). Bu yüzden mülkiyet kamu yararı, zekat ve infakla sınırlandırılmıştır.",
+    "anahtar_kavramlar": ["İstihlaf", "Mülk Allah'ındır", "İnfak", "Zekat"]
+  },
+  {
+    "id": "riba-ve-faiz",
+    "terim": "Riba (Faiz) ve Mali Asalaklık",
+    "kategori": "Ekonomi Politik",
+    "marksist_tanim": "Finans kapitalin emeksiz ve risksiz biçimde artı-değere el koyarak borç köleliği yaratması mekanizması.",
+    "islami_tashih": "İslam ribayı kesin olarak haram kılmış, onu 'Allah'a ve Resulü'ne karşı savaş açmak' (Bakara, 279) olarak nitelemiştir. Servetin sadece zenginler arasında dönen bir tahakküm aracına dönüşmesi yasaklanmıştır (Haşr, 7).",
+    "anahtar_kavramlar": ["Riba", "Finans-Kapital", "Tekelleşme", "Emeksiz Kazanç"]
+  },
+  {
+    "id": "karunlasma",
+    "terim": "Karunlaşma (Tekelci Servet Yığma)",
+    "kategori": "İslam İktisadı",
+    "marksist_tanim": "Sermaye birikiminin belirli ellerde toplanması ve tekelleşme (Sermayenin Konsantrasyonu ve Sentrasyonu).",
+    "islami_tashih": "Kur'an'da Karun kıssasıyla sembolize edilen; serveti 'bunu kendi bilgim ve gücümle kazandım' diyerek toplumsal sorumluluktan kaçırma ve tekelleşme hastalığıdır (Kenz yasağı, Tevbe 34-35).",
+    "anahtar_kavramlar": ["Kenz", "Karun", "Sermaye Birikimi", "Tekelleşme"]
+  },
+  {
+    "id": "fitrah",
+    "terim": "Fıtrat ve İnsan Tabiatı",
+    "kategori": "İlahiyat & Antropoloji",
+    "marksist_tanim": "İnsanın sabit bir doğası yoktur; insan toplumsal ilişkilerin ve üretim tarzının bir ürünüdür (Toplumsal İlişkiler Toplamı).",
+    "islami_tashih": "İnsan yaratılıştan gelen bozulmamış bir tevhid eğilimi, adalet arzusu ve manevi vicdana (Fıtrat) sahiptir. Toplumsal şartlar fıtratı örtebilir (küfür) ama tamamen yok edemez.",
+    "anahtar_kavramlar": ["Fıtrat", "Ahsen-i Takvim", "Tabula Rasa", "Türsel Varlık"]
+  }
+]

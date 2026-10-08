@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "seviye": "Başlangıç",
+    "kategori": "Ekonomi Politik",
+    "soru": "Marx'a göre kapitalistin işçiye ödediği ücret ile işçinin ürettiği toplam değer arasındaki farka ne ad verilir?",
+    "secenekler": [
+      "Amortisman Payı",
+      "Artı-Değer (Mehrwert)",
+      "Sabit Sermaye",
+      "Dolaşım Masrafı"
+    ],
+    "dogru": 1,
+    "aciklama": "Artı-değer, işçinin kendi geçimliği için gerekli asgari emek süresini aşan fazladan çalışma süresinde ürettiği ve kapitalistin el koyduğu değerdir. İslam iktisadında bu durum haksız kazanç ve kul hakkı gaspıdır."
+  },
+  {
+    "id": 2,
+    "seviye": "Başlangıç",
+    "kategori": "İslam İktisadı & Tevhid",
+    "soru": "İslam iktisadi dünya görüşünde mülkiyetin kaynağı ve mahiyeti hakkında hangisi doğrudur?",
+    "secenekler": [
+      "Bireyin mutlak ve sınırsız özel mülkiyeti esastır (Liberalizm)",
+      "Tüm üretim araçları zorunlu olarak devlete aittir (Ortodoks Sosyalizm)",
+      "Mülk mutlak olarak Allah'ındır; insan yeryüzünde bir emanetçidir (İstihlaf)",
+      "Mülkiyet kavramı tümüyle reddedilmeli ve mülk ortak havuzda eritilmelidir"
+    ],
+    "dogru": 2,
+    "aciklama": "İslam'da mülk mutlak manada Allah'a aittir ('Lillahi mâ fi's-semâvâti ve mâ fi'l-ard'). İnsan emanetçidir; bu sebeple mülkiyet zekat, infak ve kamu yararı ile sınırlandırılmıştır."
+  },
+  {
+    "id": 3,
+    "seviye": "Orta",
+    "kategori": "Felsefe & Sosyoloji",
+    "soru": "Metaların sadece kullanım değerleriyle değil, sanki gizemli, bağımsız ve insana hükmeden bir güce sahipmiş gibi algılanmasına Marx ne ad vermiştir?",
+    "secenekler": [
+      "Kültürel Hegemonya",
+      "Meta Fetişizmi",
+      "Proletarya Diktatörlüğü",
+      "Tarihsel İdealizm"
+    ],
+    "dogru": 1,
+    "aciklama": "Meta fetişizmi, insanlar arasındaki toplumsal emek ilişkilerinin metalar arasındaki nesnel ilişkiler gibi görünmesidir. İslam'da bu, nefsin eşyayı ve parayı putlaştırması (Şirk-i hafi) olarak teşhis edilir."
+  },
+  {
+    "id": 4,
+    "seviye": "Orta",
+    "kategori": "Tarih & Ekoller",
+    "soru": "Fransız Komünist Partisi'nin baş kuramcısı iken Marksizm ve pozitivizmin çıkmazlarını görüp İslam'ı seçen ve 'İslam'ın Vadettikleri' eserini yazan düşünür kimdir?",
+    "secenekler": [
+      "Louis Althusser",
+      "Roger Garaudy",
+      "Antonio Gramsci",
+      "Jean-Paul Sartre"
+    ],
+    "dogru": 1,
+    "aciklama": "Roger Garaudy (Raca Carudi), Marksist estetik ve felsefe uzmanı iken Batı'nın materyalist krizini tahlil ederek Tevhid inancını benimsemiştir."
+  },
+  {
+    "id": 5,
+    "seviye": "İleri",
+    "kategori": "Antropoloji & Felsefe",
+    "soru": "Marksizm insanı 'toplumsal ilişkilerin toplamı' olarak tanımlayıp aşkın/sabit bir tabiatı reddederken; İslam insanı hangi temel kavramla tanımlar?",
+    "secenekler": [
+      "Tabula Rasa (Boş Levha)",
+      "Fıtrat (Allah'ın yarattığı hakikate meyilli yaratılış)",
+      "Homo Oeconomicus (Yalnızca çıkar odaklı varlık)",
+      "Übermensch (Üst-İnsan)"
+    ],
+    "dogru": 1,
+    "aciklama": "İslam'a göre insan fıtrat üzere yaratılmıştır. İnsan sadece ekonomik ve sınıfsal koşulların mekanik bir sonucu değil, aşkın bir ruha, vicdana ve fıtrata sahip şerefli bir varlıktır."
+  },
+  {
+    "id": 6,
+    "seviye": "İleri",
+    "kategori": "Eleştirel Teori & Siyaset",
+    "soru": "İtalyan Marksist Antonio Gramsci'nin, egemen sınıfların sadece kaba kuvvetle değil, rıza imalatı ve kültürel kurumlar yoluyla kitleleri yönlendirmesini ifade eden kavramı hangisidir?",
+    "secenekler": [
+      "Organik Kompozisyon",
+      "Sermayenin Merkezileşmesi",
+      "Kültürel Hegemonya",
+      "Sönümlenme Teoremi"
+    ],
+    "dogru": 2,
+    "aciklama": "Kültürel Hegemonya, egemen sınıfların dünya görüşünü 'sağduyu' olarak kabul ettirip kitlelerin rızasını devşirme mekanizmasıdır."
+  }
+]

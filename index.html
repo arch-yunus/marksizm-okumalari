@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="tr" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Marksizm Okumaları | Müslüman Bakış Açısıyla Felsefe, Ekonomi Politik ve Sosyal Adalet</title>
+  
+  <!-- Meta SEO -->
+  <meta name="description" content="Müslüman araştırmacılar için Marksizm, Kapitalizm, Das Kapital, Diyalektik Materyalizm, Yabancılaşma ve Sosyal Adalet Külliyatı." />
+  <meta name="keywords" content="marksizm, islam iktisadı, das kapital, ali şeriati, yabancılaşma, artı-değer, tevhid, sosyal adalet, felsefe" />
+  <meta name="author" content="Marksizm Okumaları Araştırma İnisiyatifi" />
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;600&family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,600&display=swap" rel="stylesheet" />
+
+  <!-- Markdown-it & KaTeX CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/markdown-it@13.0.2/dist/markdown-it.min.js"></script>
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <header class="navbar">
+    <a href="#" class="nav-brand">
+      <span class="brand-logo">🌙</span>
+      <span>Marksizm Okumaları</span>
+      <span class="brand-badge">Tevhid & Adalet</span>
+    </a>
+
+    <ul class="nav-links">
+      <li class="nav-item active"><a href="#kulliyat">📚 Külliyat</a></li>
+      <li class="nav-item"><a href="#mukayese">⚖️ Mukayese Matrisi</a></li>
+      <li class="nav-item"><a href="#kavramlar">📖 Kavramlar</a></li>
+      <li class="nav-item"><a href="#kronoloji">⏱️ Kronoloji</a></li>
+      <li class="nav-item"><a href="#mufredat">🎓 Müfredat</a></li>
+      <li class="nav-item"><a href="#quiz">🎯 Bilgi Testi</a></li>
+    </ul>
+
+    <div class="nav-actions">
+      <button class="search-btn" id="search-trigger-btn">
+        <span>🔍 Ara...</span>
+        <span class="kbd-shortcut">Ctrl K</span>
+      </button>
+      <button class="btn-icon" id="theme-toggle-btn" title="Tema Değiştir">☀️</button>
+      <a href="https://github.com/bahattinyunus/marksizm-okumalari" target="_blank" class="btn-icon" title="GitHub Deposu">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+      </a>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="app-container">
+
+    <!-- Hero Section -->
+    <section class="hero-section">
+      <div class="hero-content">
+        <div class="hero-badge">✨ Açık Kaynak İlim & Felsefe Platformu</div>
+        <h1 class="hero-title">Müslüman Bakış Açısıyla <span>Marksizm ve Sosyal Adalet</span></h1>
+        <p class="hero-desc">
+          Kapitalizmin vahşi sömürü çarklarına ve artı-değer gaspına karşı Marksist teşhislerin analizi; 
+          materyalist indirgemeciliğe karşı ise Tevhid, emanet mülkiyet ve fıtrat merkezli medeniyet inşası.
+        </p>
+        <div class="hero-actions">
+          <a href="#kulliyat" class="btn-primary">📖 Külliyatı İncele</a>
+          <a href="#mukayese" class="btn-secondary">⚖️ 10 Eksenli Mukayese</a>
+          <a href="#quiz" class="btn-secondary">🎯 Bilgi Testi Çöz</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Dynamic Metrics Counter -->
+    <section class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-icon">📚</div>
+        <div class="stat-info">
+          <div class="stat-value" id="stat-docs-count">18</div>
+          <div class="stat-label">Özel Araştırma Monografisi</div>
+        </div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-icon">📖</div>
+        <div class="stat-info">
+          <div class="stat-value" id="stat-concepts-count">60+</div>
+          <div class="stat-label">Akademik & İslami Kavram</div>
+        </div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-icon">⏱️</div>
+        <div class="stat-info">
+          <div class="stat-value" id="stat-hours-count">5.5 Saat</div>
+          <div class="stat-label">Toplam İnceleme Hacmi</div>
+        </div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-icon">🎓</div>
+        <div class="stat-info">
+          <div class="stat-value" id="stat-modules-count">12 Hafta</div>
+          <div class="stat-label">Yapılandırılmış Müfredat</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Daily Reflection Quote -->
+    <section class="quote-card">
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <span class="quote-tag" id="daily-quote-tag">Hikmet & Tefekkür</span>
+        <button class="quote-refresh-btn" onclick="initDailyQuote()" title="Yeni Hikmet Sözü Getir">🔄 Yenile</button>
+      </div>
+      <div class="quote-text" id="daily-quote-text">"İşçinin ücretini, alın teri kurumadan önce veriniz."</div>
+      <div class="quote-author" id="daily-quote-author">— Hz. Muhammed (s.a.v.)</div>
+    </section>
+
+    <!-- Document Monographs Library -->
+    <section id="kulliyat" style="margin-bottom: 3rem;">
+      <div class="section-header">
+        <h2 class="section-title">📚 Araştırma Monografileri Külliyatı</h2>
+        <div class="filter-tabs">
+          <button class="filter-tab active" onclick="filterCategory('all', this)">Tümü</button>
+          <button class="filter-tab" onclick="filterCategory('Temel Çerçeve', this)">Temel Çerçeve</button>
+          <button class="filter-tab" onclick="filterCategory('Ekonomi Politik', this)">Ekonomi Politik</button>
+          <button class="filter-tab" onclick="filterCategory('İslam İktisadı', this)">İslam İktisadı</button>
+          <button class="filter-tab" onclick="filterCategory('Felsefe & Antropoloji', this)">Felsefe</button>
+          <button class="filter-tab" onclick="filterCategory('Çağdaş Tartışmalar', this)">Yapay Zeka & Gelecek</button>
+        </div>
+      </div>
+
+      <div class="docs-grid" id="docs-grid-container">
+        <!-- Rendered via JS -->
+      </div>
+    </section>
+
+    <!-- Comparison Matrix Section -->
+    <section id="mukayese" style="margin-bottom: 3.5rem;">
+      <div class="section-header">
+        <h2 class="section-title">⚖️ Büyük Mukayese Matrisi</h2>
+        <span style="font-size: 0.85rem; color: var(--text-muted);">Marksizm vs Kapitalizm vs İslam İktisadı</span>
+      </div>
+
+      <div class="matrix-container">
+        <table class="matrix-table">
+          <thead>
+            <tr>
+              <th style="width: 22%;">Temel Boyut / Eksen</th>
+              <th style="width: 26%; color: var(--accent-crimson);">🚩 Marksizm & Sosyalizm</th>
+              <th style="width: 26%; color: var(--accent-amber);">🏛️ Serbest Piyasa Kapitalizmi</th>
+              <th style="width: 26%; color: var(--accent-emerald);">🌙 İslam İktisadı & Tevhid</th>
+            </tr>
+          </thead>
+          <tbody id="matrix-tbody">
+            <!-- Rendered via JS -->
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Concepts Dictionary -->
+    <section id="kavramlar" style="margin-bottom: 3.5rem;">
+      <div class="section-header">
+        <h2 class="section-title">📖 Temel Kavramlar & Tashih Kılavuzu</h2>
+        <span style="font-size: 0.85rem; color: var(--text-muted);">Terimlerin Batı ve İslami Anlam Haritası</span>
+      </div>
+
+      <div class="docs-grid" id="concepts-list-container">
+        <!-- Rendered via JS -->
+      </div>
+    </section>
+
+    <!-- Historical Timeline -->
+    <section id="kronoloji" style="margin-bottom: 3.5rem;">
+      <div class="section-header" style="justify-content: center; text-align: center; flex-direction: column; gap: 0.5rem;">
+        <h2 class="section-title">⏱️ Tarihsel Dönüm Noktaları Kronolojisi</h2>
+        <p style="font-size: 0.9rem; color: var(--text-secondary); max-width: 600px;">1818'den günümüze düşünce tarihi, devrimler ve İslam dünyasındaki yansımaları</p>
+      </div>
+
+      <div class="timeline-list" id="timeline-container">
+        <!-- Rendered via JS -->
+      </div>
+    </section>
+
+    <!-- 12-Week Interactive Curriculum Tracker -->
+    <section id="mufredat" style="margin-bottom: 3.5rem;">
+      <div class="section-header">
+        <div>
+          <h2 class="section-title">🎓 12 Haftalık İlim ve Araştırma Müfredatı</h2>
+          <p style="font-size: 0.85rem; color: var(--text-muted); margin-top: 0.2rem;">Haftalık ilerlemenizi işaretleyin; veriler tarayıcınızda saklanır.</p>
+        </div>
+        <span class="quiz-badge" id="study-progress-percent">%0 Tamamlandı (0/12 Hafta)</span>
+      </div>
+
+      <div id="curriculum-container" style="max-width: 850px; margin: 0 auto;">
+        <!-- Rendered via JS -->
+      </div>
+    </section>
+
+    <!-- Interactive Quiz Assessment -->
+    <section id="quiz" style="margin-bottom: 4rem;">
+      <div class="section-header" style="justify-content: center; text-align: center; flex-direction: column; gap: 0.5rem;">
+        <h2 class="section-title">🎯 İnteraktif Kavrayış ve Bilgi Testi</h2>
+        <p style="font-size: 0.9rem; color: var(--text-secondary); max-width: 600px;">Marksizm, Das Kapital ve İslam iktisadı konularındaki yetkinliğinizi test edin</p>
+      </div>
+
+      <div class="quiz-container" id="quiz-question-box">
+        <!-- Rendered via JS -->
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Fullscreen Interactive Reader Modal -->
+  <div class="reader-view" id="reader-modal">
+    <div class="reader-topbar">
+      <div style="display: flex; align-items: center; gap: 1rem;">
+        <button class="btn-icon" onclick="closeDocumentReader()" title="Kapat (Esc)">✕</button>
+        <h3 id="reader-doc-title" style="font-size: 1.1rem; font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 400px;">Doküman Başlığı</h3>
+      </div>
+      <div class="reader-tools">
+        <button class="btn-secondary" id="tts-toggle-btn" onclick="toggleSpeech()" style="padding: 0.4rem 0.8rem; font-size: 0.85rem;">
+          🔊 Sesli Dinle
+        </button>
+        <button class="btn-icon" onclick="window.print()" title="Yazdır / PDF Olarak Kaydet">🖨️</button>
+      </div>
+      <div class="reader-progress-bar" id="reader-progress-bar"></div>
+    </div>
+    <div class="reader-body">
+      <article class="reader-article" id="reader-doc-body">
+        <!-- Rendered via JS -->
+      </article>
+    </div>
+  </div>
+
+  <!-- Search Modal -->
+  <div class="modal-overlay" id="search-modal" onclick="if(event.target === this) closeSearchModal()">
+    <div class="search-modal">
+      <div class="search-input-wrapper">
+        <span style="font-size: 1.2rem;">🔍</span>
+        <input type="text" id="search-modal-input" class="search-input" placeholder="Kavram, makale veya konu ara (Örn: Artı-değer, Şeriati, Faiz)..." oninput="handleSearchInput(this.value)" />
+        <button class="btn-icon" onclick="closeSearchModal()" style="width: 28px; height: 28px; font-size: 0.8rem;">✕</button>
+      </div>
+      <div class="search-results" id="search-modal-results">
+        <!-- Rendered via JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-links">
+      <a href="#kulliyat">Külliyat</a>
+      <a href="#mukayese">Mukayese Matrisi</a>
+      <a href="#kavramlar">Sözlük</a>
+      <a href="#kronoloji">Kronoloji</a>
+      <a href="#mufredat">Müfredat</a>
+      <a href="https://github.com/bahattinyunus/marksizm-okumalari" target="_blank">GitHub</a>
+    </div>
+    <p>🌙 Marksizm Okumaları: Müslüman Bakış Açısıyla Felsefe, Ekonomi Politik ve Sosyal Adalet</p>
+    <p style="margin-top: 0.5rem; font-size: 0.78rem;">Açık Kaynak MIT Lisansı ile ilim dünyasının ve araştırmacıların istifadesine sunulmuştur.</p>
+  </footer>
+
+  <!-- Main JS -->
+  <script src="app.js"></script>
+</body>
+</html>

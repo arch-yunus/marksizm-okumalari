@@ -1,0 +1,50 @@
+[
+  {
+    "eksen": "Ontoloji (Varlık Kuramı)",
+    "marksizm": "Diyalektik Materyalizm; var olan her şey maddedir, metafizik yanılsamadır.",
+    "kapitalizm": "Pragmatist / Faydacı materyalizm; somut fayda ve maddi zenginlik esastır.",
+    "islam": "Tevhid; gayb ve şehadet alemlerinin birliği, mutlak yaratıcı Allah'tır."
+  },
+  {
+    "eksen": "Mülkiyet Anlayışı",
+    "marksizm": "Üretim araçlarında özel mülkiyetin mutlak ilgası, kolektif devlet mülkiyeti.",
+    "kapitalizm": "Bireysel ve sınırsız özel mülkiyet kutsallığı (Bırakınız yapsınlar).",
+    "islam": "Emanet Mülkiyet (İstihlaf); mülk Allah'ındır, kamu yararı ve infakla sınırlıdır."
+  },
+  {
+    "eksen": "Sermaye ve Faiz (Riba)",
+    "marksizm": "Sermaye birikimi artı-değer gaspına dayanır; faiz finansal asalaklıktır.",
+    "kapitalizm": "Faiz sermayenin meşru getirisidir ve piyasanın temel lokomotifidir.",
+    "islam": "Faiz (Riba) kesinlikle haramdır; servetin tekelleşmesi (Kenz) yasaktır."
+  },
+  {
+    "eksen": "Emek ve Alın Teri",
+    "marksizm": "Değerin tek kaynağı emektir; yabancılaşma devrimle aşılacaktır.",
+    "kapitalizm": "Emek piyasada alınıp satılan alelade bir üretim faktörüdür (Maliyet).",
+    "islam": "Emek kutsaldır, ibadettir; ücret teri kurumadan ve hakkıyla verilmelidir."
+  },
+  {
+    "eksen": "İnsan Tabiatı ve Ruh",
+    "marksizm": "Toplumsal ilişkilerin toplamı; insan üretim şartlarının ürünüdür.",
+    "kapitalizm": "Rasyonel çıkar peşinde koşan bencil birey (Homo Oeconomicus).",
+    "islam": "Fıtrat üzere yaratılmış, ruh ve beden bütünlüğüne sahip ahsen-i takvim."
+  },
+  {
+    "eksen": "Toplumsal Değişim Dinamiği",
+    "marksizm": "Uzlaşmaz sınıf çatışması, şiddetli devrim ve proletarya diktatörlüğü.",
+    "kapitalizm": "Görünmez el, piyasa rekabeti ve sermaye birikimi.",
+    "islam": "Tevhid, adalet, emr-i bi'l-maruf, uhuvvet (kardeşlik) ve infak ahlakı."
+  },
+  {
+    "eksen": "Yabancılaşma Çözümü",
+    "marksizm": "Özel mülkiyetin kaldırılması ve komünist üretim tarzına geçiş.",
+    "kapitalizm": "Daha fazla tüketim, eğlence ve bireysel başarı arayışı.",
+    "islam": "Allah'ı zikir, tefekkür, fıtrata dönüş ve kulluk bilinciyle arınma (Tezkiye)."
+  },
+  {
+    "eksen": "Devletin Rolü",
+    "marksizm": "Egemen sınıfın baskı aygıtı; nihai aşamada sönümlenecektir.",
+    "kapitalizm": "Jandarma devlet; serbest piyasanın ve özel mülkiyetin koruyucusu.",
+    "islam": "Hukukun üstünlüğü, adalet, şûra ve mazlumların korunması nizamı."
+  }
+]

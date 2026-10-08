@@ -218,137 +218,222 @@ flowchart TD
 
 > 💎 **Özel İhtisas Dosyası:** Marksizmin kapitalizm teşhisindeki en çarpıcı hakikatleri, mantıksal doğrulukları ve kapsamlı alıntı antolojisi için: [`docs/marksizmdeki-hakikatler-ve-isabetli-teshisler.md`](docs/marksizmdeki-hakikatler-ve-isabetli-teshisler.md)
 
-### A. Karl Marx & Friedrich Engels (Temel Metinler ve İsabetli Teşhisler)
+---
+
+### A. Karl Marx & Friedrich Engels (Temel Metinler ve Ekonomi Politik Teşhisleri)
+
 > *"Filozoflar dünyayı yalnızca çeşitli biçimlerde yorumlamakla yetindiler; oysa asıl sorun onu değiştirmektir."*  
 > — **Karl Marx**, *Feuerbach Üzerine Tezler* (1845)
 
 > *"Sermaye ölü emektir; vampir gibi ancak canlı emeği emerek yaşar ve ne kadar çok canlı emek emerse o kadar çok yaşar."*  
-> — **Karl Marx**, *Das Kapital*, Cilt 1, Bölüm 10
+> — **Karl Marx**, *Das Kapital*, Cilt 1, Bölüm 10 (Çalışma Günü)
 
-> *"İşçi ne kadar çok zenginlik üretirse, kendisi o kadar yoksul bir meta haline gelir. Nesnelerin dünyasının değer kazanması, insanların dünyasının değersizleşmesiyle doğru orantılıdır."*  
+> *"İşçi ne kadar çok zenginlik üretirse, üretiminin gücü ve hacmi ne kadar artarsa, kendisi o kadar yoksul bir meta haline gelir. Nesnelerin dünyasının değer kazanması, insanların dünyasının değersizleşmesiyle doğru orantılıdır."*  
 > — **Karl Marx**, *1844 İktisadi ve Felsefi Elyazmaları*
 
-> *"Metanın fetiş karakteri: İnsan elinin ürünleri, kendi başlarına yaşayan, insanlarla ilişki kuran bağımsız ilahlara dönüşür. İnsanlar elleriyle yaptıkları nesnelerin (markaların, paranın, borsanın) kölesi olurlar."*  
-> — **Karl Marx**, *Das Kapital*, Cilt 1, Bölüm 1 (Meta Fetişizmi)
+> *"Metanın fetiş karakteri: İnsan elinin ürünleri, kendi başlarına yaşayan, insanlarla ve birbirleriyle ilişki kuran bağımsız ilahlara dönüşür. İnsanlar elleriyle yaptıkları nesnelerin (markaların, paranın, borsanın, fiyat grafiklerinin) kölesi ve müridi olurlar."*  
+> — **Karl Marx**, *Das Kapital*, Cilt 1, Bölüm 1 (Meta Fetişizmi ve Sırrı)
 
 <div align="center">
   <img src="assets/images/commodity-fetishism.jpg" alt="Meta Fetişizmi ve Modern Tüketim Putperestliği" width="90%" style="border-radius: 8px; margin: 12px 0;" />
   <p><em>Görsel 2: Meta Fetişizmi — Paranın ve sermayenin tapınağında insanın kendi ürettiği nesnelere kul olması.</em></p>
 </div>
 
-> *"Sermaye yüzde 100 kârda bütün insani kanunları ayaklar altına alır; yüzde 300 kâr karşısında ise işleyemeyeceği hiçbir cinayet, göze alamayacağı hiçbir cürüm yoktur; darağacı tehdidi altında olsa bile."*  
-> — **T.J. Dunning'den aktaran Karl Marx**, *Das Kapital*, Cilt 1
+> *"Sermaye yüzde 10 kâr karşısında her yere sızar; yüzde 20 kâr heves uyandırır; yüzde 50 kâr cüreti artırır; yüzde 100 kârda bütün insani kanunları ayaklar altına alır; yüzde 300 kâr karşısında ise işleyemeyeceği hiçbir cinayet, göze alamayacağı hiçbir cürüm yoktur; darağacı tehdidi altında olsa bile."*  
+> — **T.J. Dunning'den aktaran Karl Marx**, *Das Kapital*, Cilt 1, 31. Bölüm
 
-> *"Kapitalist üretim, insan ile toprak arasındaki metabolik etkileşimi bozar; bütün zenginliğin asıl kaynağını tüketir: Toprağı ve İşçiyi."*  
-> — **Karl Marx**, *Das Kapital*, Cilt 1 (Metabolik Yarılma / Ekolojik Kriz)
+> *"Kapitalist üretim, insan ile toprak arasındaki metabolik etkileşimi bozar; yani insanın topraktan besin olarak aldığı unsurların toprağa geri dönmesini engeller; böylece toprağın ebedi verimlilik şartlarını tahrip eder. Kapitalist tarımdaki her ilerleme yalnızca emekçiyi soyma sanatında değil, toprağı soyma sanatında da bir ilerlemedir."*  
+> — **Karl Marx**, *Das Kapital*, Cilt 1 (Metabolik Yarılma ve Ekolojik Yıkım)
 
-> *"Faiz getiren sermaye ($M - M'$), sermayenin en fetişleşmiş ve en paraziter biçimidir. Para doğrudan doğruya para doğurur; bu ise en saf haliyle asalaklıktır."*  
-> — **Karl Marx**, *Das Kapital*, Cilt 3, Bölüm 24
+> *"Faiz getiren sermaye ($M - M'$, Paradank Para Doğması), sermaye ilişkisinin en fetişleşmiş, en yabancılaşmış ve en asalak biçimidir. Burada para, hiçbir üretim sürecinden geçmeksizin doğrudan doğruya daha fazla para yaratıyormuş gibi görünür; bu ise tefeciliğin ve finansal sömürünün en saf ve çıplak illüzyonudur."*  
+> — **Karl Marx**, *Das Kapital*, Cilt 3, 24. Bölüm
+
+> *"Egemen sınıfın fikirleri, her çağda egemen fikirlerdir. Toplumun maddi üretim araçlarını elinde bulunduran sınıf, aynı zamanda zihinsel üretim araçlarını da kontrol eder; böylece kendi çıkarlarını bütün toplumun evrensel çıkarıymış gibi sunar."*  
+> — **Karl Marx & Friedrich Engels**, *Alman İdeolojisi* (1846)
+
+> *"Burjuvazi, şimdiye kadar saygı duyulan ve huşu ile bakılan her mesleğin etrafındaki kutsal haleyi söküp attı. Doktoru, avukatı, rahibi, şairi ve bilim insanını kendi ücretli emekçisine dönüştürdü. İnsan ile insan arasında çıplak menfaatten, katı 'nakit ödeme'den başka hiçbir bağ bırakmadı."*  
+> — **Karl Marx & Friedrich Engels**, *Komünist Manifesto* (1848)
+
+> *"Makineler insanı işinden etmekle kalmaz; çalışan insanı makinenin canlı bir vidasına, ritmine ve hızına mahkum bir aparatına dönüştürür. İnsan aklı ve yaratıcılığı makinenin yazılımına aktarılırken, emekçi aptallaştırılır."*  
+> — **Karl Marx**, *Grundrisse* (Makineler Üzerine Fragman)
 
 ---
 
-### B. Devrim ve Emperyalizm (Lenin, Luxemburg, Troçki, Fanon)
-> *"Emperyalizm; mali sermayenin ve tekellerin dünyayı paylaştığı, asalak ve son aşamadır."*  
-> — **V. I. Lenin**, *Emperyalizm* (1916)
+### B. Devrim, Emperyalizm ve Küresel Sömürü (Lenin, Luxemburg, Fanon, Samir Amin, Sankara)
 
-> *"Kapitalizm varlığını sürdürebilmek için kapitalist olmayan coğrafyaları, geleneksel tarım toplumlarını ve Doğulu halkları zorla ve kanla kendi pazarına katmak zorundadır."*  
+> *"Emperyalizm; kapitalizmin tekellerin ve mali sermayenin egemenliğinin kurulduğu, sermaye ihracının birinci derecede önem kazandığı, dünyanın uluslararası tröstler arasında paylaşıldığı ve bütün toprakların en büyük kapitalist güçler arasında bölüşülmesinin tamamlandığı aşamadır."*  
+> — **V. I. Lenin**, *Emperyalizm: Kapitalizmin En Yüksek Aşaması* (1916)
+
+> *"Kapitalizm tek başına kapalı bir sistem olarak yaşayamaz; varlığını sürdürebilmek ve kâr oranlarındaki düşüşü telafi edebilmek için kapitalist olmayan coğrafyaları (İslam alemini, Afrika'yı, Asya köylüsünü) zorla, borçla ve savaşla kendi talan sahasına katmak mecburiyetindedir."*  
 > — **Rosa Luxemburg**, *Sermaye Birikimi* (1913)
 
-> *"Özgürlük, daima ve sadece farklı düşünenin özgürlüğüdür."*  
-> — **Rosa Luxemburg**, *Rus Devrimi Üzerine*
+> *"Özgürlük, daima ve sadece farklı düşünenin özgürlüğüdür. Bu bir adalet fanatizmi değil; eleştirel aklın ve hakikatin yegâne nefes alma borusudur."*  
+> — **Rosa Luxemburg**, *Rus Devrimi Üzerine* (1918)
 
-> *"Sömürgecilik ezilen halkın yalnızca bedenini değil, zihnini ve geçmişini de tahrif eder."*  
-> — **Frantz Fanon**, *Yeryüzünün Lanetlileri*
+> *"Sömürgecilik ezilen halkın yalnızca bugünkü bedenini ve toprağını gasp etmekle kalmaz; geçmişini tahrif eder, kültürünü aşağılar, dilini unutturur ve onu kendi efendisine hayran bir 'zihinsel köle' haline getirir."*  
+> — **Frantz Fanon**, *Yeryüzünün Lanetlileri* (1961)
+
+> *"Beyaz efendinin diliyle düşünen, onun standartlarıyla kendi derisini tartan sömürgeleştirilmiş zihin, özgürleştiğini sandığı anda dahi sömürgecinin aynasındaki bir gölgeden ibarettir."*  
+> — **Frantz Fanon**, *Siyah Deri, Beyaz Maskeler* (1952)
+
+> *"Küresel kapitalist sistem, doğası gereği 'Eşitsiz Değişim' üretir. Merkez ülkeler çevre ülkelere teknoloji satıp onların hammaddesini ve ucuz emeğini emerek onları kalıcı bir 'Azgelişmişlik' tuzağına mahkûm eder. Çözüm, küresel sermaye zincirinden radikal bir kopuştur (Delinking)."*  
+> — **Samir Amin**, *Eşitsiz Gelişme ve Emperyalizm*
+
+> *"Bizi borçlandıranlar, bizi sömürenlerdir. Dış borç, Afrika'yı ve ezilen halkları yeniden sömürgeleştirmenin modern, kravatlı ve kan dökmeden uygulanan en vahşi mekanizmasıdır. Eğer bu borcu ödemezsek emperyalistler ölmez; ama ödersek halkımız açlıktan ölür!"*  
+> — **Thomas Sankara**, *Afrika Birliği Konuşması* (1987)
+
+> *"Kapitalizmin mantığı insani ihtiyaçları karşılamak değil, sermayeyi genişletmektir. Bu yüzden bir yanda tonlarca gıda denize dökülürken diğer yanda çocuklar açlıktan ölür; çünkü aç insanın cebinde satın alma gücü yoktur."*  
+> — **Che Guevara**, *Sosyalizm ve İnsan* (1965)
 
 ---
 
 ### C. İslam Mütefekkirleri, Âlimleri ve Sosyal Adalet Mirası
 
-#### 📖 İlahi Vahiy ve Nebevi Sünnetten İktisadi İlkeler
-> *"Ey iman edenler! Hahamlardan ve rahiplerden birçoğu insanların mallarını haksız yollarla yerler ve Allah'ın yolundan alıkoyarlar. Altın ve gümüşü yığıp da (kenz edip) onları Allah yolunda infak etmeyenleri yakıcı bir azapla müjdele!"*  
+#### 📖 İlahi Vahiy ve Nebevi Sünnetten İktisadi & Ahlaki İlkeler
+
+> *"Mallar, içinizden yalnızca zenginler arasında elden ele dolaşan bir servet gücü (tahakküm tekeli) olmasın!"*  
+> — **Kur'an-ı Kerim**, Haşr Suresi, 7. Ayet
+
+> *"Ey iman edenler! Hahamlardan ve rahiplerden birçoğu insanların mallarını haksız yollarla yerler ve Allah'ın yolundan alıkoyarlar. Altın ve gümüşü yığıp da (kenz edip/tekelleştirip) onları Allah yolunda infak etmeyenleri yakıcı bir azapla müjdele!"*  
 > — **Kur'an-ı Kerim**, Tevbe Suresi, 34. Ayet
 
-> *"Allah faizi (ve faizli kazançları) mahveder; sadakaları ise bereketlendirip artırır."*  
-> — **Kur'an-ı Kerim**, Bakara Suresi, 276. Ayet
+> *"Karun, 'Bu servet bana ancak bendeki bilgi ve beceri sayesinde verilmiştir' dedi. Bilmez miydi ki Allah, ondan önceki nesillerden kendisinden çok daha güçlü ve servetçe daha üstün nicelerini helak etmiştir? Nihayet Biz onu da sarayını da yerin dibine geçirdik!"*  
+> — **Kur'an-ı Kerim**, Kasas Suresi, 78-81. Ayetler
 
-> *"Ölçüde ve tartıda hile yapanların vay haline! Onlar insanlardan alırken tastamam ölçerler; kendileri onlara sattıklarında ise eksik verirler."*  
-> — **Kur'an-ı Kerim**, Mutaffifîn Suresi, 1-3. Ayetler
+> *"Faiz (riba) yiyenler, ancak şeytan çarpmış kimsenin kalktığı gibi kalkarlar. Bu, onların 'Alışveriş de faiz gibidir' demelerindendir. Oysa Allah alışverişi helal, faizi ise haram kılmıştır... Eğer faizi terk etmezseniz, Allah'a ve Resulü'ne karşı savaş açtığınızı bilin!"*  
+> — **Kur'an-ı Kerim**, Bakara Suresi, 275-279. Ayetler
 
-> *"İşçinin hakkını teri kurumadan veriniz."*  
+> *"Çoklukla övünmek (servet, güç ve tüketim yarışı) sizi kabirlere varıncaya kadar oyalayıp aldattı!"*  
+> — **Kur'an-ı Kerim**, Tekâsür Suresi, 1-2. Ayetler
+
+> *"Gördün mü o dini/hesap gününü yalanlayanı? İşte o, yetimi itip kakar; yoksulu doyurmaya önayak olmaz. Vay haline o namaz kılanların ki, onlar namazlarından gafildirler; gösteriş yaparlar ve en ufak bir yardıma (mâûna) dahi engel olurlar!"*  
+> — **Kur'an-ı Kerim**, Mâûn Suresi, 1-7. Ayetler
+
+> *"İşçinin hakkını ve ücretini, alın teri kurumadan önce veriniz."*  
 > — **Hz. Muhammed (s.a.v.)**, (İbn Mâce, Rühûn, 4)
 
-> *"Hiç kimse elinin emeğinden daha hayırlı bir yiyecek asla yememiştir. Allah'ın Peygamberi Dâvûd (a.s.) da kendi elinin emeğini yerdi."*  
+> *"Hiç kimse elinin emeğinden ve alın terinden daha hayırlı bir rızık asla yememiştir. Allah'ın Peygamberi Dâvûd (a.s.) da kendi elinin emeğini yerdi."*  
 > — **Hz. Muhammed (s.a.v.)**, (Buhârî, Büyû', 15)
 
-> *"Piyasaya mal getiren rızıklandırılır; fiyatları yükseltmek için mal saklayan (ihtikar/karaborsa yapan) ise lanetlenmiştir."*  
+> *"Piyasaya helal mal getiren rızıklandırılır; fiyatları yükseltip halkı mağdur etmek için mal saklayan (ihtikar/tekelcilik yapan) ise lanetlenmiştir."*  
 > — **Hz. Muhammed (s.a.v.)**, (İbn Mâce, Ticârât, 6)
 
+> *"Müslümanlar üç şeyde ortaktır: Suda, merada ve enerjide (ateşte). Bunların tekelleştirilmesi ve halktan esirgenmesi haramdır."*  
+> — **Hz. Muhammed (s.a.v.)**, (Ebû Dâvûd, Büyû', 60)
+
 ---
 
-#### 🧠 Müslüman Düşünürlerin Tahlilleri
-> *"Sosyalizm ve Marksizm insanın karnını doyurmak için ruhunu ve hürriyetini feda etti; Kapitalizm ise hürriyet adı altında insanı doymak bilmez sermayenin kölesi kıldı. İslam; madde ile ruhu, ferdî teşebbüs ile toplumsal adaleti tek bir Tevhidî potada birleştiren yegâne üçüncü yoldur."*  
+#### 🧠 Müslüman Düşünürlerin, Filozofların ve Mücahitlerin Tahlilleri
+
+> *"Sosyalizm ve Marksizm insanın karnını doyurmak için ruhunu ve hürriyetini feda etti; Kapitalizm ise hürriyet adı altında insanı doymak bilmez sermayenin ve tüketim çarkının kölesi kıldı. İslam; madde ile ruhu, ferdî mesuliyet ile toplumsal adaleti tek bir Tevhidî potada birleştiren yegâne hakiki nizamdır."*  
 > — **Aliya İzzetbegoviç**, *Doğu ve Batı Arasında İslam*
 
-> *"Her kazanç ve zenginliğin kaynağı insan emeğidir. Emek olmaksızın hiçbir madde kendiliğinden zenginliğe dönüşmez. Devlet ve yöneticiler haksız vergilerle ve tekelleşmeyle halkın emeğine el koyduğunda medeniyet çöker ve umran yok olur."*  
+> *"Bir ülkede adalet olmadan kalkınma olmaz. Yönetici halkın zenginleşmesini vergilendirmekten önce, halkın refahını ve emniyetini artırmayı hedeflemelidir. Çünkü vergi toplamak, imar ve adaletin meyvesidir; imar olmadan vergi koyanlar, süt almak için ineği kesen akılsızlara benzerler."*  
+> — **Hz. Ali (r.a.)**, *Nehcü'l-Belâğa* (Mısır Valisi Mâlik b. el-Eşter'e Tarihi Emirname)
+
+> *"Her kazanç ve zenginliğin yegâne hakiki kaynağı insan emeğidir. Emek olmaksızın yeryüzündeki hiçbir maden, toprak veya hammadde kendiliğinden servete dönüşmez. Devlet haksız vergilerle ve tekelleşmeyle halkın emeğine el koyduğunda üretim durur, umran çöker ve medeniyet yok olur."*  
 > — **İbn Haldun**, *Mukaddime* (1377)
 
-> *"Para, Allah'ın kulları arasında adaleti kursun diye yarattığı bir ölçü aracıdır; onun kendisinde bir amaç yoktur. Parayı faizle çoğaltıp kendi başına gaye kılanlar, yaratılış fıtratını tersyüz eden zalimlerdir."*  
-> — **İmam Gazali**, *İhyâu Ulûmi'd-Dîn*
+> *"Para, Allah'ın kulları arasında adaleti ve mübadeleyi sağlasın diye yarattığı bir ölçü aracı ve aynadır; onun kendi zatında bir faydası ve amacı yoktur. Parayı faizle çoğaltıp kendi başına bir meta ve gaye kılanlar, yaratılış fıtratını tersyüz eden ve parayı kısır bir kadından çocuk bekler gibi işleten zalimlerdir."*  
+> — **İmam Gazali**, *İhyâu Ulûmi'd-Dîn* (Kitâbu'l-Helâl ve'l-Harâm)
 
-> *"Tarih boyunca iki din savaşmıştır: Biri sarayların, Karunların ve Firavunların 'Şirk Dini'; diğeri ise ezilenlerin ve peygamberlerin 'Tevhid Dini'dir. Ebu Zer el-Gıfari, Muaviye'nin yeşil sarayına karşı 'Altın ve gümüşü yığıp infak etmeyenleri yakıcı bir azapla müjdele!' ayetini haykırırken hakiki İslam'ın ta kendisiydi."*  
-> — **Dr. Ali Şeriati**, *Dine Karşı Din*
+> *"Tarih boyunca iki din savaşmıştır: Biri sarayların, Karunların, Bel'amların ve Firavunların 'Şirk Dini'; diğeri ise ezilenlerin, mustazafların ve peygamberlerin 'Tevhid Dini'dir. Ebu Zer el-Gıfari, Muaviye'nin yeşil sarayına karşı 'Altın ve gümüşü yığıp infak etmeyenleri yakıcı bir azapla müjdele!' ayetini haykırırken, sınıfsız ve sömürüsüz Tevhid nizamının bayraktarıydı."*  
+> — **Dr. Ali Şeriati**, *Dine Karşı Din* & *Ebu Zer*
 
-> *"Lenin Allah'ın Huzurunda der ki: 'Ey Kâinatın Rabbi! Yeryüzünde kiliseler tefecilerin kasası olmuştu; bankalar ise yeni tapınaklar... Ben o putları kırdım ama ruhun boşluğunu dolduramadım.' Doğu'nun aradığı diriliş, Batı'nın çürümüş parası değil, İslam'ın adalet ve aşk nizamıdır."*  
+> *"Tevhid sadece göklerde bir Tanrı'nın varlığına inanmak değildir; Tevhid, yeryüzünde kula kulluğun, sınıfsal tahakkümün, ırkçılığın ve Karunlaşmanın kökünü kazıyan bir dünya görüşüdür. La ilahe illallah demek; bütün tağutlara, istikbar odaklarına ve sermaye putlarına 'Hayır!' demektir."*  
+> — **Dr. Ali Şeriati**, *İslam Sosyolojisi Üzerine*
+
+> *"Lenin Allah'ın Huzurunda der ki: 'Ey Kâinatın Sahibi! Yeryüzünde kiliseler tefecilerin kasası, bankalar ise yeni tapınaklar olmuştu; ben o putları kırdım ama kalplerdeki manevi boşluğu dolduramadım.' Doğu'nun aradığı diriliş, Batı'nın çürümüş parası ve kaba maddeciliği değil; İslam'ın aşk, adalet ve hikmet nizamıdır."*  
 > — **Muhammed İkbal**, *Cavidnâme / Peyam-ı Maşrık*
 
-> *"İslam'da mülkiyet mutlak değil, emanettir. Asıl mülk Allah'ındır. Toplumdaki yoksulun zenginin malı üzerindeki hakkı (zekat ve infak), bir lütuf değil, ödenmesi mecburi ilahi bir vergidir."*  
+> *"İslam'da mülkiyet mutlak değil, emanettir. Mülkün mutlak sahibi Allah'tır. Toplumdaki yoksulun, yetimin ve mazlumun zenginin malı üzerindeki hakkı (zekat ve infak), bir lütuf veya sadaka değil; hakkın sahibine iadesidir."*  
 > — **Seyyid Kutub**, *İslam'da Sosyal Adalet* (1949)
 
-> *"Fransız Komünist Partisi'nin baş ideoloğuyken gördüm ki; Marksizm maddi yabancılaşmayı teşhis ederken insanı metafizik bir çölün ortasında yapayalnız bıraktı. İslam ise adaleti semadan koparmayan, insanı kâinatın halifesi kılan tek hakikattir."*  
+> *"Fransız Komünist Partisi'nin baş ideoloğuyken gördüm ki; Marksizm kapitalizmin maddi çelişkilerini teşhis ederken insanı metafizik bir çölün ortasında yapayalnız bıraktı. İnsanı sadece üreten bir hayvana indirgedi. İslam ise adaleti semadan koparmayan, insanı kâinatın şerefli emanetçisi kılan tek hakikattir."*  
 > — **Roger Garaudy**, *Geleceğimizde İslam Var* & *İslam'ın Vadettikleri*
 
-> *"Bizim sosyalizmimiz, Batı'nın sınıf kini üzerine kurulu materyalist kavgası değil; İslam'ın merhamet, infak ve alın teri ahlakına dayanan Anadolu ruhçuluğudur."*  
-> — **Nurettin Topçu**, *İslam ve Sosyalizm*
+> *"Bir toplum sömürülmeye elverişli hale gelmedikçe (kabiliyet-i istimar), emperyalistler orayı işgal edemez. Batı'nın sömürgeciliği dışsal bir mikroptur; ama o mikrop ancak içerideki fikri ve ahlaki çürüme zemin bulduğunda bünyeyi hasta eder. Kurtuluş, nefsi ve aklı Tevhid ekseninde yeniden inşa etmektir."*  
+> — **Malik bin Nebi**, *Sömürgecilik ve Sömürülmeye Yatkınlık*
 
-> *"Batı maddeyi putlaştırdı, Doğu maddeyi küçümsedi. İslam ise maddeyi ruhun emrine vererek hakiki adaleti kurdu."*  
-> — **Sezai Karakoç**, *Diriliş Neslinin Âmentüsü*
+> *"Bizim kavgamız, Batı'nın sınıf kini üzerine kurulu materyalist kavgası değildir. Bizim kavgamız; İslam'ın merhamet, infak ve alın teri ahlakına dayanan Anadolu ruhçuluğudur. Sermayenin tekelleşmesine karşı duruşumuz imandandır."*  
+> — **Nurettin Topçu**, *İslam ve Sosyalizm* & *İsyan Ahlakı*
 
-> *"Sosyalizm kapitalizmin gayrimeşru çocuğudur; aynı materyalist gövdeden doğmuştur. Gerçek direniş faiz ve sömürü çarkına çomak sokan Müslümanca bir şahsiyetle başlar."*  
-> — **İsmet Özel**, *Üç Mesele*
+> *"Marksizm, Batı'nın kendi içinde ürettiği en radikal özkritiktir. Fakat bir Hristiyan sapmasıdır; kiliseye isyan ederken Tanrı'yı da inkâr etmiş, materyalizmin batağına saplanmıştır. Doğu insanı, Batı'nın bu iç kavgasında taraf olmak zorunda değildir; bizim meşalemiz Tevhid'dir."*  
+> — **Cemil Meriç**, *Umrandan Uygarlığa* & *Bu Ülke*
 
-> *"Kapitalizm akbaba gibidir; sömürü kapitalizmin doğasında vardır. İslam ise bütün ırkları ve sınıfları tek bir ilahi potada kardeş kılan hakikattir."*  
-> — **Malcolm X (El-Hac Mâlik el-Şahbaz)**, 1964
+> *"Batı maddeyi putlaştırdı, Doğu ise maddeyi küçümseyip tembelliğe düştü. İslam ise maddeyi ruhun emrine vererek hakiki medeniyeti kurdu. Diriliş nesli; ne kapitalizmin faizli saraylarına ne de komünizmin ruhsuz kışlalarına boyun eğecektir."*  
+> — **Sezai Karakoç**, *Diriliş Neslinin Âmentüsü* & *İslam Toplumunun Ekonomik Strüktürü*
+
+> *"Müslümanlar kapitalizmin şartlarına intibak ettikçe Müslümanlıklarından ödün verirler. Sosyalizm kapitalizmin gayrimeşru çocuğudur; aynı pozitivist gövdeden çıkmıştır. Gerçek direniş faiz, borsa ve sömürü çarkına çomak sokan tavizsiz bir Müslümanca şahsiyetle başlar."*  
+> — **İsmet Özel**, *Üç Mesele* & *Waldo Sen Neden Burada Değilsin?*
+
+> *"Kapitalizm akbaba gibidir; sömürü kapitalizmin fıtratında vardır, kan emmeden yaşayamaz. İslam ise bütün ırkları, renkleri ve sınıfları tek bir ilahi potada kardeş kılan, adaleti yeryüzüne hâkim kılan yegâne hakikattir."*  
+> — **Malcolm X (El-Hac Mâlik el-Şahbaz)**, *Son Konuşmalar* (1964)
+
+> *"Kapitalizmin en büyük tahribatı, insanın 'ihtiyaç' kavramını tahrif etmesidir. İnsana gerçekte ihtiyacı olmayan binlerce metaı ihtiyaçmış gibi dayatarak onu bitmek bilmez bir tüketim yarışının ve borç köleliğinin içine hapseder."*  
+> — **Rasim Özdenören**, *Müslümanca Düşünme Üzerine Denemeler*
 
 ---
 
-### D. Eleştirel Teori, Çağdaş Marksizm ve Felsefi Alıntılar
+### D. Eleştirel Teori, Çağdaş Felsefe ve Dijital Kapitalizm Tahlilleri
 
-> *"Tarihsel materyalizm, satranç oynayan bir otomat gibidir. Her hamleyi kazanabilir; ancak arkasında gizlenen ve ipleri elinde tutan çirkin teolojik cüceden (metafizik/ahlak arayışından) yardım aldığı sürece."*  
+> *"Tarihsel materyalizm, satranç oynayan bir otomat gibidir. Her hamleyi kazanabilir; ancak arkasında gizlenen ve ipleri elinde tutan çirkin teolojik cüceden (metafizik hakikat ve ilahi adalet arayışından) yardım aldığı sürece."*  
 > — **Walter Benjamin**, *Tarih Felsefesi Üzerine Tezler* (1940)
 
-> *"Kültür endüstrisi, kitleleri sürekli olarak vaat edilen şeylerle eğlendirirken, onları düşünmekten ve isyan etmekten alıkoyar. Reklamlar ve popüler kültür, modern insanın bilincini felç eden yeni afyondur."*  
+> *"Kültür endüstrisi, kitleleri sürekli olarak vaat edilen şeylerle eğlendirirken, onları düşünmekten, sorgulamaktan ve isyan etmekten alıkoyar. Reklamlar, eğlence sektörü ve popüler kültür; modern insanın bilincini felç eden yeni ve kusursuz bir kitle afyonudur."*  
 > — **Theodor W. Adorno & Max Horkheimer**, *Aydınlanmanın Diyalektiği* (1947)
 
-> *"Egemen sınıf sadece polisi ve ordusuyla hükmetmez; okullar, medya ve kültür aracılığıyla ezilenlerin rızasını (hegemonya) üreterek onların kendi köleliklerini meşru görmelerini sağlar."*  
+> *"Çağdaş endüstri toplumu insanı tek boyutlu hale getirmiştir. İhtiyaçlarımız bile sermaye tarafından imal edilir. İnsanlar sahip oldukları eşyalarla kendilerini tanımlar; ruhunu otomobilinde, televizyonunda ve ev aletlerinde bulur."*  
+> — **Herbert Marcuse**, *Tek Boyutlu İnsan* (1964)
+
+> *"Egemen sınıf sadece polisi ve ordusuyla hükmetmez; okullar, medya, sanat ve kültürel kurumlar aracılığıyla ezilenlerin rızasını (Kültürel Hegemonya) üreterek onların kendi köleliklerini 'sağduyu' ve kaçınılmaz kader olarak görmelerini sağlar."*  
 > — **Antonio Gramsci**, *Hapishane Defterleri*
 
-> *"Bugün dünyanın sonunu hayal etmek, kapitalizmin sonunu hayal etmekten daha kolay hale gelmiştir. Kapitalist gerçekçilik, başka hiçbir alternatifin mümkün olmadığını fısıldayan sinsi bir zihinsel hapishanedir."*  
+> *"Devlet sadece kaba zor aygıtlarıyla değil; İdeolojik Devlet Aygıtları (okul, aile, medya, hukuk) yoluyla bireyleri ideolojinin içine 'özne' olarak çağırır (interpellation) ve onları kurulu düzenin itaatkâr çarkları yapar."*  
+> — **Louis Althusser**, *İdeoloji ve Devletin İdeolojik Aygıtları* (1970)
+
+> *"Gerçek dünyanın basit imgelere dönüştüğü gösteri toplumunda, imgeler gerçek güçler ve hipnotik davranış modelleri haline gelir. Sahip olmanın yerini 'görünmek' almıştır; gösteri, metanın toplumsal hayatı bütünüyle işgal etmesidir."*  
+> — **Guy Debord**, *Gösteri Toplumu* (1967)
+
+> *"Bugün dünyanın sonunu hayal etmek, kapitalizmin sonunu hayal etmekten daha kolay hale gelmiştir. Kapitalist gerçekçilik, başka hiçbir alternatifin mümkün olmadığını fısıldayan sinsi ve görünmez bir zihinsel hapishanedir."*  
 > — **Mark Fisher**, *Kapitalist Gerçekçilik* (2009)
 
-> *"Kapitalizm sadece fabrikada artı-değer üreterek değil; kamu mallarını özelleştirerek, doğal kaynakları yağmalayarak ve halkları borçlandırarak 'Mülksüzleştirme Yoluyla Birikim' yapar."*  
-> — **David Harvey**, *Yeni Emperyalizm* (2003)
+> *"Kapitalizm sadece fabrikada artı-değer üreterek büyümez; kamu mallarını özelleştirerek, doğal kaynakları yağmalayarak, barınma hakkını finansallaştırarak ve halkları borçlandırarak 'Mülksüzleştirme Yoluyla Birikim' yapar."*  
+> — **David Harvey**, *Yeni Emperyalizm* & *Sermayenin On Yedi Çelişkisi*
+
+> *"Gözetim Kapitalizmi; insan deneyimini davranışsal veri biçiminde bedava hammadde olarak tekellerin mülkiyetine geçirir. Artık müşteri değil, bizzat satılan hammadde ve manipüle edilen ürün biziz."*  
+> — **Shoshana Zuboff**, *Gözetim Kapitalizmi Çağı* (2019)
+
+> *"21. yüzyılın disiplin toplumu yerini 'Başarı Toplumu'na bırakmıştır. Artık insan bir efendi tarafından zorla sömürülmez; kendi kendisinin patronu ve kölesi olarak 'kendini gönüllüce sömürür' ve tükenmişlik krizine sürüklenir."*  
+> — **Byung-Chul Han**, *Yorgunluk Toplumu* & *Psikopolitika*
+
+> *"Kapitalizmin en büyük ideolojik zaferi, kendisini 'doğal insan doğasının kaçınılmaz sonucu' olarak yutturmasıdır. Oysa krizler birer kaza değil, sistemin bizzat motorudur."*  
+> — **Slavoj Žižek**, *Gıdıklanan Özne* & *İdeolojinin Yüce Nesnesi*
 
 ---
 
 ### E. Dışarıdan Yöneltilen Eleştiriler (Liberalizm, Anarşizm ve Bilim Felsefesi)
-> *"Devlet varsa tahakküm vardır. Marksistlerin 'Halk Devleti' adını verdikleri şey, küçük bir bürokrat azınlığın despotizmidir. Sopanın adına 'Halkın Sopası' denmesi acıyı dindirmez."*  
-> — **Mihail Bakunin**, *Devlet ve Anarşi*
 
-> *"Piyasa fiyatları olmadan rasyonel ekonomik hesaplama yapılamaz; merkezi planlama karanlıkta el yordamıyla yürümektir."*  
-> — **Ludwig von Mises**, *Ekonomik Hesaplama*
+> *"Devlet varsa kaçınılmaz olarak tahakküm ve kölelik vardır. Marksistlerin 'Proletarya Diktatörlüğü' veya 'Halk Devleti' adını verdikleri şey, küçük bir imtiyazlı bürokrat azınlığın halk üzerindeki despotizmidir. Sopanın adına 'Halkın Sopası' denmesi, sırtına vurulan halkın acısını dindirmez."*  
+> — **Mihail Bakunin**, *Devlet ve Anarşi* (1873)
 
-> *"Marksizm gerçekleşmeyen kehanetlerini kurtarmak için yardımcı hipotezlerle dogmatik bir sözde-bilim haline gelmiştir."*  
-> — **Karl Popper**, *Açık Toplum ve Düşmanları*
+> *"Mülkiyet hırsızlıktır! Fakat mülkiyeti tek bir devlete devretmek de bütün toplumu o devletin kölesi yapmaktır."*  
+> — **Pierre-Joseph Proudhon**, *Mülkiyet Nedir?* (1840)
+
+> *"Serbest piyasa fiyatları olmaksızın rasyonel ekonomik hesaplama yapmak imkânsızdır. Üretim araçlarının mülkiyeti tek elde toplandığında hiçbir bürokrasi milyonlarca insanın anlık ihtiyaç ve tercihlerini doğru planlayamaz; merkezi planlama karanlıkta el yordamıyla yürümektir."*  
+> — **Ludwig von Mises**, *Sosyalizm: İktisadi ve Sosyolojik Bir Analiz* (1922)
+
+> *"Ekonomik faaliyetlerin tek bir merkezden planlanması, adım adım siyasi ve kişisel hürriyetlerin yok edilmesine ve tiranlığa yol açar. Cenneti yeryüzünde kurma iddiası, daima yeryüzünü cehenneme çeviren 'Kölelik Yolu'dur."*  
+> — **Friedrich August von Hayek**, *Kölelik Yolu* (1944)
+
+> *"Marksizm başlangıçta hakiki bir bilimsel hipotez gibi yola çıktı; ancak öngörüleri (işçilerin mutlak yoksullaşması, gelişmiş sanayi ülkelerinde devrim vb.) yanlışlandıkça, teorisyenleri teoriyi revize edip yanlışlanamaz dogmatik bir inanç/kehanet sistemine dönüştürdüler."*  
+> — **Karl Popper**, *Açık Toplum ve Düşmanları* & *Tarihselciliğin Sefaleti*
+
+> *"Totalitarizm, insanın sadece eylemlerini değil; düşüncesini, vicdanını ve mahremiyetini de tek bir resmi ideolojiye kurban eder. İster sınıf ister ırk adına olsun, mutlak hakikat iddiasındaki ideolojiler insan haysiyetini yok eder."*  
+> — **Hannah Arendt**, *Totalitarizmin Kaynakları* (1951)
+
+> *"Marksizm, 19. yüzyıl sanayileşmesinin yarattığı ıstıraplara verilmiş romantik ve öfkeli bir cevaptır. Ancak aydınların komünizme duyduğu kör inanç, seküler bir din arayışından farksızdır; bu inanç 'Aydınların Afyonu'dur."*  
+> — **Raymond Aron**, *Aydınların Afyonu* (1955)
 
 ---
 

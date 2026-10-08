@@ -2,25 +2,43 @@
   {
     "muellif": "Hz. Muhammed (s.a.v.)",
     "unvan": "İslam Peygamberi",
-    "soz": "İşçinin ücretini, alın teri kurumadan önce veriniz.",
+    "soz": "İşçinin hakkını ve ücretini, alın teri kurumadan önce veriniz.",
     "kategori": "Sosyal Adalet"
   },
   {
     "muellif": "Hz. Ali (r.a.)",
     "unvan": "4. İslam Halifesi",
-    "soz": "Bir yerde bir yoksul açsa, mutlaka bir zenginin israfı ve haksız kazancı yüzündendir.",
+    "soz": "Bir yerde bir yoksul açsa, mutlaka bir zenginin israfı, kenz tutkusu ve haksız kazancı yüzündendir.",
     "kategori": "Adalet & İnfak"
+  },
+  {
+    "muellif": "İbn Haldun",
+    "unvan": "Sosyolog & Tarihçi",
+    "soz": "Her kazanç ve zenginliğin yegâne hakiki kaynağı insan emeğidir. Emek olmaksızın yeryüzündeki hiçbir hammadde kendiliğinden servete dönüşmez.",
+    "kategori": "Emek & Değer"
+  },
+  {
+    "muellif": "İmam Gazali",
+    "unvan": "Hüccetü'l-İslam",
+    "soz": "Para, adaleti kursun diye yaratılmış bir ölçü aynasıdır. Parayı faizle çoğaltıp kendi başına gaye kılanlar, fıtratı tersyüz eden zalimlerdir.",
+    "kategori": "Para & Faiz Eleştirisi"
   },
   {
     "muellif": "Karl Marx",
     "unvan": "Das Kapital Yazarı",
-    "soz": "Sermaye, tepeden tırnağa her gözeneğinden kan ve pislik damlayarak dünyaya gelir.",
+    "soz": "Sermaye ölü emektir; vampir gibi ancak canlı emeği emerek yaşar ve ne kadar çok canlı emek emerse o kadar çok yaşar.",
     "kategori": "Sermaye Eleştirisi"
+  },
+  {
+    "muellif": "Karl Marx",
+    "unvan": "Das Kapital Yazarı",
+    "soz": "Nesnelerin dünyasının değer kazanması, insanların dünyasının değersizleşmesiyle doğru orantılıdır.",
+    "kategori": "Yabancılaşma"
   },
   {
     "muellif": "Ali Şeriati",
     "unvan": "Sosyolog & Mütefekkir",
-    "soz": "Tevhid sadece bir inanç değil; sınıfsız, sömürüsüz ve kula kulluğun bittiği bir dünya nizamıdır.",
+    "soz": "Tevhid sadece göklerde bir Tanrı'ya inanmak değil; sınıfsız, sömürüsüz ve kula kulluğun bittiği bir dünya nizamıdır.",
     "kategori": "Tevhid & Özgürlük"
   },
   {
@@ -36,6 +54,18 @@
     "kategori": "Felsefi Değerlendirme"
   },
   {
+    "muellif": "Malik bin Nebi",
+    "unvan": "Medeniyet Düşünürü",
+    "soz": "Bir toplum sömürülmeye elverişli hale gelmedikçe (kabiliyet-i istimar), emperyalistler orayı işgal edemez.",
+    "kategori": "Anti-Emperyalizm"
+  },
+  {
+    "muellif": "Aliya İzzetbegoviç",
+    "unvan": "Bilge Lider & Düşünür",
+    "soz": "Sosyalizm karnı doyurmak için ruhu feda etti; Kapitalizm insanı sermayenin kölesi kıldı. İslam yegâne üçüncü yoldur.",
+    "kategori": "Medeniyet & Hürriyet"
+  },
+  {
     "muellif": "Nurettin Topçu",
     "unvan": "İslam Ahlakçısı",
     "soz": "İslam sosyalizmi değil; İslam bizzat adaletin, alın terinin ve merhametin kaynağıdır. İsyanımız ahlaksız kazancadır.",
@@ -44,7 +74,7 @@
   {
     "muellif": "Sezai Karakoç",
     "unvan": "Diriliş Mütefekkiri",
-    "soz": "Kapitalizm de komünizm de aynı materyalist gövdenin iki ayrı koludur. İnsanlığın tek hakiki dirilişi İslam medeniyetindedir.",
+    "soz": "Batı maddeyi putlaştırdı, Doğu maddeyi küçümsedi. İslam ise maddeyi ruhun emrine vererek hakiki adaleti kurdu.",
     "kategori": "Diriliş Felsefesi"
   },
   {
@@ -52,5 +82,29 @@
     "unvan": "Şair & Mütefekkir",
     "soz": "Müslümanlar kapitalizmin şartlarına intibak ettikçe Müslümanlıklarından ödün verirler.",
     "kategori": "Mücadele & Tavır"
+  },
+  {
+    "muellif": "Malcolm X",
+    "unvan": "İslam Savunucusu",
+    "soz": "Kapitalizm akbaba gibidir; sömürü kapitalizmin doğasında vardır. İslam bütün ırkları tek potada kardeş kılar.",
+    "kategori": "Sosyal Adalet"
+  },
+  {
+    "muellif": "Thomas Sankara",
+    "unvan": "Anti-Emperyalist Lider",
+    "soz": "Bizi borçlandıranlar, bizi sömürenlerdir. Dış borç, modern ve kan dökmeden uygulanan en vahşi sömürüdür.",
+    "kategori": "Anti-Emperyalizm"
+  },
+  {
+    "muellif": "Mark Fisher",
+    "unvan": "Eleştirel Düşünür",
+    "soz": "Bugün dünyanın sonunu hayal etmek, kapitalizmin sonunu hayal etmekten daha kolay hale gelmiştir.",
+    "kategori": "Çağdaş Eleştiri"
+  },
+  {
+    "muellif": "Shoshana Zuboff",
+    "unvan": "Akademisyen & Yazar",
+    "soz": "Gözetim Kapitalizminde müşteri değil, bizzat satılan hammadde ve manipüle edilen ürün biziz.",
+    "kategori": "Gözetim Kapitalizmi"
   }
 ]

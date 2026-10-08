@@ -1,5 +1,9 @@
 # ⚖️ İslam İktisadı, Kapitalizm ve Marksizm: 10 Temel Eksende Karşılaştırmalı İktisat Felsefesi
 
+<div align="center">
+  <img src="../assets/images/islamic-economics-and-infak.jpg" alt="İslam İktisadı, Emanet Mülkiyet ve İnfak" width="100%" style="border-radius: 8px; margin: 15px 0;" />
+</div>
+
 Bu doküman; insanlığın karşı karşıya kaldığı üç büyük iktisadi ve toplumsal düzen anlayışını (**İslam İktisat Nizamı**, **Serbest Piyasa Kapitalizmi** ve **Marksist Sosyalizm**) 10 temel yapısal eksende derinlemesine, fıkhi, felsefi ve kuramsal olarak karşılaştırmaktadır.
 
 ---

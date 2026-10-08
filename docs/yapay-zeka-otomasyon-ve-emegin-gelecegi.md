@@ -1,5 +1,9 @@
 # 🤖 Yapay Zeka, Otomasyon ve Emeğin Geleceği
 
+<div align="center">
+  <img src="../assets/images/ai-and-future-of-labor.jpg" alt="Yapay Zeka ve Emeğin Geleceği" width="100%" style="border-radius: 8px; margin: 15px 0;" />
+</div>
+
 > *"Makineler insanı işinden ettiğinde değil; insanı makinenin bir uzantısına dönüştürdüğünde yabancılaşma zirveye ulaşır."* — Das Kapital Tahlillerinden  
 > *"Biz insanı şerefli ve üstün kıldık (Keramet-i İnsan)..."* — Kur'an-ı Kerim (İsrâ Suresi, 70. Ayet)
 

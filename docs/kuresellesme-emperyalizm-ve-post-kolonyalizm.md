@@ -1,5 +1,9 @@
 # 🌍 Küreselleşme, Emperyalizm ve Post-Kolonyalizm
 
+<div align="center">
+  <img src="../assets/images/imperialism-and-global-justice.jpg" alt="Emperyalizm ve Küresel Adalet" width="100%" style="border-radius: 8px; margin: 15px 0;" />
+</div>
+
 > *"Emperyalizm, kapitalizmin tekeller ve finans kapitalin egemenliği aşamasına ulaşmış en yüksek basamağıdır."* — V.I. Lenin  
 > *"Sömürgecilik sadece toprağı gasp etmez; yerlinin beynini, hafızasını ve maneviyatını da sömürgeleştirir."* — Frantz Fanon (Yeryüzünün Lanetlileri)  
 > *"Bir toplum sömürülmeye elverişli hale gelmedikçe (kabiliyet-i istimar), emperyalistler orayı işgal edemez."* — Malik bin Nebi

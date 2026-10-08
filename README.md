@@ -191,6 +191,11 @@ flowchart TD
 | **9. Nihai Hedef** | **Rıza-i İlahi ve Darusselam:** Dünyada adalet, ahirette ebedi saadet. | **Sınıfsız, Devletsiz Komünist Toplum:** Yeryüzü cenneti vaadi. | **Sonsuz Sermaye Büyümesi:** Tüketim, büyüme ve hissedar kârı. |
 | **10. Maneviyat & Din** | **Tevhid ve Varlık Sebebi:** İmanın, vicdanın ve ahlakın kurucu temeli. | **Tarihsel İllüzyon:** Sınıflı toplumun çaresizlik ürünü (Afyon). | **Pazarlanabilir Meta:** İnançların bile tüketim sektörüne dönüştürülmesi. |
 
+<div align="center">
+  <img src="assets/images/islamic-economics-and-infak.jpg" alt="İslam İktisadı, Emanet Mülkiyet (İstihlaf) ve Sosyal Dayanışma (İnfak)" width="90%" style="border-radius: 8px; margin: 15px 0;" />
+  <p><em>Görsel: İslam İktisadı, Emanet Mülkiyet (İstihlaf) ve İnfak Nizamı — Faizin olmadığı, servetin tabana yayıldığı adil medeniyet pazarı.</em></p>
+</div>
+
 > Detaylı karşılaştırma için: [`docs/islam-iktisadi-ve-kapitalizm-marksizm-karsilastirmasi.md`](docs/islam-iktisadi-ve-kapitalizm-marksizm-karsilastirmasi.md)
 
 ---
@@ -284,6 +289,11 @@ flowchart TD
 
 > *"Kapitalizmin mantığı insani ihtiyaçları karşılamak değil, sermayeyi genişletmektir. Bu yüzden bir yanda tonlarca gıda denize dökülürken diğer yanda çocuklar açlıktan ölür; çünkü aç insanın cebinde satın alma gücü yoktur."*  
 > — **Che Guevara**, *Sosyalizm ve İnsan* (1965)
+
+<div align="center">
+  <img src="assets/images/imperialism-and-global-justice.jpg" alt="Emperyalizme Karşı Direniş, Küresel Dayanışma ve İlahi Adalet Terazisi" width="90%" style="border-radius: 8px; margin: 15px 0;" />
+  <p><em>Görsel: Küresel Adalet ve Mazlumların Dayanışması — Borç zincirlerini kıran ilahi adalet terazisi ve evrensel kardeşlik.</em></p>
+</div>
 
 ---
 
@@ -409,6 +419,11 @@ flowchart TD
 
 > *"Kapitalizmin en büyük ideolojik zaferi, kendisini 'doğal insan doğasının kaçınılmaz sonucu' olarak yutturmasıdır. Oysa krizler birer kaza değil, sistemin bizzat motorudur."*  
 > — **Slavoj Žižek**, *Gıdıklanan Özne* & *İdeolojinin Yüce Nesnesi*
+
+<div align="center">
+  <img src="assets/images/ai-and-future-of-labor.jpg" alt="Yapay Zeka, Otomasyon ve Emeğin Geleceği" width="90%" style="border-radius: 8px; margin: 15px 0;" />
+  <p><em>Görsel: Yapay Zeka, Bilişsel Emek ve Hikmet — Teknolojinin insan onuruna ve adalet nizamına hizmet ettiği dengeli gelecek tasavvuru.</em></p>
+</div>
 
 ---
 
